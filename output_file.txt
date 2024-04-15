@@ -118,11 +118,11 @@ David Khazzam, 2023-03-13, 71
 Anne Khazzam, 2023-03-13, 201
 Jelle, 2023-03-13, 221
 Dad, 2023-03-13, 119
-Cecilia/John Perez/Hagist: 3-13-2023, 63
+John Hagist, 2023-03-13, 63
 Marina Guadagnin, 2023-03-13, 130
 Alan Iny, 2023-03-13, 76
 Mom, 2023-03-13, 338
-Cecilia/John Perez/Hagist: 3-14-2023, 55
+John Hagist, 2023-03-14, 55
 Anne Khazzam, 2023-03-14, 43
 Jelle, 2023-03-14, 118
 Dad, 2023-03-14, 68
@@ -133,17 +133,17 @@ Anne Khazzam, 2023-03-15, 100
 Emma Khazzam, 2023-03-15, 75
 Jelle, 2023-03-15, 124
 Dad, 2023-03-15, 59
-Cecilia/John Perez/Hagist: 3-15-2023, 64
+John Hagist, 2023-03-15, 64
 David Khazzam, 2023-03-15, 33
 David Khazzam, 2023-03-15, 33
 Alan Iny, 2023-03-15, 103
 Mom, 2023-03-16, 128
-Cecilia/John Perez/Hagist: 3-16-2023, 129
+John Hagist, 2023-03-16, 129
 Emma Khazzam, 2023-03-16, 126
 Jelle, 2023-03-16, 102
 Anne Khazzam, 2023-03-16, 51
 Dad, 2023-03-16, 47
-Willow: 3-16-2023, 61
+Willow, 2023-03-16, 61
 David Khazzam, 2023-03-16, 41
 Alan Iny, 2023-03-16, 81
 Emma Khazzam, 2023-03-17, 109
@@ -151,15 +151,15 @@ David Khazzam, 2023-03-17, 66
 Jelle, 2023-03-17, 106
 Dad, 2023-03-17, 123
 Anne Khazzam, 2023-03-17, 43
-Rebecca Benest: 3-17-2023, 53
-Willow: 3-17-2023, 146
+Rebecca Benest, 2023-03-17, 53
+Willow, 2023-03-17, 146
 Alan Iny, 2023-03-17, 106
 David Khazzam, 2023-03-18, 110
-Rebecca Benest: 3-18-2023, 80
+Rebecca Benest, 2023-03-18, 80
 Mom, 2023-03-18, 232
 Willow, 2023-03-18, 119
 Jelle, 2023-03-18, 135
-Cecilia/John Perez/Hagist: 3-18-2023, 162
+John Hagist, 2023-03-18, 162
 Dad, 2023-03-18, 174
 Alan Iny, 2023-03-18, 309
 Emma Khazzam, 2023-03-19, 103
@@ -168,250 +168,250 @@ Dad, 2023-03-19, 58
 Anne Khazzam, 2023-03-19, 59
 David Khazzam, 2023-03-19, 67
 Mom, 2023-03-19, 215
-Rebecca Benest: 3-19-2023, 75
+Rebecca Benest, 2023-03-19, 75
 Shira Iny, 2023-03-19, 88
 Alan Iny, 2023-03-19, 78
 Willow, 2023-03-19, 72
 Jelle, 2023-03-20, 63
 Emma Khazzam, 2023-03-20, 57
 Dad, 2023-03-20, 64
-Willow: 3-20-2023, 87
+Willow, 2023-03-20, 87
 Alan Iny, 2023-03-20, 214
-Rebecca Benest: 3-20-2023, 39
+Rebecca Benest, 2023-03-20, 39
 Anne Khazzam, 2023-03-21, 271
 Jelle, 2023-03-21, 243
 David Khazzam, 2023-03-21, 38
-Cecilia/John Perez/Hagist: 3-21-2023, 132
+John Hagist, 2023-03-21, 132
 Dad, 2023-03-21, 65
-Willow: 3-21-2023, 375
-Rebecca Benest: 3-21-2023, 150
+Willow, 2023-03-21, 375
+Rebecca Benest, 2023-03-21, 150
 Alan Iny, 2023-03-21, 324
-Cecilia/John Perez/Hagist: 3-22-2023, 196
+John Hagist, 2023-03-22, 196
 Dad, 2023-03-22, 79
 Anne Khazzam, 2023-03-22, 279
-Willow: 3-22-2023, 50
-David Khazzam: 3-22-2023, 775
+Willow, 2023-03-22, 50
+David Khazzam, 2023-03-22, 775
 Jelle, 2023-03-22, 185
-Rebecca Benest: 3-22-2023, 73
+Rebecca Benest, 2023-03-22, 73
 Alan Iny, 2023-03-22, 943
-David Khazzam: 3-23-2023, 26
+David Khazzam, 2023-03-23, 26
 Mom, 2023-03-23, 199
 Emma Khazzam, 2023-03-23, 34
 Anne Khazzam, 2023-03-23, 29
-Cecilia/John Perez/Hagist: 3-23-2023, 139
+John Hagist, 2023-03-23, 139
 Jelle, 2023-03-23, 96
 Dad, 2023-03-23, 69
-Willow: 3-23-2023, 26
-Rebecca Benest: 3-23-2023, 95
+Willow, 2023-03-23, 26
+Rebecca Benest, 2023-03-23, 95
 Alan Iny, 2023-03-23, 102
 Anne Khazzam, 2023-03-24, 143
 Jelle, 2023-03-24, 42
-Willow: 3-24-2023, 48
+Willow, 2023-03-24, 48
 Dad, 2023-03-24, 58
 Alan Iny, 2023-03-24, 228
-David Khazzam: 3-24-2023, 41
-Rebecca Benest: 3-24-2023, 34
+David Khazzam, 2023-03-24, 41
+Rebecca Benest, 2023-03-24, 34
 Mom, 2023-03-24, 140
 Jelle, 2023-03-25, 262
 Dad, 2023-03-25, 84
-Cecilia/John Perez/Hagist: 3-25-2023, 105
-Rebecca Benest: 3-25-2023, 94
+John Hagist, 2023-03-25, 105
+Rebecca Benest, 2023-03-25, 94
 Emma Khazzam, 2023-03-25, 372
-Willow: 3-25-2023, 64
+Willow, 2023-03-25, 64
 Anne Khazzam, 2023-03-25, 157
 Shira Iny, 2023-03-25, 254
-David Khazzam: 3-25-2023, 96
+David Khazzam, 2023-03-25, 96
 Dad, 2023-03-26, 73
 Jelle, 2023-03-26, 52
 Emma Khazzam, 2023-03-26, 193
 Anne Khazzam, 2023-03-26, 86
-Willow: 3-26-2023, 43
-David Khazzam: 3-26-2023, 64
-Rebecca Benest: 3-26-2023, 31
+Willow, 2023-03-26, 43
+David Khazzam, 2023-03-26, 64
+Rebecca Benest, 2023-03-26, 31
 Alan Iny, 2023-03-26, 48
 Dad, 2023-03-27, 58
 Anne Khazzam, 2023-03-27, 66
 Alan Iny, 2023-03-27, 159
 David Khazzam, 2023-03-27, 89
 David Khazzam, 2023-03-27, 89
-Rebecca Benest: 3-27-2023, 43
-Sass Khazzam: 3-28-2023, 75
+Rebecca Benest, 2023-03-27, 43
+Sass Khazzam, 2023-03-28, 75
 Shira Iny, 2023-03-28, 73
 Anne Khazzam, 2023-03-28, 140
-Cecilia/John Perez/Hagist: 3-28-2023, 169
-Willow: 3-28-2023, 68
+John Hagist, 2023-03-28, 169
+Willow, 2023-03-28, 68
 Dad, 2023-03-28, 77
-David Khazzam: 3-28-2023, 379
+David Khazzam, 2023-03-28, 379
 Alan Iny, 2023-03-28, 339
-Rebecca Benest: 3-28-2023, 176
+Rebecca Benest, 2023-03-28, 176
 Anne Khazzam, 2023-03-29, 143
 Dad, 2023-03-29, 82
 Jelle, 2023-03-29, 79
-David Khazzam: 3-29-2023, 56
-Willow: 3-29-2023, 89
-Rebecca Benest: 3-29-2023, 118
+David Khazzam, 2023-03-29, 56
+Willow, 2023-03-29, 89
+Rebecca Benest, 2023-03-29, 118
 Alan Iny, 2023-03-29, 138
 Emma Khazzam, 2023-03-29, 329
 Anne Khazzam, 2023-03-30, 233
 Dad, 2023-03-30, 56
-Willow: 3-30-2023, 204
-David Khazzam: 3-30-2023, 102
+Willow, 2023-03-30, 204
+David Khazzam, 2023-03-30, 102
 Sass Khazzam, 2023-03-30, 79
-Cecilia/John Perez/Hagist: 3-30-2023, 168
+John Hagist, 2023-03-30, 168
 Mom, 2023-03-30, 287
 Shira Iny, 2023-03-30, 249
-Rebecca Benest: 3-30-2023, 92
-Cecilia/John Perez/Hagist: 3-31-2023, 85
+Rebecca Benest, 2023-03-30, 92
+John Hagist, 2023-03-31, 85
 Emma Khazzam, 2023-03-31, 158
 Dad, 2023-03-31, 127
-Willow: 3-31-2023, 97
-David Khazzam: 3-31-2023, 71
-Rebecca Benest: 3-31-2023, 45
+Willow, 2023-03-31, 97
+David Khazzam, 2023-03-31, 71
+Rebecca Benest, 2023-03-31, 45
 Alan Iny, 2023-03-31, 170
 Jelle, 2023-04-01, 341
 Emma Khazzam, 2023-04-01, 235
-Cecilia/John Perez/Hagist: 4-01-2023, 209
+John Hagist, 2023-04-01, 209
 Sass Khazzam, 2023-04-01, 168
-Willow: 4-01-2023, 297
+Willow, 2023-04-01, 297
 Anne Khazzam, 2023-04-01, 489
-David Khazzam: 4-01-2023, 196
+David Khazzam, 2023-04-01, 196
 Mom, 2023-04-01, 987
 Dad, 2023-04-01, 265
 Alan Iny, 2023-04-01, 496
-Rebecca Benest: 4-01-2023, 158
-Cecilia/John Perez/Hagist: 4-02-2023, 160
+Rebecca Benest, 2023-04-01, 158
+John Hagist, 2023-04-02, 160
 Dad, 2023-04-02, 104
 Anne Khazzam, 2023-04-02, 227
 Jelle, 2023-04-02, 196
-Willow: 4-02-2023, 234
+Willow, 2023-04-02, 234
 Alan Iny, 2023-04-02, 163
-Sass Khazzam: 4-02-2023, 260
-Rebecca Benest: 4-02-2023, 111
-Cecilia/John Perez/Hagist: 4-03-2023, 128
+Sass Khazzam, 2023-04-02, 260
+Rebecca Benest, 2023-04-02, 111
+John Hagist, 2023-04-03, 128
 Mom, 2023-04-03, 319
 Dad, 2023-04-03, 78
 Anne Khazzam, 2023-04-03, 112
 Jelle, 2023-04-03, 73
 Emma Khazzam, 2023-04-03, 147
-David Khazzam: 4-03-2023, 54
-Rebecca Benest: 4-03-2023, 45
-Sass Khazzam: 4-03-2023, 83
+David Khazzam, 2023-04-03, 54
+Rebecca Benest, 2023-04-03, 45
+Sass Khazzam, 2023-04-03, 83
 Alan Iny, 2023-04-03, 95
 Shira Iny, 2023-04-03, 71
-Willow: 4-03-2023, 99
-Willow: 4-03-2023, 99
+Willow, 2023-04-03, 99
+Willow, 2023-04-03, 99
 Dad, 2023-04-04, 89
 Anne Khazzam, 2023-04-04, 503
 Jelle, 2023-04-04, 108
-Willow: 4-04-2023, 96
+Willow, 2023-04-04, 96
 Mom, 2023-04-04, 265
-Cecilia/John Perez/Hagist: 4-04-2023, 88
-David Khazzam: 4-04-2023, 71
-Sass Khazzam: 4-04-2023, 133
+John Hagist, 2023-04-04, 88
+David Khazzam, 2023-04-04, 71
+Sass Khazzam, 2023-04-04, 133
 Alan Iny, 2023-04-04, 358
-Rebecca Benest: 4-04-2023, 167
+Rebecca Benest, 2023-04-04, 167
 Dad, 2023-04-05, 84
 Mom, 2023-04-05, 201
 Anne Khazzam, 2023-04-05, 202
 Jelle, 2023-04-05, 169
-Willow: 4-05-2023, 115
+Willow, 2023-04-05, 115
 Emma Khazzam, 2023-04-05, 72
-Cecilia/John Perez/Hagist: 4-05-2023, 82
-David Khazzam: 4-05-2023, 89
-Sass Khazzam: 4-05-2023, 106
-Rebecca Benest: 4-05-2023, 71
+John Hagist, 2023-04-05, 82
+David Khazzam, 2023-04-05, 89
+Sass Khazzam, 2023-04-05, 106
+Rebecca Benest, 2023-04-05, 71
 Alan Iny, 2023-04-05, 258
 Shira Iny, 2023-04-05, 59
 Dad, 2023-04-06, 73
-Cecilia/John Perez/Hagist: 4-06-2023, 159
+John Hagist, 2023-04-06, 159
 Anne Khazzam, 2023-04-06, 75
 Mom, 2023-04-06, 229
-David Khazzam: 4-06-2023, 83
-Rebecca Benest: 4-06-2023, 38
+David Khazzam, 2023-04-06, 83
+Rebecca Benest, 2023-04-06, 38
 Alan Iny, 2023-04-06, 210
-Willow: 4-06-2023, 105
+Willow, 2023-04-06, 105
 Sass Khazzam, 2023-04-06, 69
 Anne Khazzam, 2023-04-07, 342
 Jelle, 2023-04-07, 275
 Mom, 2023-04-07, 652
-David Khazzam: 4-07-2023, 301
+David Khazzam, 2023-04-07, 301
 Dad, 2023-04-07, 111
 Alan Iny, 2023-04-07, 87
-Rebecca Benest: 4-07-2023, 117
-Willow: 4-07-2023, 106
+Rebecca Benest, 2023-04-07, 117
+Willow, 2023-04-07, 106
 Dad, 2023-04-08, 417
 Jelle, 2023-04-08, 533
 Mom, 2023-04-08, 601
 Anne Khazzam, 2023-04-08, 397
 Emma Khazzam, 2023-04-08, 900
-Willow: 4-08-2023, 579
-David Khazzam: 4-08-2023, 372
-Sass Khazzam: 4-08-2023, 829
-Rebecca Benest: 4-08-2023, 565
+Willow, 2023-04-08, 579
+David Khazzam, 2023-04-08, 372
+Sass Khazzam, 2023-04-08, 829
+Rebecca Benest, 2023-04-08, 565
 Alan Iny, 2023-04-08, 495
-David Khazzam: 4-09-2023, 52
-Rebecca Benest: 4-09-2023, 27
-Sass Khazzam: 4-09-2023, 112
+David Khazzam, 2023-04-09, 52
+Rebecca Benest, 2023-04-09, 27
+Sass Khazzam, 2023-04-09, 112
 Jelle, 2023-04-09, 58
 Emma Khazzam, 2023-04-09, 146
 Dad, 2023-04-09, 55
-Cecilia/John Perez/Hagist: 4-09-2023, 125
+John Hagist, 2023-04-09, 125
 Anne Khazzam, 2023-04-09, 159
 Mom, 2023-04-09, 176
 Alan Iny, 2023-04-09, 126
 David Khazzam, 2023-04-10, 32
 David Khazzam, 2023-04-10, 32
-Cecilia/John Perez/Hagist: 4-10-2023, 73
+John Hagist, 2023-04-10, 73
 Anne Khazzam, 2023-04-10, 57
 Dad, 2023-04-10, 59
 Jelle, 2023-04-10, 82
 Emma Khazzam, 2023-04-10, 117
-Willow: 4-10-2023, 70
+Willow, 2023-04-10, 70
 Mom, 2023-04-10, 64
 Sass Khazzam, 2023-04-10, 76
 Shira Iny, 2023-04-10, 96
-Rebecca Benest: 4-10-2023, 64
+Rebecca Benest, 2023-04-10, 64
 Alan Iny, 2023-04-10, 52
 Dad, 2023-04-11, 76
 Jelle, 2023-04-11, 262
-Willow: 4-11-2023, 76
-Cecilia/John Perez/Hagist: 4-11-2023, 200
+Willow, 2023-04-11, 76
+John Hagist, 2023-04-11, 200
 Sass Khazzam, 2023-04-11, 184
-David Khazzam: 4-11-2023, 190
-Rebecca Benest: 4-11-2023, 84
+David Khazzam, 2023-04-11, 190
+Rebecca Benest, 2023-04-11, 84
 Alan Iny, 2023-04-11, 234
 Dad, 2023-04-12, 114
 Anne Khazzam, 2023-04-12, 331
 Jelle, 2023-04-12, 198
-Cecilia/John Perez/Hagist: 4-12-2023, 127
+John Hagist, 2023-04-12, 127
 Sass Khazzam, 2023-04-12, 97
-David Khazzam: 4-12-2023, 190
+David Khazzam, 2023-04-12, 190
 Mom, 2023-04-12, 218
-Rebecca Benest: 4-12-2023, 70
+Rebecca Benest, 2023-04-12, 70
 Sass Khazzam, 2023-04-13, 175
-Willow: 4-13-2023, 121
+Willow, 2023-04-13, 121
 Jelle, 2023-04-13, 110
-Cecilia/John Perez/Hagist: 4-13-2023, 127
+John Hagist, 2023-04-13, 127
 Dad, 2023-04-13, 112
-David Khazzam: 4-13-2023, 65
+David Khazzam, 2023-04-13, 65
 Anne Khazzam, 2023-04-13, 136
 Mom, 2023-04-13, 351
-Rebecca Benest: 4-13-2023, 53
+Rebecca Benest, 2023-04-13, 53
 Alan Iny, 2023-04-13, 111
 Emma Khazzam, 2023-04-13, 219
 Jonah Pagano, 2023-04-13, 44
-David Khazzam: 4-14-2023, 36
-Sass Khazzam: 4-14-2023, 84
+David Khazzam, 2023-04-14, 36
+Sass Khazzam, 2023-04-14, 84
 Alan Iny, 2023-04-14, 99
 Jonah Pagano, 2023-04-14, 34
 Emma Khazzam, 2023-04-14, 107
 Dad, 2023-04-14, 57
-Willow: 4-14-2023, 33
+Willow, 2023-04-14, 33
 Anne Khazzam, 2023-04-14, 45
 Jelle, 2023-04-14, 41
 Mom, 2023-04-14, 183
-Cecilia/John Perez/Hagist: 4-14-2023, 95
-Rebecca Benest: 4-14-2023, 38
+John Hagist, 2023-04-14, 95
+Rebecca Benest, 2023-04-14, 38
 Shira Iny, 2023-04-15, 164
 Jonah Pagano, 2023-04-15, 164
 Anne Khazzam, 2023-04-15, 170
@@ -419,15 +419,15 @@ Dad, 2023-04-15, 102
 Mom, 2023-04-15, 446
 Emma Khazzam, 2023-04-15, 379
 Sass Khazzam, 2023-04-15, 153
-Cecilia/John Perez/Hagist: 4-15-2023, 159
-David Khazzam: 4-15-2023, 103
+John Hagist, 2023-04-15, 159
+David Khazzam, 2023-04-15, 103
 Alan Iny, 2023-04-15, 228
 Jelle, 2023-04-15, 264
-Rebecca Benest: 4-15-2023, 94
-Alexis Villalobos: 4-15-2023, 498
-Cecilia/John Perez/Hagist: 4-16-2023, 89
-Sass Khazzam: 4-16-2023, 88
-David Khazzam: 4-16-2023, 44
+Rebecca Benest, 2023-04-15, 94
+Alexis Villalobos, 2023-04-15, 498
+John Hagist, 2023-04-16, 89
+Sass Khazzam, 2023-04-16, 88
+David Khazzam, 2023-04-16, 44
 Shira Iny, 2023-04-16, 153
 Dad, 2023-04-16, 55
 Emma Khazzam, 2023-04-16, 135
@@ -435,430 +435,430 @@ Jelle, 2023-04-16, 67
 Anne Khazzam, 2023-04-16, 117
 Alan Iny, 2023-04-16, 170
 Jonah Pagano, 2023-04-16, 35
-Rebecca Benest: 4-16-2023, 27
-Alexis Villalobos: 4-16-2023, 136
-Cecilia/John Perez/Hagist: 4-17-2023, 72
-Willow: 4-17-2023, 105
+Rebecca Benest, 2023-04-16, 27
+Alexis Villalobos, 2023-04-16, 136
+John Hagist, 2023-04-17, 72
+Willow, 2023-04-17, 105
 Jelle, 2023-04-17, 55
 Anne Khazzam, 2023-04-17, 151
 Emma Khazzam, 2023-04-17, 138
-David Khazzam: 4-17-2023, 73
-Sass Khazzam: 4-17-2023, 78
+David Khazzam, 2023-04-17, 73
+Sass Khazzam, 2023-04-17, 78
 Mom, 2023-04-17, 232
-Rebecca Benest: 4-17-2023, 45
+Rebecca Benest, 2023-04-17, 45
 Alan Iny, 2023-04-17, 66
 Dad, 2023-04-17, 50
 Shira Iny, 2023-04-17, 148
-Alexis Villalobos: 4-17-2023, 175
-Cecilia/John Perez/Hagist: 4-18-2023, 146
+Alexis Villalobos, 2023-04-17, 175
+John Hagist, 2023-04-18, 146
 Jelle, 2023-04-18, 216
 Anne Khazzam, 2023-04-18, 91
-Willow: 4-18-2023, 60
+Willow, 2023-04-18, 60
 Dad, 2023-04-18, 61
-David Khazzam: 4-18-2023, 47
-Sass Khazzam: 4-18-2023, 103
+David Khazzam, 2023-04-18, 47
+Sass Khazzam, 2023-04-18, 103
 Alan Iny, 2023-04-18, 38
 Jonah Pagano, 2023-04-18, 39
-Rebecca Benest: 4-18-2023, 41
-Cecilia/John Perez/Hagist: 4-19-2023, 183
-Alexis Villalobos: 4-19-2023, 377
+Rebecca Benest, 2023-04-18, 41
+John Hagist, 2023-04-19, 183
+Alexis Villalobos, 2023-04-19, 377
 Anne Khazzam, 2023-04-19, 179
 Dad, 2023-04-19, 102
 Mom, 2023-04-19, 329
-Sass Khazzam: 4-19-2023, 47
+Sass Khazzam, 2023-04-19, 47
 Emma Khazzam, 2023-04-19, 90
-Rebecca Benest: 4-19-2023, 96
+Rebecca Benest, 2023-04-19, 96
 Alan Iny, 2023-04-19, 268
-David Khazzam: 4-19-2023, 130
-David Khazzam: 4-20-2023, 85
-Sass Khazzam: 4-20-2023, 104
+David Khazzam, 2023-04-19, 130
+David Khazzam, 2023-04-20, 85
+Sass Khazzam, 2023-04-20, 104
 Dad, 2023-04-20, 87
 Jelle, 2023-04-20, 171
 Anne Khazzam, 2023-04-20, 163
-Cecilia/John Perez/Hagist: 4-20-2023, 205
+John Hagist, 2023-04-20, 205
 Alan Iny, 2023-04-20, 178
-Rebecca Benest: 4-20-2023, 63
+Rebecca Benest, 2023-04-20, 63
 Mom, 2023-04-20, 386
-Cecilia/John Perez/Hagist: 4-21-2023, 113
-Rebecca Benest: 4-21-2023, 134
-Alexis Villalobos: 4-21-2023, 294
+John Hagist, 2023-04-21, 113
+Rebecca Benest, 2023-04-21, 134
+Alexis Villalobos, 2023-04-21, 294
 Shira Iny, 2023-04-21, 185
 Dad, 2023-04-21, 100
 Alan Iny, 2023-04-21, 122
 Jelle, 2023-04-21, 56
-Sass Khazzam: 4-21-2023, 198
-David Khazzam: 4-21-2023, 51
-Willow: 4-21-2023, 109
+Sass Khazzam, 2023-04-21, 198
+David Khazzam, 2023-04-21, 51
+Willow, 2023-04-21, 109
 Jonah Pagano, 2023-04-22, 72
 Alan Iny, 2023-04-22, 138
-Rebecca Benest: 4-22-2023, 149
+Rebecca Benest, 2023-04-22, 149
 Anne Khazzam, 2023-04-22, 187
 Dad, 2023-04-22, 112
-Willow: 4-22-2023, 146
+Willow, 2023-04-22, 146
 Jelle, 2023-04-22, 183
 Emma Khazzam, 2023-04-22, 217
-David Khazzam: 4-22-2023, 168
+David Khazzam, 2023-04-22, 168
 Mom, 2023-04-23, 120
-Sass Khazzam: 4-22-2023, 155
+Sass Khazzam, 2023-04-22, 155
 Jelle, 2023-04-23, 85
 Dad, 2023-04-23, 64
-Willow: 4-23-2023, 36
-Alexis Villalobos: 4-23-2023, 207
-Rebecca Benest: 4-23-2023, 39
+Willow, 2023-04-23, 36
+Alexis Villalobos, 2023-04-23, 207
+Rebecca Benest, 2023-04-23, 39
 Alan Iny, 2023-04-23, 65
 Emma Khazzam, 2023-04-23, 144
-Sass Khazzam: 4-23-2023, 105
-Cecilia/John Perez/Hagist: 4-23-2023, 118
+Sass Khazzam, 2023-04-23, 105
+John Hagist, 2023-04-23, 118
 Mom, 2023-04-24, 263
-Rebecca Benest: 4-24-2023, 70
+Rebecca Benest, 2023-04-24, 70
 Shira Iny, 2023-04-24, 107
-Cecilia/John Perez/Hagist: 4-24-2023, 125
-Sass Khazzam: 4-24-2023, 39
-David Khazzam: 4-24-2023, 54
+John Hagist, 2023-04-24, 125
+Sass Khazzam, 2023-04-24, 39
+David Khazzam, 2023-04-24, 54
 Dad, 2023-04-24, 39
 Emma Khazzam, 2023-04-24, 308
 Alan Iny, 2023-04-24, 229
 Jonah Pagano, 2023-04-24, 100
-Cecilia/John Perez/Hagist: 4-25-2023, 84
-Willow: 4-25-2023, 64
+John Hagist, 2023-04-25, 84
+Willow, 2023-04-25, 64
 Emma Khazzam, 2023-04-25, 304
 Jelle, 2023-04-25, 136
 Mom, 2023-04-25, 115
-David Khazzam: 4-25-2023, 52
+David Khazzam, 2023-04-25, 52
 Dad, 2023-04-25, 66
-Rebecca Benest: 4-25-2023, 29
+Rebecca Benest, 2023-04-25, 29
 Jonah Pagano, 2023-04-25, 71
-Sass Khazzam: 4-25-2023, 118
-Rebecca Benest: 4-26-2023, 73
-Alexis Villalobos: 4-26-2023, 217
+Sass Khazzam, 2023-04-25, 118
+Rebecca Benest, 2023-04-26, 73
+Alexis Villalobos, 2023-04-26, 217
 Shira Iny, 2023-04-26, 119
 Anne Khazzam, 2023-04-26, 134
 Emma Khazzam, 2023-04-26, 158
 Jelle, 2023-04-26, 102
-Willow: 4-26-2023, 136
-Sass Khazzam: 4-26-2023, 124
-Cecilia/John Perez/Hagist: 4-26-2023, 108
-David Khazzam: 4-26-2023, 47
+Willow, 2023-04-26, 136
+Sass Khazzam, 2023-04-26, 124
+John Hagist, 2023-04-26, 108
+David Khazzam, 2023-04-26, 47
 Mom, 2023-04-26, 152
 Alan Iny, 2023-04-26, 177
 Jonah Pagano, 2023-04-26, 120
 Dad, 2023-04-26, 80
-Cecilia/John Perez/Hagist: 4-27-2023, 146
+John Hagist, 2023-04-27, 146
 Dad, 2023-04-27, 116
 Mom, 2023-04-27, 177
 Jelle, 2023-04-27, 140
-David Khazzam: 4-27-2023, 68
-Rebecca Benest: 4-27-2023, 71
+David Khazzam, 2023-04-27, 68
+Rebecca Benest, 2023-04-27, 71
 Alan Iny, 2023-04-27, 201
-Sass Khazzam: 4-27-2023, 81
+Sass Khazzam, 2023-04-27, 81
 Jonah Pagano, 2023-04-27, 63
-Sass Khazzam: 4-28-2023, 198
+Sass Khazzam, 2023-04-28, 198
 Shira Iny, 2023-04-28, 111
-Alexis Villalobos: 4-28-2023, 194
+Alexis Villalobos, 2023-04-28, 194
 Emma Khazzam, 2023-04-28, 167
 Dad, 2023-04-28, 78
 Mom, 2023-04-28, 215
 Jelle, 2023-04-28, 236
-Rebecca Benest: 4-28-2023, 73
-Cecilia/John Perez/Hagist: 4-28-2023, 101
+Rebecca Benest, 2023-04-28, 73
+John Hagist, 2023-04-28, 101
 Alan Iny, 2023-04-28, 79
-David Khazzam: 4-28-2023, 83
-David Khazzam: 4-29-2023, 79
+David Khazzam, 2023-04-28, 83
+David Khazzam, 2023-04-29, 79
 Alan Iny, 2023-04-29, 177
-Willow: 4-29-2023, 161
-Sass Khazzam: 4-29-2023, 140
+Willow, 2023-04-29, 161
+Sass Khazzam, 2023-04-29, 140
 Emma Khazzam, 2023-04-29, 202
 Jelle, 2023-04-29, 321
 Jelle, 2023-04-29, 321
-Cecilia/John Perez/Hagist: 4-29-2023, 169
-Rebecca Benest: 4-29-2023, 74
+John Hagist, 2023-04-29, 169
+Rebecca Benest, 2023-04-29, 74
 Mom, 2023-04-29, 261
 Dad, 2023-04-30, 64
-David Khazzam: 4-30-2023, 34
+David Khazzam, 2023-04-30, 34
 Jelle, 2023-04-30, 46
-Cecilia/John Perez/Hagist: 4-30-2023, 161
-Alexis Villalobos: 4-30-2023, 230
-Rebecca Benest: 4-30-2023, 59
-Sass Khazzam: 4-30-2023, 71
+John Hagist, 2023-04-30, 161
+Alexis Villalobos, 2023-04-30, 230
+Rebecca Benest, 2023-04-30, 59
+Sass Khazzam, 2023-04-30, 71
 Mom, 2023-04-30, 46
 Alan Iny, 2023-04-30, 107
 Jonah Pagano, 2023-04-30, 58
-Cecilia/John Perez/Hagist: 5-01-2023, 42
+John Hagist, 2023-05-01, 42
 Shira Iny, 2023-05-01, 110
-David Khazzam: 5-01-2023, 85
-Sass Khazzam: 5-01-2023, 35
+David Khazzam, 2023-05-01, 85
+Sass Khazzam, 2023-05-01, 35
 Emma Khazzam, 2023-05-01, 78
-Rebecca Benest: 5-01-2023, 34
+Rebecca Benest, 2023-05-01, 34
 Jelle, 2023-05-01, 103
 Dad, 2023-05-01, 18
 Mom, 2023-05-01, 168
-Willow: 4-30-2023, 52
+Willow, 2023-04-30, 52
 Alan Iny, 2023-05-01, 57
 Jonah Pagano, 2023-05-01, 43
 Jelle, 2023-05-02, 168
 Emma Khazzam, 2023-05-02, 293
-Sass Khazzam: 5-02-2023, 72
-Cecilia/John Perez/Hagist: 5-02-2023, 153
+Sass Khazzam, 2023-05-02, 72
+John Hagist, 2023-05-02, 153
 Dad, 2023-05-02, 69
-Rebecca Benest: 5-02-2023, 47
+Rebecca Benest, 2023-05-02, 47
 David Khazzam, 2023-05-02, 66
 David Khazzam, 2023-05-02, 66
 Anne Khazzam, 2023-05-02, 85
 Mom, 2023-05-02, 107
 Alan Iny, 2023-05-02, 96
-Cecilia/John Perez/Hagist: 5-03-2023, 142
+John Hagist, 2023-05-03, 142
 Shira Iny, 2023-05-03, 110
 Dad, 2023-05-03, 76
 Jelle, 2023-05-03, 95
-Sass Khazzam: 5-03-2023, 83
+Sass Khazzam, 2023-05-03, 83
 Mom, 2023-05-03, 91
 Anne Khazzam, 2023-05-03, 97
-Rebecca Benest: 5-03-2023, 69
-David Khazzam: 5-03-2023, 52
+Rebecca Benest, 2023-05-03, 69
+David Khazzam, 2023-05-03, 52
 Alan Iny, 2023-05-03, 102
 Emma Khazzam, 2023-05-03, 149
-Alexis Villalobos: 5-03-2023, 182
+Alexis Villalobos, 2023-05-03, 182
 Jonah Pagano, 2023-05-03, 64
-Cecilia/John Perez/Hagist: 5-04-2023, 182
+John Hagist, 2023-05-04, 182
 Jelle, 2023-05-04, 160
 Dad, 2023-05-04, 53
 Jonah Pagano, 2023-05-04, 53
 Mom, 2023-05-04, 94
 Alan Iny, 2023-05-04, 141
-Rebecca Benest: 5-04-2023, 53
-Sass Khazzam: 5-04-2023, 113
-David Khazzam: 5-04-2023, 49
-Alexis Villalobos: 5-04-2023, 184
-Rebecca Benest: 5-05-2023, 81
-Sass Khazzam: 5-05-2023, 54
-David Khazzam: 5-05-2023, 97
+Rebecca Benest, 2023-05-04, 53
+Sass Khazzam, 2023-05-04, 113
+David Khazzam, 2023-05-04, 49
+Alexis Villalobos, 2023-05-04, 184
+Rebecca Benest, 2023-05-05, 81
+Sass Khazzam, 2023-05-05, 54
+David Khazzam, 2023-05-05, 97
 Mom, 2023-05-05, 145
 Dad, 2023-05-05, 47
 Alan Iny, 2023-05-05, 142
 Jelle, 2023-05-05, 181
 Shira Iny, 2023-05-06, 230
 Emma Khazzam, 2023-05-06, 266
-Sass Khazzam: 5-06-2023, 276
+Sass Khazzam, 2023-05-06, 276
 Jelle, 2023-05-06, 213
-David Khazzam: 5-06-2023, 114
+David Khazzam, 2023-05-06, 114
 Dad, 2023-05-06, 146
-Rebecca Benest: 5-06-2023, 79
+Rebecca Benest, 2023-05-06, 79
 Jonah Pagano, 2023-05-06, 138
 Mom, 2023-05-06, 218
-David Khazzam: 5-07-2023, 48
-Cecilia/John Perez/Hagist: 5-07-2023, 143
+David Khazzam, 2023-05-07, 48
+John Hagist, 2023-05-07, 143
 Dad, 2023-05-07, 90
 Jelle, 2023-05-07, 57
-Rebecca Benest: 5-07-2023, 74
+Rebecca Benest, 2023-05-07, 74
 Emma Khazzam, 2023-05-07, 164
 Alan Iny, 2023-05-07, 103
-Sass Khazzam: 5-07-2023, 96
+Sass Khazzam, 2023-05-07, 96
 Mom, 2023-05-07, 181
 Jonah Pagano, 2023-05-08, 49
-Alexis Villalobos: 5-08-2023, 131
+Alexis Villalobos, 2023-05-08, 131
 Jelle, 2023-05-08, 66
-Sass Khazzam: 5-08-2023, 95
+Sass Khazzam, 2023-05-08, 95
 Dad, 2023-05-08, 81
-Cecilia/John Perez/Hagist: 5-08-2023, 78
-David Khazzam: 5-08-2023, 83
-Rebecca Benest: 5-08-2023, 79
-Willow: 5-08-2023, 100
+John Hagist, 2023-05-08, 78
+David Khazzam, 2023-05-08, 83
+Rebecca Benest, 2023-05-08, 79
+Willow, 2023-05-08, 100
 Alan Iny, 2023-05-08, 188
-Rebecca Benest: 5-09-2023, 58
+Rebecca Benest, 2023-05-09, 58
 Jelle, 2023-05-09, 73
-David Khazzam: 5-09-2023, 32
+David Khazzam, 2023-05-09, 32
 Emma Khazzam, 2023-05-09, 76
-Cecilia/John Perez/Hagist: 5-09-2023, 186
-David Khazzam: 5-10-2023, 56
+John Hagist, 2023-05-09, 186
+David Khazzam, 2023-05-10, 56
 Alan Iny, 2023-05-10, 75
 Dad, 2023-05-10, 70
-Cecilia/John Perez/Hagist: 5-10-2023, 98
-Rebecca Benest: 5-10-2023, 56
-Sass Khazzam: 5-10-2023, 104
+John Hagist, 2023-05-10, 98
+Rebecca Benest, 2023-05-10, 56
+Sass Khazzam, 2023-05-10, 104
 Aaron Iny, 2023-05-11, 163
 Mom, 2023-05-11, 115
-David Khazzam: 5-11-2023, 66
+David Khazzam, 2023-05-11, 66
 Shira Iny, 2023-05-11, 87
 Jelle, 2023-05-11, 218
 Dad, 2023-05-11, 73
 Emma Khazzam, 2023-05-11, 116
-Rebecca Benest: 5-11-2023, 60
-Sass Khazzam: 5-11-2023, 96
-David Khazzam: 5-12-2023, 38
-Cecilia/John Perez/Hagist: 5-12-2023, 52
-Alexis Villalobos: 5-12-2023, 115
+Rebecca Benest, 2023-05-11, 60
+Sass Khazzam, 2023-05-11, 96
+David Khazzam, 2023-05-12, 38
+John Hagist, 2023-05-12, 52
+Alexis Villalobos, 2023-05-12, 115
 Aaron Iny, 2023-05-12, 94
 Jelle, 2023-05-12, 82
-Sass Khazzam: 5-12-2023, 53
+Sass Khazzam, 2023-05-12, 53
 Emma Khazzam, 2023-05-12, 71
 Anne Khazzam, 2023-05-12, 93
 Dad, 2023-05-12, 47
 Jonah Pagano, 2023-05-12, 74
-Rebecca Benest: 5-12-2023, 31
-Willow: 5-12-2023, 62
-Cecilia/John Perez/Hagist: 5-13-2023, 233
+Rebecca Benest, 2023-05-12, 31
+Willow, 2023-05-12, 62
+John Hagist, 2023-05-13, 233
 Dad, 2023-05-13, 65
 Anne Khazzam, 2023-05-13, 330
-David Khazzam: 5-13-2023, 178
-Rebecca Benest: 5-13-2023, 92
+David Khazzam, 2023-05-13, 178
+Rebecca Benest, 2023-05-13, 92
 Jelle, 2023-05-13, 312
 Jonah Pagano, 2023-05-14, 40
-Sass Khazzam: 5-13-2023, 195
+Sass Khazzam, 2023-05-13, 195
 Aaron Iny, 2023-05-14, 92
 Dad, 2023-05-14, 51
 Anne Khazzam, 2023-05-14, 39
-David Khazzam: 5-14-2023, 56
+David Khazzam, 2023-05-14, 56
 Mom, 2023-05-14, 101
 Jelle, 2023-05-14, 61
-Sass Khazzam: 5-14-2023, 115
-Cecilia/John Perez/Hagist: 5-14-2023, 293
-Willow: 5-14-2023, 88
+Sass Khazzam, 2023-05-14, 115
+John Hagist, 2023-05-14, 293
+Willow, 2023-05-14, 88
 Emma Khazzam, 2023-05-14, 130
-Rebecca Benest: 5-14-2023, 49
-Alexis Villalobos: 5-14-2023, 137
+Rebecca Benest, 2023-05-14, 49
+Alexis Villalobos, 2023-05-14, 137
 Dad, 2023-05-15, 54
-David Khazzam: 5-15-2023, 43
+David Khazzam, 2023-05-15, 43
 Aaron Iny, 2023-05-15, 47
-Cecilia/John Perez/Hagist: 5-15-2023, 59
+John Hagist, 2023-05-15, 59
 Jelle, 2023-05-15, 37
 Emma Khazzam, 2023-05-15, 175
 Jonah Pagano, 2023-05-15, 30
-Sass Khazzam: 5-15-2023, 48
-Rebecca Benest: 5-15-2023, 49
+Sass Khazzam, 2023-05-15, 48
+Rebecca Benest, 2023-05-15, 49
 Mom, 2023-05-15, 213
-Cecilia/John Perez/Hagist: 5-16-2023, 154
+John Hagist, 2023-05-16, 154
 Mom, 2023-05-16, 151
 Anne Khazzam, 2023-05-16, 127
 Jelle, 2023-05-16, 151
 Aaron Iny, 2023-05-16, 94
-David Khazzam: 5-16-2023, 56
+David Khazzam, 2023-05-16, 56
 Dad, 2023-05-16, 57
-Rebecca Benest: 5-16-2023, 90
+Rebecca Benest, 2023-05-16, 90
 Anne Khazzam, 2023-05-17, 101
 Aaron Iny, 2023-05-17, 200
 Emma Khazzam, 2023-05-17, 55
-Cecilia/John Perez/Hagist: 5-17-2023, 111
+John Hagist, 2023-05-17, 111
 Dad, 2023-05-17, 56
-David Khazzam: 5-17-2023, 66
-Alexis Villalobos: 5-17-2023, 152
-Rebecca Benest: 5-17-2023, 36
+David Khazzam, 2023-05-17, 66
+Alexis Villalobos, 2023-05-17, 152
+Rebecca Benest, 2023-05-17, 36
 Jelle, 2023-05-17, 186
 Dad, 2023-05-18, 26
-Cecilia/John Perez/Hagist: 5-18-2023, 142
-David Khazzam: 5-18-2023, 233
+John Hagist, 2023-05-18, 142
+David Khazzam, 2023-05-18, 233
 Emma Khazzam, 2023-05-18, 72
-Rebecca Benest: 5-18-2023, 36
+Rebecca Benest, 2023-05-18, 36
 Jonah Pagano, 2023-05-18, 102
 Anne Khazzam, 2023-05-18, 117
-Sass Khazzam: 5-18-2023, 82
+Sass Khazzam, 2023-05-18, 82
 Mom, 2023-05-18, 80
 Anne Khazzam, 2023-05-19, 140
 Dad, 2023-05-19, 59
 Jelle, 2023-05-19, 55
-Rebecca Benest: 5-19-2023, 60
-Cecilia/John Perez/Hagist: 5-19-2023, 281
-David Khazzam: 5-19-2023, 91
-Cecilia/John Perez/Hagist: 5-20-2023, 86
+Rebecca Benest, 2023-05-19, 60
+John Hagist, 2023-05-19, 281
+David Khazzam, 2023-05-19, 91
+John Hagist, 2023-05-20, 86
 Aaron Iny, 2023-05-20, 128
-David Khazzam: 5-20-2023, 67
+David Khazzam, 2023-05-20, 67
 Jelle, 2023-05-20, 166
 Emma Khazzam, 2023-05-20, 106
 Anne Khazzam, 2023-05-20, 114
-Rebecca Benest: 5-20-2023, 61
+Rebecca Benest, 2023-05-20, 61
 Dad, 2023-05-20, 59
-Cecilia/John Perez/Hagist: 5-21-2023, 113
-David Khazzam: 5-21-2023, 84
+John Hagist, 2023-05-21, 113
+David Khazzam, 2023-05-21, 84
 Dad, 2023-05-21, 46
 Mom, 2023-05-21, 200
 Aaron Iny, 2023-05-21, 76
-David Khazzam: 5-22-2023, 170
-Cecilia/John Perez/Hagist: 5-22-2023, 144
+David Khazzam, 2023-05-22, 170
+John Hagist, 2023-05-22, 144
 Dad, 2023-05-22, 53
 Aaron Iny, 2023-05-22, 182
 Mom, 2023-05-23, 246
 Jonah Pagano, 2023-05-23, 64
 Aaron Iny, 2023-05-23, 131
-Rebecca Benest: 5-23-2023, 88
-Alexis Villalobos: 5-23-2023, 187
+Rebecca Benest, 2023-05-23, 88
+Alexis Villalobos, 2023-05-23, 187
 Jelle, 2023-05-23, 181
 Dad, 2023-05-23, 62
-Cecilia/John Perez/Hagist: 5-23-2023, 176
-Sass Khazzam: 5-23-2023, 205
+John Hagist, 2023-05-23, 176
+Sass Khazzam, 2023-05-23, 205
 Mom, 2023-05-24, 225
-Cecilia/John Perez/Hagist: 5-24-2023, 245
+John Hagist, 2023-05-24, 245
 Emma Khazzam, 2023-05-24, 109
 Dad, 2023-05-24, 65
 Jelle, 2023-05-24, 153
-Rebecca Benest: 5-24-2023, 85
+Rebecca Benest, 2023-05-24, 85
 Aaron Iny, 2023-05-24, 173
-Sass Khazzam: 5-24-2023, 103
-Sass Khazzam: 5-24-2023, 103
-Sass Khazzam: 5-25-2023, 108
+Sass Khazzam, 2023-05-24, 103
+Sass Khazzam, 2023-05-24, 103
+Sass Khazzam, 2023-05-25, 108
 Mom, 2023-05-25, 246
-Cecilia/John Perez/Hagist: 5-25-2023, 201
+John Hagist, 2023-05-25, 201
 Aaron Iny, 2023-05-25, 89
 Jelle, 2023-05-25, 138
-Rebecca Benest: 5-25-2023, 98
+Rebecca Benest, 2023-05-25, 98
 Emma Khazzam, 2023-05-25, 107
 Dad, 2023-05-25, 93
-Cecilia/John Perez/Hagist: 5-26-2023, 262
-Rebecca Benest: 5-26-2023, 211
-Alexis Villalobos: 5-26-2023, 270
+John Hagist, 2023-05-26, 262
+Rebecca Benest, 2023-05-26, 211
+Alexis Villalobos, 2023-05-26, 270
 Jelle, 2023-05-26, 184
 Anne Khazzam, 2023-05-26, 254
 Dad, 2023-05-26, 81
-David Khazzam: 5-26-2023, 285
-Sass Khazzam: 5-26-2023, 265
-Sass Khazzam: 5-27-2023, 224
-Cecilia/John Perez/Hagist: 5-27-2023, 186
+David Khazzam, 2023-05-26, 285
+Sass Khazzam, 2023-05-26, 265
+Sass Khazzam, 2023-05-27, 224
+John Hagist, 2023-05-27, 186
 Aaron Iny, 2023-05-27, 545
 Shira Iny, 2023-05-27, 361
 Jelle, 2023-05-27, 328
-Rebecca Benest: 5-27-2023, 126
+Rebecca Benest, 2023-05-27, 126
 Dad, 2023-05-27, 134
-Alexis Villalobos: 5-27-2023, 377
-David Khazzam: 5-27-2023, 170
-David Khazzam: 5-28-2023, 62
+Alexis Villalobos, 2023-05-27, 377
+David Khazzam, 2023-05-27, 170
+David Khazzam, 2023-05-28, 62
 Anne Khazzam, 2023-05-28, 102
 Mom, 2023-05-28, 89
 Dad, 2023-05-28, 84
 Aaron Iny, 2023-05-28, 95
 Jelle, 2023-05-28, 72
-Sass Khazzam: 5-28-2023, 82
-Rebecca Benest: 5-28-2023, 45
+Sass Khazzam, 2023-05-28, 82
+Rebecca Benest, 2023-05-28, 45
 Emma Khazzam, 2023-05-28, 69
-Cecilia/John Perez/Hagist: 5-28-2023, 106
-Cecilia/John Perez/Hagist: 5-29-2023, 156
-Sass Khazzam: 5-29-2023, 64
-Rebecca Benest: 5-29-2023, 72
+John Hagist, 2023-05-28, 106
+John Hagist, 2023-05-29, 156
+Sass Khazzam, 2023-05-29, 64
+Rebecca Benest, 2023-05-29, 72
 Aaron Iny, 2023-05-29, 106
-David Khazzam: 5-29-2023, 25
+David Khazzam, 2023-05-29, 25
 Jelle, 2023-05-29, 44
 Dad, 2023-05-29, 51
 Anne Khazzam, 2023-05-29, 91
 Emma Khazzam, 2023-05-29, 105
-Sass Khazzam: 5-30-2023, 111
+Sass Khazzam, 2023-05-30, 111
 Mom, 2023-05-30, 177
-David Khazzam: 5-30-2023, 112
-Cecilia/John Perez/Hagist: 5-30-2023, 79
+David Khazzam, 2023-05-30, 112
+John Hagist, 2023-05-30, 79
 Dad, 2023-05-30, 71
-Rebecca Benest: 5-30-2023, 66
-Sass Khazzam: 5-31-2023, 121
+Rebecca Benest, 2023-05-30, 66
+Sass Khazzam, 2023-05-31, 121
 Mom, 2023-05-31, 200
-Cecilia/John Perez/Hagist: 5-31-2023, 70
+John Hagist, 2023-05-31, 70
 Anne Khazzam, 2023-05-31, 105
-Rebecca Benest: 5-31-2023, 53
-David Khazzam: 5-31-2023, 74
+Rebecca Benest, 2023-05-31, 53
+David Khazzam, 2023-05-31, 74
 Dad, 2023-05-31, 82
 Jared Rabinovici, 2023-05-31, 46
 Emma Khazzam, 2023-05-31, 99
 Aaron Iny, 2023-05-31, 74
 Jelle, 2023-05-31, 175
-Sass Khazzam: 6-01-2023, 121
-Cecilia/John Perez/Hagist: 6-01-2023, 168
-Rebecca Benest: 6-01-2023, 53
-Alexis Villalobos: 6-01-2023, 185
-David Khazzam: 6-01-2023, 45
+Sass Khazzam, 2023-06-01, 121
+John Hagist, 2023-06-01, 168
+Rebecca Benest, 2023-06-01, 53
+Alexis Villalobos, 2023-06-01, 185
+David Khazzam, 2023-06-01, 45
 Anne Khazzam, 2023-06-01, 108
 Jelle, 2023-06-01, 75
 Dad, 2023-06-01, 115
@@ -866,92 +866,92 @@ Emma Khazzam, 2023-06-01, 285
 Shira Iny, 2023-06-01, 135
 Aaron Iny, 2023-06-01, 190
 Jonah Pagano, 2023-06-01, 98
-Sass Khazzam: 6-02-2023, 64
-Cecilia/John Perez/Hagist: 6-02-2023, 144
+Sass Khazzam, 2023-06-02, 64
+John Hagist, 2023-06-02, 144
 Mom, 2023-06-02, 89
 Anne Khazzam, 2023-06-02, 128
 Dad, 2023-06-02, 74
-David Khazzam: 6-02-2023, 82
+David Khazzam, 2023-06-02, 82
 Jelle, 2023-06-02, 40
 Aaron Iny, 2023-06-02, 158
-Rebecca Benest: 6-02-2023, 86
+Rebecca Benest, 2023-06-02, 86
 Emma Khazzam, 2023-06-02, 261
-Cecilia/John Perez/Hagist: 6-03-2023, 138
+John Hagist, 2023-06-03, 138
 Dad, 2023-06-03, 109
 Jelle, 2023-06-03, 370
 Emma Khazzam, 2023-06-03, 115
 Mom, 2023-06-03, 202
-Sass Khazzam: 6-03-2023, 278
-David Khazzam: 6-03-2023, 68
+Sass Khazzam, 2023-06-03, 278
+David Khazzam, 2023-06-03, 68
 Anne Khazzam, 2023-06-03, 119
-Rebecca Benest: 6-03-2023, 56
-Cecilia/John Perez/Hagist: 6-04-2023, 138
-David Khazzam: 6-04-2023, 109
+Rebecca Benest, 2023-06-03, 56
+John Hagist, 2023-06-04, 138
+David Khazzam, 2023-06-04, 109
 Dad, 2023-06-04, 65
-Sass Khazzam: 6-04-2023, 80
+Sass Khazzam, 2023-06-04, 80
 Aaron Iny, 2023-06-04, 123
 Jonah Pagano, 2023-06-04, 117
 Jelle, 2023-06-05, 125
-Cecilia/John Perez/Hagist: 6-05-2023, 38
+John Hagist, 2023-06-05, 38
 Shira Iny, 2023-06-05, 53
 Mom, 2023-06-05, 134
-David Khazzam: 6-05-2023, 53
-Sass Khazzam: 6-05-2023, 83
+David Khazzam, 2023-06-05, 53
+Sass Khazzam, 2023-06-05, 83
 Dad, 2023-06-05, 48
-Rebecca Benest: 6-05-2023, 32
-Alexis Villalobos: 6-05-2023, 113
+Rebecca Benest, 2023-06-05, 32
+Alexis Villalobos, 2023-06-05, 113
 Aaron Iny, 2023-06-05, 57
 Jonah Pagano, 2023-06-05, 35
-Cecilia/John Perez/Hagist: 6-06-2023, 93
+John Hagist, 2023-06-06, 93
 Anne Khazzam, 2023-06-06, 52
 Emma Khazzam, 2023-06-06, 56
-David Khazzam: 6-06-2023, 34
+David Khazzam, 2023-06-06, 34
 Jared Rabinovici, 2023-06-06, 30
-Sass Khazzam: 6-06-2023, 62
+Sass Khazzam, 2023-06-06, 62
 Dad, 2023-06-06, 53
 Jelle, 2023-06-06, 59
 Aaron Iny, 2023-06-06, 77
-Rebecca Benest: 6-06-2023, 54
-Cecilia/John Perez/Hagist: 6-07-2023, 53
+Rebecca Benest, 2023-06-06, 54
+John Hagist, 2023-06-07, 53
 Jared Rabinovici, 2023-06-07, 33
 Dad, 2023-06-07, 45
 Mom, 2023-06-07, 27
 Aaron Iny, 2023-06-07, 36
-David Khazzam: 6-07-2023, 40
+David Khazzam, 2023-06-07, 40
 Anne Khazzam, 2023-06-07, 38
-Rebecca Benest: 6-07-2023, 19
-Sass Khazzam: 6-07-2023, 52
+Rebecca Benest, 2023-06-07, 19
+Sass Khazzam, 2023-06-07, 52
 Jonah Pagano, 2023-06-07, 34
 Jelle, 2023-06-07, 61
-Sass Khazzam: 6-08-2023, 70
-Cecilia/John Perez/Hagist: 6-08-2023, 127
+Sass Khazzam, 2023-06-08, 70
+John Hagist, 2023-06-08, 127
 Jelle, 2023-06-08, 84
 Dad, 2023-06-08, 57
-David Khazzam: 6-08-2023, 53
+David Khazzam, 2023-06-08, 53
 Anne Khazzam, 2023-06-08, 41
-Rebecca Benest: 6-08-2023, 121
+Rebecca Benest, 2023-06-08, 121
 Aaron Iny, 2023-06-08, 211
 Mom, 2023-06-08, 153
-David Khazzam: 6-09-2023, 75
+David Khazzam, 2023-06-09, 75
 Jelle, 2023-06-09, 176
 Emma Khazzam, 2023-06-09, 273
 Dad, 2023-06-09, 55
 Anne Khazzam, 2023-06-09, 260
 Aaron Iny, 2023-06-09, 105
-Sass Khazzam: 6-09-2023, 80
-Rebecca Benest: 6-09-2023, 49
+Sass Khazzam, 2023-06-09, 80
+Rebecca Benest, 2023-06-09, 49
 Mom, 2023-06-09, 125
-David Khazzam: 6-10-2023, 123
+David Khazzam, 2023-06-10, 123
 Jelle, 2023-06-10, 131
 Anne Khazzam, 2023-06-10, 259
-Cecilia/John Perez/Hagist: 6-10-2023, 498
-Rebecca Benest: 6-10-2023, 87
+John Hagist, 2023-06-10, 498
+Rebecca Benest, 2023-06-10, 87
 Emma Khazzam, 2023-06-10, 266
-Cecilia/John Perez/Hagist: 6-11-2023, 90
+John Hagist, 2023-06-11, 90
 Mom, 2023-06-11, 207
-Sass Khazzam: 6-10-2023, 175
-David Khazzam: 6-11-2023, 29
-Sass Khazzam: 6-11-2023, 125
+Sass Khazzam, 2023-06-10, 175
+David Khazzam, 2023-06-11, 29
+Sass Khazzam, 2023-06-11, 125
 Jelle, 2023-06-11, 68
 Dad, 2023-06-11, 83
 Anne Khazzam, 2023-06-11, 87
@@ -960,680 +960,680 @@ Aaron Iny, 2023-06-11, 162
 Dad, 2023-06-12, 60
 Jelle, 2023-06-12, 155
 Jared Rabinovici, 2023-06-12, 39
-David Khazzam: 6-12-2023, 100
-Cecilia/John Perez/Hagist: 6-12-2023, 87
-Rebecca Benest: 6-12-2023, 85
-Sass Khazzam: 6-12-2023, 118
+David Khazzam, 2023-06-12, 100
+John Hagist, 2023-06-12, 87
+Rebecca Benest, 2023-06-12, 85
+Sass Khazzam, 2023-06-12, 118
 Mom, 2023-06-12, 113
-David Khazzam: 6-13-2023, 56
+David Khazzam, 2023-06-13, 56
 Dad, 2023-06-13, 66
 Emma Khazzam, 2023-06-13, 132
-Cecilia/John Perez/Hagist: 6-13-2023, 212
+John Hagist, 2023-06-13, 212
 Jelle, 2023-06-13, 157
 Mom, 2023-06-13, 320
 Anne Khazzam, 2023-06-13, 113
 Aaron Iny, 2023-06-13, 156
-Rebecca Benest: 6-13-2023, 106
-Sass Khazzam: 6-13-2023, 145
-Cecilia/John Perez/Hagist: 6-14-2023, 64
+Rebecca Benest, 2023-06-13, 106
+Sass Khazzam, 2023-06-13, 145
+John Hagist, 2023-06-14, 64
 Anne Khazzam, 2023-06-14, 76
 Jared Rabinovici, 2023-06-14, 44
 Dad, 2023-06-14, 64
 Mom, 2023-06-14, 93
-David Khazzam: 6-14-2023, 37
+David Khazzam, 2023-06-14, 37
 Emma Khazzam, 2023-06-14, 65
 Jelle, 2023-06-14, 56
-Rebecca Benest: 6-14-2023, 39
+Rebecca Benest, 2023-06-14, 39
 Aaron Iny, 2023-06-14, 148
-Sass Khazzam: 6-14-2023, 60
-Cecilia/John Perez/Hagist: 6-15-2023, 49
-Sass Khazzam: 6-15-2023, 72
-David Khazzam: 6-15-2023, 40
+Sass Khazzam, 2023-06-14, 60
+John Hagist, 2023-06-15, 49
+Sass Khazzam, 2023-06-15, 72
+David Khazzam, 2023-06-15, 40
 Jared Rabinovici, 2023-06-15, 42
 Dad, 2023-06-15, 53
 Emma Khazzam, 2023-06-15, 59
 Jelle, 2023-06-15, 65
 Anne Khazzam, 2023-06-15, 41
 Aaron Iny, 2023-06-15, 68
-Rebecca Benest: 6-15-2023, 44
+Rebecca Benest, 2023-06-15, 44
 Mom, 2023-06-16, 126
-David Khazzam: 6-16-2023, 61
+David Khazzam, 2023-06-16, 61
 Jared Rabinovici, 2023-06-16, 83
 Dad, 2023-06-16, 47
 Anne Khazzam, 2023-06-16, 80
-Cecilia/John Perez/Hagist: 6-16-2023, 143
-Rebecca Benest: 6-16-2023, 129
-Sass Khazzam: 6-16-2023, 51
+John Hagist, 2023-06-16, 143
+Rebecca Benest, 2023-06-16, 129
+Sass Khazzam, 2023-06-16, 51
 Jonah Pagano, 2023-06-16, 203
 Aaron Iny, 2023-06-16, 354
 Dad, 2023-06-17, 81
 Jared Rabinovici, 2023-06-17, 161
-David Khazzam: 6-17-2023, 1023
+David Khazzam, 2023-06-17, 1023
 Anne Khazzam, 2023-06-17, 132
-Rebecca Benest: 6-17-2023, 95
-Sass Khazzam: 6-17-2023, 176
-Cecilia/John Perez/Hagist: 6-17-2023, 256
+Rebecca Benest, 2023-06-17, 95
+Sass Khazzam, 2023-06-17, 176
+John Hagist, 2023-06-17, 256
 Jonah Pagano, 2023-06-17, 220
 Aaron Iny, 2023-06-17, 509
-Cecilia/John Perez/Hagist: 6-18-2023, 83
-Sass Khazzam: 6-18-2023, 137
+John Hagist, 2023-06-18, 83
+Sass Khazzam, 2023-06-18, 137
 Anne Khazzam, 2023-06-18, 67
 Dad, 2023-06-18, 31
 Jelle, 2023-06-18, 63
-David Khazzam: 6-18-2023, 42
+David Khazzam, 2023-06-18, 42
 Jared Rabinovici, 2023-06-18, 41
 Emma Khazzam, 2023-06-18, 171
-Cecilia/John Perez/Hagist: 6-19-2023, 103
+John Hagist, 2023-06-19, 103
 Jelle, 2023-06-19, 234
-David Khazzam: 6-19-2023, 57
+David Khazzam, 2023-06-19, 57
 Mom, 2023-06-19, 297
 Dad, 2023-06-19, 71
 Aaron Iny, 2023-06-19, 186
 Emma Khazzam, 2023-06-19, 205
-Alexis Villalobos: 6-19-2023, 47
-Sass Khazzam: 6-20-2023, 128
+Alexis Villalobos, 2023-06-19, 47
+Sass Khazzam, 2023-06-20, 128
 Shira Iny, 2023-06-20, 79
-David Khazzam: 6-20-2023, 29
+David Khazzam, 2023-06-20, 29
 Jared Rabinovici, 2023-06-20, 71
 Dad, 2023-06-20, 58
 Mom, 2023-06-20, 176
 Anne Khazzam, 2023-06-20, 68
-Cecilia/John Perez/Hagist: 6-20-2023, 89
+John Hagist, 2023-06-20, 89
 Jelle, 2023-06-20, 71
 Emma Khazzam, 2023-06-20, 208
 Aaron Iny, 2023-06-20, 84
-Rebecca Benest: 6-20-2023, 40
-Cecilia/John Perez/Hagist: 6-21-2023, 30
-Sass Khazzam: 6-21-2023, 72
+Rebecca Benest, 2023-06-20, 40
+John Hagist, 2023-06-21, 30
+Sass Khazzam, 2023-06-21, 72
 Dad, 2023-06-21, 58
-David Khazzam: 6-21-2023, 92
+David Khazzam, 2023-06-21, 92
 Jared Rabinovici, 2023-06-21, 140
 Mom, 2023-06-21, 386
 Jelle, 2023-06-21, 162
-Rebecca Benest: 6-21-2023, 26
+Rebecca Benest, 2023-06-21, 26
 Anne Khazzam, 2023-06-21, 51
 Aaron Iny, 2023-06-21, 196
 Shira Iny, 2023-06-22, 120
 Dad, 2023-06-22, 76
-David Khazzam: 6-22-2023, 161
+David Khazzam, 2023-06-22, 161
 Mom, 2023-06-22, 139
-Sass Khazzam: 6-22-2023, 130
-Rebecca Benest: 6-22-2023, 53
+Sass Khazzam, 2023-06-22, 130
+Rebecca Benest, 2023-06-22, 53
 Emma Khazzam, 2023-06-22, 9876
 Aaron Iny, 2023-06-22, 219
-Cecilia/John Perez/Hagist: 6-23-2023, 91
+John Hagist, 2023-06-23, 91
 Anne Khazzam, 2023-06-23, 77
 Emma Khazzam, 2023-06-23, 84
 Jelle, 2023-06-23, 70
 Dad, 2023-06-23, 42
-David Khazzam: 6-23-2023, 40
+David Khazzam, 2023-06-23, 40
 Jared Rabinovici, 2023-06-23, 94
-Sass Khazzam: 6-23-2023, 75
+Sass Khazzam, 2023-06-23, 75
 Jonah Pagano, 2023-06-23, 47
 Aaron Iny, 2023-06-23, 76
-Rebecca Benest: 6-23-2023, 58
-Sass Khazzam: 6-24-2023, 195
-Alexis Villalobos: 6-23-2023, 135
-Rebecca Benest: 6-24-2023, 88
-Cecilia/John Perez/Hagist: 6-24-2023, 171
+Rebecca Benest, 2023-06-23, 58
+Sass Khazzam, 2023-06-24, 195
+Alexis Villalobos, 2023-06-23, 135
+Rebecca Benest, 2023-06-24, 88
+John Hagist, 2023-06-24, 171
 Jared Rabinovici, 2023-06-24, 103
-David Khazzam: 6-24-2023, 164
+David Khazzam, 2023-06-24, 164
 Dad, 2023-06-24, 207
 Mom, 2023-06-24, 519
 Emma Khazzam, 2023-06-24, 188
 Aaron Iny, 2023-06-24, 346
 Jelle, 2023-06-24, 195
 Anne Khazzam, 2023-06-24, 271
-Rebecca Benest: 6-25-2023, 60
+Rebecca Benest, 2023-06-25, 60
 Jared Rabinovici, 2023-06-25, 40
-David Khazzam: 6-25-2023, 48
+David Khazzam, 2023-06-25, 48
 Dad, 2023-06-25, 56
 Mom, 2023-06-25, 395
 Aaron Iny, 2023-06-25, 136
 Anne Khazzam, 2023-06-25, 58
-Sass Khazzam: 6-25-2023, 463
-Cecilia/John Perez/Hagist: 6-25-2023, 99
-Cecilia/John Perez/Hagist: 6-26-2023, 72
+Sass Khazzam, 2023-06-25, 463
+John Hagist, 2023-06-25, 99
+John Hagist, 2023-06-26, 72
 Anne Khazzam, 2023-06-26, 65
 Emma Khazzam, 2023-06-26, 59
 Jared Rabinovici, 2023-06-26, 28
 Dad, 2023-06-26, 29
-David Khazzam: 6-26-2023, 47
+David Khazzam, 2023-06-26, 47
 Mom, 2023-06-26, 138
 Aaron Iny, 2023-06-26, 71
-Rebecca Benest: 6-26-2023, 77
-Sass Khazzam: 6-26-2023, 60
+Rebecca Benest, 2023-06-26, 77
+Sass Khazzam, 2023-06-26, 60
 Dad, 2023-06-27, 54
 Mom, 2023-06-27, 160
 Jared Rabinovici, 2023-06-27, 34
-David Khazzam: 6-27-2023, 50
-Cecilia/John Perez/Hagist: 6-27-2023, 198
-Rebecca Benest: 6-27-2023, 57
+David Khazzam, 2023-06-27, 50
+John Hagist, 2023-06-27, 198
+Rebecca Benest, 2023-06-27, 57
 Aaron Iny, 2023-06-27, 88
-Sass Khazzam: 6-27-2023, 102
+Sass Khazzam, 2023-06-27, 102
 Jonah Pagano, 2023-06-27, 73
-Sass Khazzam: 6-28-2023, 247
-Cecilia/John Perez/Hagist: 6-28-2023, 208
+Sass Khazzam, 2023-06-28, 247
+John Hagist, 2023-06-28, 208
 Aaron Iny, 2023-06-28, 300
-David Khazzam: 6-28-2023, 438
+David Khazzam, 2023-06-28, 438
 Jared Rabinovici, 2023-06-28, 90
 Emma Khazzam, 2023-06-28, 144
 Dad, 2023-06-28, 84
 Anne Khazzam, 2023-06-28, 127
-Rebecca Benest: 6-28-2023, 52
+Rebecca Benest, 2023-06-28, 52
 Mom, 2023-06-28, 307
-Cecilia/John Perez/Hagist: 6-29-2023, 67
+John Hagist, 2023-06-29, 67
 Anne Khazzam, 2023-06-29, 83
 Dad, 2023-06-29, 44
-David Khazzam: 6-29-2023, 32
+David Khazzam, 2023-06-29, 32
 Jelle, 2023-06-29, 46
-Sass Khazzam: 6-29-2023, 93
+Sass Khazzam, 2023-06-29, 93
 Jonah Pagano, 2023-06-29, 30
-Rebecca Benest: 6-29-2023, 29
+Rebecca Benest, 2023-06-29, 29
 Aaron Iny, 2023-06-29, 112
-Cecilia/John Perez/Hagist: 6-30-2023, 68
+John Hagist, 2023-06-30, 68
 Anne Khazzam, 2023-06-30, 44
 Mom, 2023-06-30, 137
 Dad, 2023-06-30, 38
 Aaron Iny, 2023-06-30, 71
 Jonah Pagano, 2023-06-30, 64
-David Khazzam: 6-30-2023, 33
+David Khazzam, 2023-06-30, 33
 Jelle, 2023-06-30, 50
-Rebecca Benest: 6-30-2023, 35
-Sass Khazzam: 6-30-2023, 93
-Rebecca Benest: 7-01-2023, 113
-Alexis Villalobos: 7-01-2023, 335
-David Khazzam: 7-01-2023, 72
-Sass Khazzam: 7-01-2023, 175
+Rebecca Benest, 2023-06-30, 35
+Sass Khazzam, 2023-06-30, 93
+Rebecca Benest, 2023-07-01, 113
+Alexis Villalobos, 2023-07-01, 335
+David Khazzam, 2023-07-01, 72
+Sass Khazzam, 2023-07-01, 175
 Anne Khazzam, 2023-07-01, 114
 Jonah Pagano, 2023-07-01, 132
 Dad, 2023-07-01, 69
 Aaron Iny, 2023-07-01, 253
 Mom, 2023-07-01, 409
 Jelle, 2023-07-01, 170
-Cecilia/John Perez/Hagist: 7-01-2023, 103
-Sass Khazzam: 7-02-2023, 95
+John Hagist, 2023-07-01, 103
+Sass Khazzam, 2023-07-02, 95
 Mom, 2023-07-02, 148
 Dad, 2023-07-02, 57
 Jelle, 2023-07-02, 82
 Anne Khazzam, 2023-07-02, 65
-David Khazzam: 7-02-2023, 41
+David Khazzam, 2023-07-02, 41
 Emma Khazzam, 2023-07-02, 75
-Rebecca Benest: 7-02-2023, 72
-Mom: 7-02-2023, 74
-Alexis Villalobos: 7-02-2023, 60
-Cecilia/John Perez/Hagist: 7-03-2023, 76
+Rebecca Benest, 2023-07-02, 72
+Mom, 2023-07-02, 74
+Alexis Villalobos, 2023-07-02, 60
+John Hagist, 2023-07-03, 76
 Sass Khazzam, 2023-07-03, 54
 Emma Cook, 2023-07-03, 91
 Jared Rabinovici, 2023-07-03, 31
-David Khazzam: 7-03-2023, 100
+David Khazzam, 2023-07-03, 100
 Jelle, 2023-07-03, 103
 Mom, 2023-07-03, 180
-Rebecca Benest: 7-03-2023, 37
+Rebecca Benest, 2023-07-03, 37
 Dad, 2023-07-03, 40
 Jonah Pagano, 2023-07-03, 44
 Aaron Iny, 2023-07-03, 58
-David Khazzam: 7-04-2023, 63
+David Khazzam, 2023-07-04, 63
 Jared Rabinovici, 2023-07-04, 32
 Jelle, 2023-07-04, 47
-Cecilia/John Perez/Hagist: 7-04-2023, 79
+John Hagist, 2023-07-04, 79
 Anne Khazzam, 2023-07-04, 83
 Aaron Iny, 2023-07-04, 130
 Dad, 2023-07-04, 46
-Rebecca Benest: 7-04-2023, 58
-Sass Khazzam: 7-04-2023, 88
+Rebecca Benest, 2023-07-04, 58
+Sass Khazzam, 2023-07-04, 88
 Jonah Pagano, 2023-07-04, 78
-Eden Jablon: 7-04-2023, 52
+Eden Jablon, 2023-07-04, 52
 Jelle, 2023-07-05, 79
 Jared Rabinovici, 2023-07-05, 40
-David Khazzam: 7-05-2023, 38
-Cecilia/John Perez/Hagist: 7-05-2023, 49
+David Khazzam, 2023-07-05, 38
+John Hagist, 2023-07-05, 49
 Jonah Pagano, 2023-07-05, 22
 Anne Khazzam, 2023-07-05, 40
 Aaron Iny, 2023-07-05, 38
-Rebecca Benest: 7-05-2023, 34
+Rebecca Benest, 2023-07-05, 34
 Dad, 2023-07-05, 36
-Cecilia/John Perez/Hagist: 7-06-2023, 84
+John Hagist, 2023-07-06, 84
 Jelle, 2023-07-06, 187
 Aaron Iny, 2023-07-06, 75
-Sass Khazzam: 7-05-2023, 92
-Sass Khazzam: 7-06-2023, 83
+Sass Khazzam, 2023-07-05, 92
+Sass Khazzam, 2023-07-06, 83
 Aaron Iny, 2023-07-07, 197
 Jonah Pagano, 2023-07-07, 72
-Cecilia/John Perez/Hagist: 7-07-2023, 293
+John Hagist, 2023-07-07, 293
 Jelle, 2023-07-07, 166
-Sass Khazzam: 7-07-2023, 224
-Cecilia/John Perez/Hagist: 7-08-2023, 115
-David Khazzam: 7-08-2023, 180
+Sass Khazzam, 2023-07-07, 224
+John Hagist, 2023-07-08, 115
+David Khazzam, 2023-07-08, 180
 Dad, 2023-07-08, 77
-Sass Khazzam: 7-08-2023, 261
+Sass Khazzam, 2023-07-08, 261
 Anne Khazzam, 2023-07-08, 117
-David Khazzam: 7-09-2023, 47
+David Khazzam, 2023-07-09, 47
 Jelle, 2023-07-09, 52
 Emma Khazzam, 2023-07-09, 92
-Sass Khazzam: 7-09-2023, 48
-Cecilia/John Perez/Hagist: 7-09-2023, 44
-Rebecca Benest: 7-09-2023, 31
-Cecilia/John Perez/Hagist: 7-10-2023, 66
+Sass Khazzam, 2023-07-09, 48
+John Hagist, 2023-07-09, 44
+Rebecca Benest, 2023-07-09, 31
+John Hagist, 2023-07-10, 66
 Dad, 2023-07-10, 54
 Anne Khazzam, 2023-07-10, 58
-Sass Khazzam: 7-10-2023, 73
+Sass Khazzam, 2023-07-10, 73
 Jared Rabinovici, 2023-07-10, 34
-David Khazzam: 7-10-2023, 32
+David Khazzam, 2023-07-10, 32
 Jonah Pagano, 2023-07-10, 51
 Jelle, 2023-07-10, 90
 Aaron Iny, 2023-07-10, 77
-Rebecca Benest: 7-10-2023, 36
+Rebecca Benest, 2023-07-10, 36
 Jelle, 2023-07-11, 69
-David Khazzam: 7-11-2023, 40
-Sass Khazzam: 7-11-2023, 150
+David Khazzam, 2023-07-11, 40
+Sass Khazzam, 2023-07-11, 150
 Aaron Iny, 2023-07-11, 74
 Jared Rabinovici, 2023-07-11, 40
-David Khazzam: 7-12-2023, 482
+David Khazzam, 2023-07-12, 482
 Jelle, 2023-07-12, 125
 Jared Rabinovici, 2023-07-12, 62
 Jonah Pagano, 2023-07-12, 54
 Dad, 2023-07-12, 46
 Aaron Iny, 2023-07-12, 84
 Emma Khazzam, 2023-07-12, 198
-Rebecca Benest: 7-12-2023, 104
+Rebecca Benest, 2023-07-12, 104
 Anne Khazzam, 2023-07-12, 114
 Mom, 2023-07-12, 182
-Sass Khazzam: 7-12-2023, 267
-Sass Khazzam: 7-13-2023, 71
-Cecilia/John Perez/Hagist: 7-13-2023, 141
+Sass Khazzam, 2023-07-12, 267
+Sass Khazzam, 2023-07-13, 71
+John Hagist, 2023-07-13, 141
 Dad, 2023-07-13, 58
-David Khazzam: 7-13-2023, 176
+David Khazzam, 2023-07-13, 176
 Anne Khazzam, 2023-07-13, 133
 Jonah Pagano, 2023-07-13, 67
-Rebecca Benest: 7-13-2023, 97
-Claire Samuels: 7-13-2023, 172
+Rebecca Benest, 2023-07-13, 97
+Claire Samuels, 2023-07-13, 172
 Aaron Iny, 2023-07-13, 232
-Mom: 7-13-2023, 287
-Cecilia/John Perez/Hagist: 7-14-2023, 85
-Sass Khazzam: 7-14-2023, 75
-Eden Jablon: 7-14-2023, 44
+Mom, 2023-07-13, 287
+John Hagist, 2023-07-14, 85
+Sass Khazzam, 2023-07-14, 75
+Eden Jablon, 2023-07-14, 44
 Jared Rabinovici, 2023-07-14, 46
 Emma Khazzam, 2023-07-14, 77
 Jelle, 2023-07-14, 67
-David Khazzam: 7-14-2023, 29
+David Khazzam, 2023-07-14, 29
 Jonah Pagano, 2023-07-14, 52
 Anne Khazzam, 2023-07-14, 107
 Dad, 2023-07-14, 44
-Claire Samuels: 7-14-2023, 144
-Cecilia/John Perez/Hagist: 7-15-2023, 234
+Claire Samuels, 2023-07-14, 144
+John Hagist, 2023-07-15, 234
 Dad, 2023-07-15, 116
 Jared Rabinovici, 2023-07-15, 153
-David Khazzam: 7-15-2023, 194
-Claire Samuels: 7-15-2023, 279
-Sass Khazzam: 7-15-2023, 126
-Rebecca Benest: 7-15-2023, 81
+David Khazzam, 2023-07-15, 194
+Claire Samuels, 2023-07-15, 279
+Sass Khazzam, 2023-07-15, 126
+Rebecca Benest, 2023-07-15, 81
 Jonah Pagano, 2023-07-15, 122
-Cecilia/John Perez/Hagist: 7-16-2023, 105
+John Hagist, 2023-07-16, 105
 Dad, 2023-07-16, 55
 Anne Khazzam, 2023-07-16, 53
 Jared Rabinovici, 2023-07-16, 40
-David Khazzam: 7-16-2023, 31
-Sass Khazzam: 7-16-2023, 43
+David Khazzam, 2023-07-16, 31
+Sass Khazzam, 2023-07-16, 43
 Emma Khazzam, 2023-07-16, 104
 Aaron Iny, 2023-07-16, 75
 Jonah Pagano, 2023-07-16, 138
-Rebecca Benest: 7-17-2023, 63
+Rebecca Benest, 2023-07-17, 63
 Dad, 2023-07-17, 36
 Anne Khazzam, 2023-07-17, 64
 Mom, 2023-07-17, 130
-Cecilia/John Perez/Hagist: 7-17-2023, 54
+John Hagist, 2023-07-17, 54
 Jonah Pagano, 2023-07-17, 29
-David Khazzam: 7-17-2023, 30
+David Khazzam, 2023-07-17, 30
 Jelle, 2023-07-17, 45
 Aaron Iny, 2023-07-17, 50
-Cecilia/John Perez/Hagist: 7-18-2023, 57
+John Hagist, 2023-07-18, 57
 Dad, 2023-07-18, 44
 Mom, 2023-07-18, 121
-David Khazzam: 7-18-2023, 43
-Claire Samuels: 7-18-2023, 84
-Sass Khazzam: 7-18-2023, 154
+David Khazzam, 2023-07-18, 43
+Claire Samuels, 2023-07-18, 84
+Sass Khazzam, 2023-07-18, 154
 Jelle, 2023-07-18, 106
 Aaron Iny, 2023-07-18, 53
 Jared Rabinovici, 2023-07-18, 33
 Jonah Pagano, 2023-07-18, 52
-Rebecca Benest: 7-18-2023, 43
-David Khazzam: 7-19-2023, 63
+Rebecca Benest, 2023-07-18, 43
+David Khazzam, 2023-07-19, 63
 Jared Rabinovici, 2023-07-19, 52
-Sass Khazzam: 7-19-2023, 89
+Sass Khazzam, 2023-07-19, 89
 Anne Khazzam, 2023-07-19, 37
-Claire Samuels: 7-19-2023, 80
+Claire Samuels, 2023-07-19, 80
 Jelle, 2023-07-19, 101
 Dad, 2023-07-19, 47
 Aaron Iny, 2023-07-19, 122
-Cecilia/John Perez/Hagist: 7-19-2023, 35
-Rebecca Benest: 7-19-2023, 38
+John Hagist, 2023-07-19, 35
+Rebecca Benest, 2023-07-19, 38
 Jonah Pagano, 2023-07-19, 46
-Sass Khazzam: 7-20-2023, 134
-Mom: 7-20-2023, 128
-Eden Jablon: 7-20-2023, 41
+Sass Khazzam, 2023-07-20, 134
+Mom, 2023-07-20, 128
+Eden Jablon, 2023-07-20, 41
 Dad, 2023-07-20, 61
 Jelle, 2023-07-20, 114
-David Khazzam: 7-20-2023, 39
+David Khazzam, 2023-07-20, 39
 Jared Rabinovici, 2023-07-20, 31
 Anne Khazzam, 2023-07-20, 63
 Aaron Iny, 2023-07-20, 80
 Jonah Pagano, 2023-07-20, 93
-Cecilia/John Perez/Hagist: 7-20-2023, 107
-Rebecca Benest: 7-20-2023, 55
-Cecilia/John Perez/Hagist: 7-21-2023, 73
-Eden Jablon: 7-21-2023, 107
-Sass Khazzam: 7-21-2023, 60
+John Hagist, 2023-07-20, 107
+Rebecca Benest, 2023-07-20, 55
+John Hagist, 2023-07-21, 73
+Eden Jablon, 2023-07-21, 107
+Sass Khazzam, 2023-07-21, 60
 Jared Rabinovici, 2023-07-21, 49
-David Khazzam: 7-21-2023, 207
+David Khazzam, 2023-07-21, 207
 Anne Khazzam, 2023-07-21, 209
 Aaron Iny, 2023-07-21, 293
 Jonah Pagano, 2023-07-21, 159
-Rebecca Benest: 7-21-2023, 174
+Rebecca Benest, 2023-07-21, 174
 Dad, 2023-07-21, 71
-David Khazzam: 7-22-2023, 109
+David Khazzam, 2023-07-22, 109
 Jelle, 2023-07-22, 134
 Dad, 2023-07-22, 74
-Sass Khazzam: 7-22-2023, 141
+Sass Khazzam, 2023-07-22, 141
 Emma Khazzam, 2023-07-22, 196
 Anne Khazzam, 2023-07-22, 232
-Cecilia/John Perez/Hagist: 7-23-2023, 116
-Rebecca Benest: 7-22-2023, 88
+John Hagist, 2023-07-23, 116
+Rebecca Benest, 2023-07-22, 88
 Mom, 2023-07-23, 394
-Eden Jablon: 7-23-2023, 42
-David Khazzam: 7-23-2023, 62
-Rebecca Benest: 7-23-2023, 68
+Eden Jablon, 2023-07-23, 42
+David Khazzam, 2023-07-23, 62
+Rebecca Benest, 2023-07-23, 68
 Dad, 2023-07-23, 57
 Aaron Iny, 2023-07-23, 115
 Anne Khazzam, 2023-07-24, 36
-David Khazzam: 7-24-2023, 33
+David Khazzam, 2023-07-24, 33
 Jared Rabinovici, 2023-07-24, 27
 Sass Khazzam, 2023-07-24, 51
 Jonah Pagano, 2023-07-24, 25
-Cecilia/John Perez/Hagist: 7-24-2023, 78
+John Hagist, 2023-07-24, 78
 Mom, 2023-07-24, 103
-Eden Jablon: 7-24-2023, 35
+Eden Jablon, 2023-07-24, 35
 Jelle, 2023-07-24, 42
 Emma Khazzam, 2023-07-24, 64
 Dad, 2023-07-24, 48
 Aaron Iny, 2023-07-24, 81
-Rebecca Benest: 7-24-2023, 27
-Claire Samuels: 7-24-2023, 51
-Eden Jablon: 7-25-2023, 115
-Cecilia/John Perez/Hagist: 7-25-2023, 207
+Rebecca Benest, 2023-07-24, 27
+Claire Samuels, 2023-07-24, 51
+Eden Jablon, 2023-07-25, 115
+John Hagist, 2023-07-25, 207
 Anne Khazzam, 2023-07-25, 151
 Jelle, 2023-07-25, 151
 Aaron Iny, 2023-07-25, 79
-Rebecca Benest: 7-25-2023, 126
+Rebecca Benest, 2023-07-25, 126
 Dad, 2023-07-25, 76
-Sass Khazzam: 7-25-2023, 154
+Sass Khazzam, 2023-07-25, 154
 Mom, 2023-07-25, 171
-Cecilia/John Perez/Hagist: 7-26-2023, 69
+John Hagist, 2023-07-26, 69
 Jonah Pagano, 2023-07-26, 45
-David Khazzam: 7-26-2023, 33
+David Khazzam, 2023-07-26, 33
 Jared Rabinovici, 2023-07-26, 38
 Anne Khazzam, 2023-07-26, 90
 Jelle, 2023-07-26, 90
 Dad, 2023-07-26, 55
-Claire Samuels: 7-26-2023, 57
-Rebecca Benest: 7-26-2023, 35
+Claire Samuels, 2023-07-26, 57
+Rebecca Benest, 2023-07-26, 35
 Aaron Iny, 2023-07-26, 66
-Sass Khazzam: 7-26-2023, 48
-David Khazzam: 7-27-2023, 82
+Sass Khazzam, 2023-07-26, 48
+David Khazzam, 2023-07-27, 82
 Jared Rabinovici, 2023-07-27, 38
 Jelle, 2023-07-27, 104
-Sass Khazzam: 7-27-2023, 473
+Sass Khazzam, 2023-07-27, 473
 Dad, 2023-07-27, 69
-Claire Samuels: 7-27-2023, 218
+Claire Samuels, 2023-07-27, 218
 Aaron Iny, 2023-07-27, 96
-Rebecca Benest: 7-27-2023, 105
+Rebecca Benest, 2023-07-27, 105
 Mom, 2023-07-27, 190
-Sass Khazzam: 7-28-2023, 362
+Sass Khazzam, 2023-07-28, 362
 Aaron Iny, 2023-07-28, 233
 Anne Khazzam, 2023-07-28, 212
-Rebecca Benest: 7-28-2023, 138
+Rebecca Benest, 2023-07-28, 138
 Emma Khazzam, 2023-07-28, 444
-David Khazzam: 7-28-2023, 522
-Claire Samuels: 7-28-2023, 137
-Cecilia/John Perez/Hagist: 7-28-2023, 299
+David Khazzam, 2023-07-28, 522
+Claire Samuels, 2023-07-28, 137
+John Hagist, 2023-07-28, 299
 Jonah Pagano, 2023-07-28, 93
 Dad, 2023-07-28, 156
-Sass Khazzam: 7-29-2023, 140
+Sass Khazzam, 2023-07-29, 140
 Mom, 2023-07-28, 308
-Cecilia/John Perez/Hagist: 7-29-2023, 143
+John Hagist, 2023-07-29, 143
 Mom, 2023-07-29, 240
-Eden Jablon: 7-29-2023, 176
+Eden Jablon, 2023-07-29, 176
 Jelle, 2023-07-29, 175
 Anne Khazzam, 2023-07-29, 118
 Dad, 2023-07-29, 81
-Claire Samuels: 7-29-2023, 150
-David Khazzam: 7-29-2023, 131
+Claire Samuels, 2023-07-29, 150
+David Khazzam, 2023-07-29, 131
 Emma Khazzam, 2023-07-29, 174
 Jared Rabinovici, 2023-07-29, 92
 Aaron Iny, 2023-07-29, 214
-Rebecca Benest: 7-29-2023, 92
-Sass Khazzam: 7-30-2023, 76
-Cecilia/John Perez/Hagist: 7-30-2023, 94
-Eden Jablon: 7-30-2023, 36
-David Khazzam: 7-30-2023, 33
+Rebecca Benest, 2023-07-29, 92
+Sass Khazzam, 2023-07-30, 76
+John Hagist, 2023-07-30, 94
+Eden Jablon, 2023-07-30, 36
+David Khazzam, 2023-07-30, 33
 Jelle, 2023-07-30, 42
 Dad, 2023-07-30, 44
 Anne Khazzam, 2023-07-30, 30
-Rebecca Benest: 7-30-2023, 53
+Rebecca Benest, 2023-07-30, 53
 Jonah Pagano, 2023-07-30, 48
 Aaron Iny, 2023-07-30, 123
 Emma Khazzam, 2023-07-30, 32
-Cecilia/John Perez/Hagist: 7-31-2023, 111
-Mom: 7-31-2023, 46
-David Khazzam: 7-31-2023, 48
-Claire Samuels: 7-31-2023, 69
+John Hagist, 2023-07-31, 111
+Mom, 2023-07-31, 46
+David Khazzam, 2023-07-31, 48
+Claire Samuels, 2023-07-31, 69
 Emma Khazzam, 2023-07-31, 43
 Jonah Pagano, 2023-07-31, 48
-Sass Khazzam: 7-31-2023, 25
+Sass Khazzam, 2023-07-31, 25
 Dad, 2023-07-31, 46
 Aaron Iny, 2023-07-31, 54
 Anne Khazzam, 2023-07-31, 59
-Rebecca Benest: 7-31-2023, 38
+Rebecca Benest, 2023-07-31, 38
 Jelle, 2023-07-31, 34
-David Khazzam: 8-01-2023, 242
+David Khazzam, 2023-08-01, 242
 Emma Khazzam, 2023-08-01, 243
-Mom: 8-01-2023, 91
+Mom, 2023-08-01, 91
 Dad, 2023-08-01, 125
-Sass Khazzam: 8-01-2023, 150
-Rebecca Benest: 8-01-2023, 65
+Sass Khazzam, 2023-08-01, 150
+Rebecca Benest, 2023-08-01, 65
 Jelle, 2023-08-01, 215
 Aaron Iny, 2023-08-01, 378
-Cecilia/John Perez/Hagist: 8-01-2023, 264
+John Hagist, 2023-08-01, 264
 Jared Rabinovici, 2023-08-01, 51
 Jonah Pagano, 2023-08-01, 136
-Anusha Samarabandu: 8-01-2023, 68
-Sass Khazzam: 8-02-2023, 49
+Anusha Samarabandu, 2023-08-01, 68
+Sass Khazzam, 2023-08-02, 49
 Mom, 2023-08-02, 133
 Jelle, 2023-08-02, 169
-Anusha Samarabandu: 8-02-2023, 47
-David Khazzam: 8-02-2023, 81
+Anusha Samarabandu, 2023-08-02, 47
+David Khazzam, 2023-08-02, 81
 Anne Khazzam, 2023-08-02, 80
-Cecilia/John Perez/Hagist: 8-02-2023, 178
+John Hagist, 2023-08-02, 178
 Aaron Iny, 2023-08-02, 185
 Dad, 2023-08-02, 62
-Rebecca Benest: 8-02-2023, 59
+Rebecca Benest, 2023-08-02, 59
 Emma Khazzam, 2023-08-02, 193
-Claire Samuels: 8-02-2023, 128
-Sass Khazzam: 8-03-2023, 81
+Claire Samuels, 2023-08-02, 128
+Sass Khazzam, 2023-08-03, 81
 Aaron Iny, 2023-08-03, 145
 Anne Khazzam, 2023-08-03, 57
-David Khazzam: 8-03-2023, 41
-Rebecca Benest: 8-03-2023, 41
-Anusha Samarabandu: 8-03-2023, 36
+David Khazzam, 2023-08-03, 41
+Rebecca Benest, 2023-08-03, 41
+Anusha Samarabandu, 2023-08-03, 36
 Dad, 2023-08-03, 52
-Cecilia/John Perez/Hagist: 8-03-2023, 173
-Sass Khazzam: 8-04-2023, 146
+John Hagist, 2023-08-03, 173
+Sass Khazzam, 2023-08-04, 146
 Jonah Pagano, 2023-08-04, 77
-Cecilia/John Perez/Hagist: 8-04-2023, 99
-Anusha Samarabandu: 8-04-2023, 44
-David Khazzam: 8-04-2023, 35
+John Hagist, 2023-08-04, 99
+Anusha Samarabandu, 2023-08-04, 44
+David Khazzam, 2023-08-04, 35
 Dad, 2023-08-04, 58
 Jelle, 2023-08-04, 75
 Aaron Iny, 2023-08-04, 90
-Rebecca Benest: 8-04-2023, 77
+Rebecca Benest, 2023-08-04, 77
 Mom, 2023-08-04, 136
 Anne Khazzam, 2023-08-04, 141
-Sass Khazzam: 8-05-2023, 180
+Sass Khazzam, 2023-08-05, 180
 Jared Rabinovici, 2023-08-05, 105
-David Khazzam: 8-05-2023, 113
-Anusha Samarabandu: 8-05-2023, 108
+David Khazzam, 2023-08-05, 113
+Anusha Samarabandu, 2023-08-05, 108
 Dad, 2023-08-05, 128
 Jelle, 2023-08-05, 203
 Mom, 2023-08-05, 225
-Cecilia/John Perez/Hagist: 8-05-2023, 325
+John Hagist, 2023-08-05, 325
 Aaron Iny, 2023-08-05, 197
-Sass Khazzam: 8-06-2023, 63
-David Khazzam: 8-06-2023, 38
-Anusha Samarabandu: 8-06-2023, 36
+Sass Khazzam, 2023-08-06, 63
+David Khazzam, 2023-08-06, 38
+Anusha Samarabandu, 2023-08-06, 36
 Anne Khazzam, 2023-08-06, 64
 Dad, 2023-08-06, 48
-Cecilia/John Perez/Hagist: 8-06-2023, 44
-Claire Samuels: 8-06-2023, 83
+John Hagist, 2023-08-06, 44
+Claire Samuels, 2023-08-06, 83
 Jelle, 2023-08-06, 140
-Cecilia/John Perez/Hagist: 8-07-2023, 61
-Eden Jablon: 8-07-2023, 64
+John Hagist, 2023-08-07, 61
+Eden Jablon, 2023-08-07, 64
 Jared Rabinovici, 2023-08-07, 41
-David Khazzam: 8-07-2023, 44
-Anusha Samarabandu: 8-07-2023, 20
+David Khazzam, 2023-08-07, 44
+Anusha Samarabandu, 2023-08-07, 20
 Anne Khazzam, 2023-08-07, 51
 Mom, 2023-08-07, 164
 Dad, 2023-08-07, 53
-Sass Khazzam: 8-07-2023, 159
+Sass Khazzam, 2023-08-07, 159
 Emma Khazzam, 2023-08-07, 65
-Anusha Samarabandu: 8-08-2023, 45
-Sass Khazzam: 8-08-2023, 131
-David Khazzam: 8-08-2023, 29
+Anusha Samarabandu, 2023-08-08, 45
+Sass Khazzam, 2023-08-08, 131
+David Khazzam, 2023-08-08, 29
 Dad, 2023-08-08, 48
-Cecilia/John Perez/Hagist: 8-08-2023, 306
-Rebecca Benest: 8-08-2023, 78
+John Hagist, 2023-08-08, 306
+Rebecca Benest, 2023-08-08, 78
 Anne Khazzam, 2023-08-08, 62
 Aaron Iny, 2023-08-08, 119
 Mom, 2023-08-08, 170
-Sass Khazzam: 8-09-2023, 61
+Sass Khazzam, 2023-08-09, 61
 Mom, 2023-08-09, 158
 Aaron Iny, 2023-08-09, 135
 Anne Khazzam, 2023-08-09, 298
 Jelle, 2023-08-09, 152
 Emma Khazzam, 2023-08-09, 61
-David Khazzam: 8-09-2023, 83
-Anusha Samarabandu: 8-09-2023, 48
+David Khazzam, 2023-08-09, 83
+Anusha Samarabandu, 2023-08-09, 48
 Jared Rabinovici, 2023-08-09, 53
-Rebecca Benest: 8-09-2023, 52
+Rebecca Benest, 2023-08-09, 52
 Dad, 2023-08-09, 67
-David Khazzam: 8-10-2023, 49
-Anusha Samarabandu: 8-10-2023, 51
-Cecilia/John Perez/Hagist: 8-10-2023, 70
-Sass Khazzam: 8-10-2023, 56
+David Khazzam, 2023-08-10, 49
+Anusha Samarabandu, 2023-08-10, 51
+John Hagist, 2023-08-10, 70
+Sass Khazzam, 2023-08-10, 56
 Anne Khazzam, 2023-08-10, 64
 Mom, 2023-08-10, 131
 Aaron Iny, 2023-08-10, 268
 Dad, 2023-08-10, 67
-Rebecca Benest: 8-10-2023, 48
-Rebecca Benest: 8-10-2023, 48
-Cecilia/John Perez/Hagist: 8-11-2023, 205
+Rebecca Benest, 2023-08-10, 48
+Rebecca Benest, 2023-08-10, 48
+John Hagist, 2023-08-11, 205
 Dad, 2023-08-11, 54
 Anne Khazzam, 2023-08-11, 112
 Jelle, 2023-08-11, 75
-Anusha Samarabandu: 8-11-2023, 54
-David Khazzam: 8-11-2023, 33
-Sass Khazzam: 8-11-2023, 73
+Anusha Samarabandu, 2023-08-11, 54
+David Khazzam, 2023-08-11, 33
+Sass Khazzam, 2023-08-11, 73
 Jared Rabinovici, 2023-08-11, 3952
 Mom, 2023-08-11, 141
-David Khazzam: 8-12-2023, 118
+David Khazzam, 2023-08-12, 118
 Jared Rabinovici, 2023-08-12, 84
-Anusha Samarabandu: 8-12-2023, 107
-Sass Khazzam: 8-12-2023, 206
+Anusha Samarabandu, 2023-08-12, 107
+Sass Khazzam, 2023-08-12, 206
 Anne Khazzam, 2023-08-12, 152
 Jelle, 2023-08-12, 236
-Cecilia/John Perez/Hagist: 8-12-2023, 186
+John Hagist, 2023-08-12, 186
 Dad, 2023-08-12, 76
 Aaron Iny, 2023-08-12, 344
 Mom, 2023-08-12, 333
-Cecilia/John Perez/Hagist: 8-13-2023, 78
-David Khazzam: 8-13-2023, 39
-Anusha Samarabandu: 8-13-2023, 42
-Sass Khazzam: 8-13-2023, 63
+John Hagist, 2023-08-13, 78
+David Khazzam, 2023-08-13, 39
+Anusha Samarabandu, 2023-08-13, 42
+Sass Khazzam, 2023-08-13, 63
 Mom, 2023-08-13, 83
 Anne Khazzam, 2023-08-13, 62
 Dad, 2023-08-13, 55
 Jelle, 2023-08-13, 52
-Rebecca Benest: 8-13-2023, 40
+Rebecca Benest, 2023-08-13, 40
 Jared Rabinovici, 2023-08-13, 24
 Aaron Iny, 2023-08-14, 96
 Anne Khazzam, 2023-08-14, 54
-Cecilia/John Perez/Hagist: 8-14-2023, 49
+John Hagist, 2023-08-14, 49
 Dad, 2023-08-14, 54
 Mom, 2023-08-14, 158
-Anusha Samarabandu: 8-14-2023, 45
-Sass Khazzam: 8-14-2023, 178
-David Khazzam: 8-14-2023, 52
-Rebecca Benest: 8-14-2023, 60
-Sass Khazzam: 8-15-2023, 82
-Cecilia/John Perez/Hagist: 8-15-2023, 152
-Anusha Samarabandu: 8-15-2023, 134
-David Khazzam: 8-15-2023, 155
+Anusha Samarabandu, 2023-08-14, 45
+Sass Khazzam, 2023-08-14, 178
+David Khazzam, 2023-08-14, 52
+Rebecca Benest, 2023-08-14, 60
+Sass Khazzam, 2023-08-15, 82
+John Hagist, 2023-08-15, 152
+Anusha Samarabandu, 2023-08-15, 134
+David Khazzam, 2023-08-15, 155
 Dad, 2023-08-15, 113
 Aaron Iny, 2023-08-15, 173
 Jared Rabinovici, 2023-08-15, 69
-Rebecca Benest: 8-15-2023, 144
+Rebecca Benest, 2023-08-15, 144
 Jelle, 2023-08-15, 207
 Anne Khazzam, 2023-08-15, 106
 Mom, 2023-08-15, 350
-Cecilia/John Perez/Hagist: 8-16-2023, 52
+John Hagist, 2023-08-16, 52
 Anne Khazzam, 2023-08-16, 59
-David Khazzam: 8-16-2023, 37
+David Khazzam, 2023-08-16, 37
 Jelle, 2023-08-16, 77
 Jared Rabinovici, 2023-08-16, 32
-Anusha Samarabandu: 8-16-2023, 73
+Anusha Samarabandu, 2023-08-16, 73
 Aaron Iny, 2023-08-16, 51
 Emma Khazzam, 2023-08-16, 50
-Rebecca Benest: 8-16-2023, 28
-Sass Khazzam: 8-17-2023, 79
-Cecilia/John Perez/Hagist: 8-17-2023, 67
+Rebecca Benest, 2023-08-16, 28
+Sass Khazzam, 2023-08-17, 79
+John Hagist, 2023-08-17, 67
 Dad, 2023-08-17, 63
-Anusha Samarabandu: 8-17-2023, 45
+Anusha Samarabandu, 2023-08-17, 45
 Jared Rabinovici, 2023-08-17, 34
 Aaron Iny, 2023-08-17, 92
-Cecilia/John Perez/Hagist: 8-18-2023, 106
-David Khazzam: 8-18-2023, 92
-Anusha Samarabandu: 8-18-2023, 62
+John Hagist, 2023-08-18, 106
+David Khazzam, 2023-08-18, 92
+Anusha Samarabandu, 2023-08-18, 62
 Emma Khazzam, 2023-08-18, 156
-Sass Khazzam: 8-18-2023, 64
-Rebecca Benest: 8-18-2023, 60
+Sass Khazzam, 2023-08-18, 64
+Rebecca Benest, 2023-08-18, 60
 Dad, 2023-08-18, 68
 Mom, 2023-08-18, 132
-Cecilia/John Perez/Hagist: 8-19-2023, 158
-Sass Khazzam: 8-19-2023, 183
-Anusha Samarabandu: 8-19-2023, 217
+John Hagist, 2023-08-19, 158
+Sass Khazzam, 2023-08-19, 183
+Anusha Samarabandu, 2023-08-19, 217
 Dad, 2023-08-19, 119
 Anne Khazzam, 2023-08-19, 145
-Cecilia/John Perez/Hagist: 8-20-2023, 66
+John Hagist, 2023-08-20, 66
 Anne Khazzam, 2023-08-20, 72
-Anusha Samarabandu: 8-20-2023, 28
+Anusha Samarabandu, 2023-08-20, 28
 Dad, 2023-08-20, 56
-David Khazzam: 8-20-2023, 60
-Sass Khazzam: 8-20-2023, 44
-Cecilia/John Perez/Hagist: 8-21-2023, 52
-Anusha Samarabandu: 8-21-2023, 53
-Claire Samuels: 8-21-2023, 46
+David Khazzam, 2023-08-20, 60
+Sass Khazzam, 2023-08-20, 44
+John Hagist, 2023-08-21, 52
+Anusha Samarabandu, 2023-08-21, 53
+Claire Samuels, 2023-08-21, 46
 Aaron Iny, 2023-08-21, 100
 Jelle, 2023-08-21, 62
-David Khazzam: 8-21-2023, 43
+David Khazzam, 2023-08-21, 43
 Dad, 2023-08-21, 55
 Anne Khazzam, 2023-08-21, 46
 Emma Khazzam, 2023-08-21, 70
 Jonah Pagano, 2023-08-21, 56
 Mom, 2023-08-21, 117
-Sass Khazzam: 8-21-2023, 108
-David Khazzam: 8-22-2023, 58
+Sass Khazzam, 2023-08-21, 108
+David Khazzam, 2023-08-22, 58
 Emma Khazzam, 2023-08-22, 153
-Cecilia/John Perez/Hagist: 8-22-2023, 127
-Sass Khazzam: 8-22-2023, 68
+John Hagist, 2023-08-22, 127
+Sass Khazzam, 2023-08-22, 68
 Aaron Iny, 2023-08-22, 92
 Anne Khazzam, 2023-08-22, 61
 Dad, 2023-08-22, 59
@@ -1641,388 +1641,388 @@ Mom, 2023-08-22, 71
 Jared Rabinovici, 2023-08-22, 58
 Jelle, 2023-08-22, 60
 Jelle, 2023-08-23, 77
-Sass Khazzam: 8-23-2023, 102
-Cecilia/John Perez/Hagist: 8-23-2023, 51
-David Khazzam: 8-23-2023, 33
-Anusha Samarabandu: 8-23-2023, 27
+Sass Khazzam, 2023-08-23, 102
+John Hagist, 2023-08-23, 51
+David Khazzam, 2023-08-23, 33
+Anusha Samarabandu, 2023-08-23, 27
 Emma Khazzam, 2023-08-23, 142
 Dad, 2023-08-23, 52
 Aaron Iny, 2023-08-23, 144
 Mom, 2023-08-24, 118
-David Khazzam: 8-24-2023, 54
-Cecilia/John Perez/Hagist: 8-24-2023, 81
+David Khazzam, 2023-08-24, 54
+John Hagist, 2023-08-24, 81
 Jared Rabinovici, 2023-08-24, 44
-Anusha Samarabandu: 8-24-2023, 36
+Anusha Samarabandu, 2023-08-24, 36
 Jelle, 2023-08-24, 141
-Sass Khazzam: 8-24-2023, 95
-Rebecca Benest: 8-24-2023, 31
+Sass Khazzam, 2023-08-24, 95
+Rebecca Benest, 2023-08-24, 31
 Aaron Iny, 2023-08-24, 74
 Anne Khazzam, 2023-08-24, 46
 Jared Rabinovici, 2023-08-25, 48
-Sass Khazzam: 8-25-2023, 101
-Anusha Samarabandu: 8-25-2023, 44
-Rebecca Benest: 8-25-2023, 60
+Sass Khazzam, 2023-08-25, 101
+Anusha Samarabandu, 2023-08-25, 44
+Rebecca Benest, 2023-08-25, 60
 Anne Khazzam, 2023-08-25, 124
-Cecilia/John Perez/Hagist: 8-26-2023, 152
-David Khazzam: 8-26-2023, 70
+John Hagist, 2023-08-26, 152
+David Khazzam, 2023-08-26, 70
 Jelle, 2023-08-26, 185
-Sass Khazzam: 8-26-2023, 200
-Anusha Samarabandu: 8-26-2023, 77
+Sass Khazzam, 2023-08-26, 200
+Anusha Samarabandu, 2023-08-26, 77
 Anne Khazzam, 2023-08-26, 111
 Aaron Iny, 2023-08-26, 131
 Jonah Pagano, 2023-08-26, 92
 Dad, 2023-08-26, 85
 Emma Khazzam, 2023-08-26, 106
-Cecilia/John Perez/Hagist: 8-27-2023, 80
+John Hagist, 2023-08-27, 80
 Mom, 2023-08-27, 121
 Jelle, 2023-08-27, 81
-Anusha Samarabandu: 8-27-2023, 145
+Anusha Samarabandu, 2023-08-27, 145
 Anne Khazzam, 2023-08-27, 74
-Sass Khazzam: 8-27-2023, 68
-Cecilia/John Perez/Hagist: 8-28-2023, 75
-Sass Khazzam: 8-28-2023, 74
+Sass Khazzam, 2023-08-27, 68
+John Hagist, 2023-08-28, 75
+Sass Khazzam, 2023-08-28, 74
 Dad, 2023-08-28, 63
 Jared Rabinovici, 2023-08-28, 41
 Jelle, 2023-08-28, 65
-David Khazzam: 8-28-2023, 64
+David Khazzam, 2023-08-28, 64
 Emma Khazzam, 2023-08-28, 154
 Mom, 2023-08-28, 152
-Anusha Samarabandu: 8-28-2023, 32
+Anusha Samarabandu, 2023-08-28, 32
 Aaron Iny, 2023-08-28, 145
-Eden Jablon: 8-28-2023, 46
-David Khazzam: 8-29-2023, 45
-Sass Khazzam: 8-29-2023, 127
-Anusha Samarabandu: 8-29-2023, 50
-Cecilia/John Perez/Hagist: 8-29-2023, 156
+Eden Jablon, 2023-08-28, 46
+David Khazzam, 2023-08-29, 45
+Sass Khazzam, 2023-08-29, 127
+Anusha Samarabandu, 2023-08-29, 50
+John Hagist, 2023-08-29, 156
 Jelle, 2023-08-29, 53
 Anne Khazzam, 2023-08-29, 157
 Jared Rabinovici, 2023-08-29, 38
 Aaron Iny, 2023-08-29, 92
 Dad, 2023-08-29, 48
 Sass Khazzam, 2023-08-30, 125
-Cecilia/John Perez/Hagist: 8-30-2023, 124
-David Khazzam: 8-30-2023, 41
+John Hagist, 2023-08-30, 124
+David Khazzam, 2023-08-30, 41
 Jelle, 2023-08-30, 44
 Emma Khazzam, 2023-08-30, 68
-Anusha Samarabandu: 8-30-2023, 75
+Anusha Samarabandu, 2023-08-30, 75
 Anne Khazzam, 2023-08-30, 47
 Anne Khazzam, 2023-08-30, 47
-Cecilia/John Perez/Hagist: 8-31-2023, 78
+John Hagist, 2023-08-31, 78
 Jelle, 2023-08-31, 42
 Mom, 2023-08-31, 99
 Anne Khazzam, 2023-08-31, 48
-David Khazzam: 8-31-2023, 50
-Anusha Samarabandu: 8-31-2023, 32
+David Khazzam, 2023-08-31, 50
+Anusha Samarabandu, 2023-08-31, 32
 Jared Rabinovici, 2023-08-31, 37
-Sass Khazzam: 8-31-2023, 50
+Sass Khazzam, 2023-08-31, 50
 Dad, 2023-08-31, 47
-Rebecca Benest: 8-31-2023, 34
-Claire Samuels: 8-31-2023, 37
+Rebecca Benest, 2023-08-31, 34
+Claire Samuels, 2023-08-31, 37
 Aaron Iny, 2023-08-31, 42
-Sass Khazzam: 9-01-2023, 52
+Sass Khazzam, 2023-09-01, 52
 Mom, 2023-09-01, 60
-Cecilia/John Perez/Hagist: 9-01-2023, 46
+John Hagist, 2023-09-01, 46
 Anne Khazzam, 2023-09-01, 35
 Jelle, 2023-09-01, 29
 Emma Khazzam, 2023-09-01, 103
 Dad, 2023-09-01, 44
 Dad, 2023-09-01, 44
-Anusha Samarabandu: 9-01-2023, 15
-David Khazzam: 9-01-2023, 20
-Rebecca Benest: 9-01-2023, 42
+Anusha Samarabandu, 2023-09-01, 15
+David Khazzam, 2023-09-01, 20
+Rebecca Benest, 2023-09-01, 42
 Aaron Iny, 2023-09-01, 46
-Cecilia/John Perez/Hagist: 9-02-2023, 225
-Anusha Samarabandu: 9-02-2023, 70
-Sass Khazzam: 9-02-2023, 185
+John Hagist, 2023-09-02, 225
+Anusha Samarabandu, 2023-09-02, 70
+Sass Khazzam, 2023-09-02, 185
 Jelle, 2023-09-02, 168
 Jared Rabinovici, 2023-09-02, 92
 Emma Khazzam, 2023-09-02, 266
-David Khazzam: 9-02-2023, 104
+David Khazzam, 2023-09-02, 104
 Anne Khazzam, 2023-09-02, 77
-Rebecca Benest: 9-02-2023, 95
+Rebecca Benest, 2023-09-02, 95
 Dad, 2023-09-02, 107
 Aaron Iny, 2023-09-03, 78
-Cecilia/John Perez/Hagist: 9-03-2023, 92
+John Hagist, 2023-09-03, 92
 Mom, 2023-09-03, 189
 Jelle, 2023-09-03, 68
-Sass Khazzam: 9-03-2023, 64
-Rebecca Benest: 9-03-2023, 37
-David Khazzam: 9-03-2023, 52
+Sass Khazzam, 2023-09-03, 64
+Rebecca Benest, 2023-09-03, 37
+David Khazzam, 2023-09-03, 52
 Dad, 2023-09-03, 58
 Emma Khazzam, 2023-09-03, 90
-Anusha Samarabandu: 9-03-2023, 33
-Sass Khazzam: 9-04-2023, 105
+Anusha Samarabandu, 2023-09-03, 33
+Sass Khazzam, 2023-09-04, 105
 Anne Khazzam, 2023-09-04, 121
 Dad, 2023-09-04, 72
-David Khazzam: 9-04-2023, 98
+David Khazzam, 2023-09-04, 98
 Aaron Iny, 2023-09-04, 226
-Cecilia/John Perez/Hagist: 9-04-2023, 125
-Cecilia/John Perez/Hagist: 9-05-2023, 65
-Rebecca Benest: 9-05-2023, 27
+John Hagist, 2023-09-04, 125
+John Hagist, 2023-09-05, 65
+Rebecca Benest, 2023-09-05, 27
 Mom, 2023-09-05, 78
 Jelle, 2023-09-05, 46
 Anne Khazzam, 2023-09-05, 40
-Sass Khazzam: 9-05-2023, 65
+Sass Khazzam, 2023-09-05, 65
 Emma Khazzam, 2023-09-05, 36
-Anusha Samarabandu: 9-05-2023, 34
+Anusha Samarabandu, 2023-09-05, 34
 Aaron Iny, 2023-09-05, 19
-David Khazzam: 9-05-2023, 29
+David Khazzam, 2023-09-05, 29
 Dad, 2023-09-05, 42
-Anusha Samarabandu: 9-06-2023, 31
+Anusha Samarabandu, 2023-09-06, 31
 Jelle, 2023-09-06, 56
-Cecilia/John Perez/Hagist: 9-06-2023, 96
+John Hagist, 2023-09-06, 96
 Emma Khazzam, 2023-09-06, 84
 Anne Khazzam, 2023-09-06, 40
-Claire Samuels: 9-06-2023, 40
-David Khazzam: 9-06-2023, 27
+Claire Samuels, 2023-09-06, 40
+David Khazzam, 2023-09-06, 27
 Dad, 2023-09-06, 55
-Rebecca Benest: 9-06-2023, 32
-Sass Khazzam: 9-06-2023, 131
-Cecilia/John Perez/Hagist: 9-07-2023, 236
+Rebecca Benest, 2023-09-06, 32
+Sass Khazzam, 2023-09-06, 131
+John Hagist, 2023-09-07, 236
 Mom, 2023-09-07, 170
-Anusha Samarabandu: 9-07-2023, 89
+Anusha Samarabandu, 2023-09-07, 89
 Dad, 2023-09-07, 54
-Claire Samuels: 9-07-2023, 110
-David Khazzam: 9-07-2023, 521
-Sass Khazzam: 9-07-2023, 111
+Claire Samuels, 2023-09-07, 110
+David Khazzam, 2023-09-07, 521
+Sass Khazzam, 2023-09-07, 111
 Jelle, 2023-09-07, 132
 Anne Khazzam, 2023-09-07, 160
 Aaron Iny, 2023-09-07, 122
-Rebecca Benest: 9-07-2023, 34
-Cecilia/John Perez/Hagist: 9-08-2023, 123
+Rebecca Benest, 2023-09-07, 34
+John Hagist, 2023-09-08, 123
 Mom, 2023-09-08, 84
 Jelle, 2023-09-08, 77
-David Khazzam: 9-08-2023, 46
+David Khazzam, 2023-09-08, 46
 Dad, 2023-09-08, 49
 Emma Khazzam, 2023-09-08, 119
-Sass Khazzam: 9-08-2023, 35
-Anusha Samarabandu: 9-08-2023, 40
-Rebecca Benest: 9-08-2023, 32
-Claire Samuels: 9-08-2023, 51
+Sass Khazzam, 2023-09-08, 35
+Anusha Samarabandu, 2023-09-08, 40
+Rebecca Benest, 2023-09-08, 32
+Claire Samuels, 2023-09-08, 51
 Aaron Iny, 2023-09-08, 46
 Anne Khazzam, 2023-09-08, 46
-Cecilia/John Perez/Hagist: 9-09-2023, 184
+John Hagist, 2023-09-09, 184
 Dad, 2023-09-09, 75
-David Khazzam: 9-09-2023, 121
-Sass Khazzam: 9-09-2023, 102
+David Khazzam, 2023-09-09, 121
+Sass Khazzam, 2023-09-09, 102
 Anne Khazzam, 2023-09-09, 120
-Anusha Samarabandu: 9-09-2023, 67
-Claire Samuels: 9-09-2023, 61
+Anusha Samarabandu, 2023-09-09, 67
+Claire Samuels, 2023-09-09, 61
 Aaron Iny, 2023-09-09, 298
-Rebecca Benest: 9-09-2023, 55
+Rebecca Benest, 2023-09-09, 55
 Jared Rabinovici, 2023-09-09, 63
 Emma Khazzam, 2023-09-09, 94
 Jelle, 2023-09-09, 113
-Sass Khazzam: 9-10-2023, 181
+Sass Khazzam, 2023-09-10, 181
 Mom, 2023-09-10, 180
 Jelle, 2023-09-10, 76
 Dad, 2023-09-10, 60
-Cecilia/John Perez/Hagist: 9-10-2023, 117
-David Khazzam: 9-10-2023, 17
-Anusha Samarabandu: 9-10-2023, 42
+John Hagist, 2023-09-10, 117
+David Khazzam, 2023-09-10, 17
+Anusha Samarabandu, 2023-09-10, 42
 Anne Khazzam, 2023-09-10, 53
-Claire Samuels: 9-10-2023, 33
+Claire Samuels, 2023-09-10, 33
 Aaron Iny, 2023-09-10, 85
-Anusha Samarabandu: 9-11-2023, 24
+Anusha Samarabandu, 2023-09-11, 24
 Dad, 2023-09-11, 52
 Jelle, 2023-09-11, 51
-Cecilia/John Perez/Hagist: 9-11-2023, 70
+John Hagist, 2023-09-11, 70
 Anne Khazzam, 2023-09-11, 72
-David Khazzam: 9-11-2023, 31
-Claire Samuels: 9-11-2023, 30
+David Khazzam, 2023-09-11, 31
+Claire Samuels, 2023-09-11, 30
 Aaron Iny, 2023-09-11, 64
 Emma Khazzam, 2023-09-11, 50
-Sass Khazzam: 9-11-2023, 49
-Sass Khazzam: 9-12-2023, 68
-David Khazzam: 9-12-2023, 83
+Sass Khazzam, 2023-09-11, 49
+Sass Khazzam, 2023-09-12, 68
+David Khazzam, 2023-09-12, 83
 Dad, 2023-09-12, 52
-Anusha Samarabandu: 9-12-2023, 59
+Anusha Samarabandu, 2023-09-12, 59
 Anne Khazzam, 2023-09-12, 200
-Rebecca Benest: 9-12-2023, 66
+Rebecca Benest, 2023-09-12, 66
 Aaron Iny, 2023-09-12, 111
 Mom, 2023-09-12, 165
-Sass Khazzam: 9-13-2023, 91
-David Khazzam: 9-13-2023, 65
-Anusha Samarabandu: 9-13-2023, 34
+Sass Khazzam, 2023-09-13, 91
+David Khazzam, 2023-09-13, 65
+Anusha Samarabandu, 2023-09-13, 34
 Dad, 2023-09-13, 77
-Cecilia/John Perez/Hagist: 9-13-2023, 161
-Cecilia/John Perez/Hagist: 9-14-2023, 77
+John Hagist, 2023-09-13, 161
+John Hagist, 2023-09-14, 77
 Aaron Iny, 2023-09-14, 177
 Jelle, 2023-09-14, 119
-Sass Khazzam: 9-14-2023, 105
-David Khazzam: 9-14-2023, 64
-Anusha Samarabandu: 9-14-2023, 40
+Sass Khazzam, 2023-09-14, 105
+David Khazzam, 2023-09-14, 64
+Anusha Samarabandu, 2023-09-14, 40
 Dad, 2023-09-14, 69
-Claire Samuels: 9-14-2023, 158
+Claire Samuels, 2023-09-14, 158
 Mom, 2023-09-14, 352
 Anne Khazzam, 2023-09-14, 148
-David Khazzam: 9-15-2023, 45
+David Khazzam, 2023-09-15, 45
 Jelle, 2023-09-15, 112
-Anusha Samarabandu: 9-15-2023, 37
+Anusha Samarabandu, 2023-09-15, 37
 Dad, 2023-09-15, 49
-Sass Khazzam: 9-15-2023, 99
+Sass Khazzam, 2023-09-15, 99
 Anne Khazzam, 2023-09-15, 93
 Aaron Iny, 2023-09-15, 51
-Cecilia/John Perez/Hagist: 9-15-2023, 92
-Cecilia/John Perez/Hagist: 9-16-2023, 139
+John Hagist, 2023-09-15, 92
+John Hagist, 2023-09-16, 139
 Jelle, 2023-09-16, 180
-Anusha Samarabandu: 9-16-2023, 150
-David Khazzam: 9-16-2023, 236
+Anusha Samarabandu, 2023-09-16, 150
+David Khazzam, 2023-09-16, 236
 Anne Khazzam, 2023-09-16, 112
-Sass Khazzam: 9-16-2023, 89
+Sass Khazzam, 2023-09-16, 89
 Aaron Iny, 2023-09-16, 176
-Claire Samuels: 9-16-2023, 170
+Claire Samuels, 2023-09-16, 170
 Dad, 2023-09-17, 72
-Cecilia/John Perez/Hagist: 9-17-2023, 60
-Sass Khazzam: 9-17-2023, 45
+John Hagist, 2023-09-17, 60
+Sass Khazzam, 2023-09-17, 45
 Anne Khazzam, 2023-09-17, 88
-David Khazzam: 9-17-2023, 59
-Anusha Samarabandu: 9-17-2023, 29
+David Khazzam, 2023-09-17, 59
+Anusha Samarabandu, 2023-09-17, 29
 Aaron Iny, 2023-09-17, 126
-Claire Samuels: 9-17-2023, 80
-Cecilia/John Perez/Hagist: 9-18-2023, 81
+Claire Samuels, 2023-09-17, 80
+John Hagist, 2023-09-18, 81
 Dad, 2023-09-18, 59
-Sass Khazzam: 9-18-2023, 62
-David Khazzam: 9-18-2023, 202
+Sass Khazzam, 2023-09-18, 62
+David Khazzam, 2023-09-18, 202
 Jelle, 2023-09-18, 64
-Anusha Samarabandu: 9-18-2023, 109
+Anusha Samarabandu, 2023-09-18, 109
 Anne Khazzam, 2023-09-18, 142
 Aaron Iny, 2023-09-18, 122
-Cecilia/John Perez/Hagist: 9-19-2023, 84
+John Hagist, 2023-09-19, 84
 Mom, 2023-09-19, 162
-David Khazzam: 9-19-2023, 50
+David Khazzam, 2023-09-19, 50
 Jelle, 2023-09-19, 73
-Anusha Samarabandu: 9-19-2023, 215
-Sass Khazzam: 9-19-2023, 112
-Claire Samuels: 9-19-2023, 45
+Anusha Samarabandu, 2023-09-19, 215
+Sass Khazzam, 2023-09-19, 112
+Claire Samuels, 2023-09-19, 45
 Dad, 2023-09-19, 39
 Anne Khazzam, 2023-09-19, 154
 Aaron Iny, 2023-09-19, 101
-Cecilia/John Perez/Hagist: 9-20-2023, 73
+John Hagist, 2023-09-20, 73
 Anne Khazzam, 2023-09-20, 58
 Mom, 2023-09-20, 86
-David Khazzam: 9-20-2023, 45
-Sass Khazzam: 9-20-2023, 61
-Anusha Samarabandu: 9-20-2023, 35
+David Khazzam, 2023-09-20, 45
+Sass Khazzam, 2023-09-20, 61
+Anusha Samarabandu, 2023-09-20, 35
 Dad, 2023-09-20, 75
-Rebecca Benest: 9-20-2023, 40
+Rebecca Benest, 2023-09-20, 40
 Aaron Iny, 2023-09-20, 30
 Emma Khazzam, 2023-09-20, 112
 Jelle, 2023-09-20, 44
-Claire Samuels: 9-20-2023, 45
-Sass Khazzam: 9-21-2023, 74
+Claire Samuels, 2023-09-20, 45
+Sass Khazzam, 2023-09-21, 74
 Aaron Iny, 2023-09-21, 91
-David Khazzam: 9-21-2023, 22
+David Khazzam, 2023-09-21, 22
 Jelle, 2023-09-21, 40
-Anusha Samarabandu: 9-21-2023, 33
-Cecilia/John Perez/Hagist: 9-21-2023, 122
+Anusha Samarabandu, 2023-09-21, 33
+John Hagist, 2023-09-21, 122
 Dad, 2023-09-21, 35
 Anne Khazzam, 2023-09-21, 58
-Claire Samuels: 9-21-2023, 56
-Cecilia/John Perez/Hagist: 9-22-2023, 113
+Claire Samuels, 2023-09-21, 56
+John Hagist, 2023-09-22, 113
 Mom, 2023-09-22, 125
 Anne Khazzam, 2023-09-22, 89
-Anusha Samarabandu: 9-22-2023, 122
+Anusha Samarabandu, 2023-09-22, 122
 Dad, 2023-09-22, 73
-David Khazzam: 9-22-2023, 105
-Sass Khazzam: 9-22-2023, 211
-Rebecca Benest: 9-22-2023, 55
-Claire Samuels: 9-22-2023, 122
-Rebecca Benest: 9-23-2023, 81
+David Khazzam, 2023-09-22, 105
+Sass Khazzam, 2023-09-22, 211
+Rebecca Benest, 2023-09-22, 55
+Claire Samuels, 2023-09-22, 122
+Rebecca Benest, 2023-09-23, 81
 Aaron Iny, 2023-09-23, 133
 Mom, 2023-09-23, 126
 Jelle, 2023-09-23, 267
-Sass Khazzam: 9-23-2023, 126
+Sass Khazzam, 2023-09-23, 126
 Anne Khazzam, 2023-09-23, 177
-David Khazzam: 9-23-2023, 105
-Anusha Samarabandu: 9-23-2023, 118
+David Khazzam, 2023-09-23, 105
+Anusha Samarabandu, 2023-09-23, 118
 Dad, 2023-09-23, 84
-Claire Samuels: 9-23-2023, 166
-Cecilia/John Perez/Hagist: 9-24-2023, 84
+Claire Samuels, 2023-09-23, 166
+John Hagist, 2023-09-24, 84
 Mom, 2023-09-24, 110
-David Khazzam: 9-24-2023, 38
+David Khazzam, 2023-09-24, 38
 Emma Khazzam, 2023-09-24, 58
-Anusha Samarabandu: 9-24-2023, 41
+Anusha Samarabandu, 2023-09-24, 41
 Dad, 2023-09-24, 56
 Jelle, 2023-09-24, 60
-Sass Khazzam: 9-24-2023, 86
-Rebecca Benest: 9-24-2023, 43
-Sass Khazzam: 9-25-2023, 109
+Sass Khazzam, 2023-09-24, 86
+Rebecca Benest, 2023-09-24, 43
+Sass Khazzam, 2023-09-25, 109
 Mom, 2023-09-25, 228
 Aaron Iny, 2023-09-25, 123
-David Khazzam: 9-25-2023, 84
+David Khazzam, 2023-09-25, 84
 Jelle, 2023-09-25, 211
-Anusha Samarabandu: 9-25-2023, 53
-Cecilia/John Perez/Hagist: 9-25-2023, 87
+Anusha Samarabandu, 2023-09-25, 53
+John Hagist, 2023-09-25, 87
 Dad, 2023-09-25, 72
-Claire Samuels: 9-25-2023, 69
+Claire Samuels, 2023-09-25, 69
 Anne Khazzam, 2023-09-25, 96
-Anusha Samarabandu: 9-26-2023, 92
+Anusha Samarabandu, 2023-09-26, 92
 Jelle, 2023-09-26, 37
-Claire Samuels: 9-26-2023, 65
+Claire Samuels, 2023-09-26, 65
 Dad, 2023-09-26, 56
-Sass Khazzam: 9-26-2023, 199
+Sass Khazzam, 2023-09-26, 199
 Aaron Iny, 2023-09-26, 137
-Rebecca Benest: 9-26-2023, 40
-David Khazzam: 9-26-2023, 120
+Rebecca Benest, 2023-09-26, 40
+David Khazzam, 2023-09-26, 120
 Anne Khazzam, 2023-09-26, 37
-Cecilia/John Perez/Hagist: 9-27-2023, 182
+John Hagist, 2023-09-27, 182
 Mom, 2023-09-27, 140
 Anne Khazzam, 2023-09-27, 75
-David Khazzam: 9-27-2023, 65
+David Khazzam, 2023-09-27, 65
 Jelle, 2023-09-27, 50
 Dad, 2023-09-27, 68
 Emma Khazzam, 2023-09-27, 73
-Anusha Samarabandu: 9-27-2023, 116
-Sass Khazzam: 9-27-2023, 91
-Claire Samuels: 9-27-2023, 99
+Anusha Samarabandu, 2023-09-27, 116
+Sass Khazzam, 2023-09-27, 91
+Claire Samuels, 2023-09-27, 99
 Aaron Iny, 2023-09-27, 266
 Mom, 2023-09-28, 104
-Cecilia/John Perez/Hagist: 9-28-2023, 96
-David Khazzam: 9-28-2023, 33
+John Hagist, 2023-09-28, 96
+David Khazzam, 2023-09-28, 33
 Dad, 2023-09-28, 59
-Anusha Samarabandu: 9-28-2023, 75
-Claire Samuels: 9-28-2023, 62
-Sass Khazzam: 9-28-2023, 108
+Anusha Samarabandu, 2023-09-28, 75
+Claire Samuels, 2023-09-28, 62
+Sass Khazzam, 2023-09-28, 108
 Jelle, 2023-09-28, 52
 Aaron Iny, 2023-09-28, 55
 Anne Khazzam, 2023-09-28, 162
-Cecilia/John Perez/Hagist: 9-29-2023, 179
-Anusha Samarabandu: 9-29-2023, 48
-Sass Khazzam: 9-29-2023, 80
+John Hagist, 2023-09-29, 179
+Anusha Samarabandu, 2023-09-29, 48
+Sass Khazzam, 2023-09-29, 80
 Dad, 2023-09-29, 65
 Jelle, 2023-09-29, 56
 Emma Khazzam, 2023-09-29, 157
 Anne Khazzam, 2023-09-29, 61
-Claire Samuels: 9-29-2023, 123
-Rebecca Benest: 9-29-2023, 63
-David Khazzam: 9-29-2023, 41
+Claire Samuels, 2023-09-29, 123
+Rebecca Benest, 2023-09-29, 63
+David Khazzam, 2023-09-29, 41
 Mom, 2023-09-29, 417
-Cecilia/John Perez/Hagist: 9-30-2023, 187
-Sass Khazzam: 9-30-2023, 153
-Anusha Samarabandu: 9-30-2023, 62
-David Khazzam: 9-30-2023, 115
+John Hagist, 2023-09-30, 187
+Sass Khazzam, 2023-09-30, 153
+Anusha Samarabandu, 2023-09-30, 62
+David Khazzam, 2023-09-30, 115
 Dad, 2023-09-30, 114
-Rebecca Benest: 9-30-2023, 95
+Rebecca Benest, 2023-09-30, 95
 Aaron Iny, 2023-09-30, 177
 Jelle, 2023-09-30, 110
 Anne Khazzam, 2023-09-30, 192
-Cecilia/John Perez/Hagist: 10-01-2023, 64
+John Hagist, 2023-10-01, 64
 Mom, 2023-10-01, 155
-David Khazzam: 10-01-2023, 35
-Claire Samuels: 10-01-2023, 54
-Anusha Samarabandu: 10-01-2023, 53
+David Khazzam, 2023-10-01, 35
+Claire Samuels, 2023-10-01, 54
+Anusha Samarabandu, 2023-10-01, 53
 Jelle, 2023-10-01, 47
-Sass Khazzam: 10-01-2023, 71
+Sass Khazzam, 2023-10-01, 71
 Dad, 2023-10-01, 50
-Rebecca Benest: 10-01-2023, 50
+Rebecca Benest, 2023-10-01, 50
 Aaron Iny, 2023-10-01, 42
 Anne Khazzam, 2023-10-02, 89
-Sass Khazzam: 10-02-2023, 83
+Sass Khazzam, 2023-10-02, 83
 Jelle, 2023-10-02, 94
-Anusha Samarabandu: 10-02-2023, 135
-David Khazzam: 10-02-2023, 51
-Cecilia/John Perez/Hagist: 10-02-2023, 85
+Anusha Samarabandu, 2023-10-02, 135
+David Khazzam, 2023-10-02, 51
+John Hagist, 2023-10-02, 85
 Mom, 2023-10-02, 115
 Dad, 2023-10-02, 63
 Dad, 2023-10-03, 64
@@ -2030,72 +2030,72 @@ Jelle, 2023-10-03, 140
 Anne Khazzam, 2023-10-03, 55
 Anne Khazzam, 2023-10-03, 55
 Mom, 2023-10-03, 179
-Cecilia/John Perez/Hagist: 10-03-2023, 59
-Rebecca Benest: 10-03-2023, 35
-Anusha Samarabandu: 10-03-2023, 97
+John Hagist, 2023-10-03, 59
+Rebecca Benest, 2023-10-03, 35
+Anusha Samarabandu, 2023-10-03, 97
 Emma Khazzam, 2023-10-03, 93
-Sass Khazzam: 10-03-2023, 61
-Claire Samuels: 10-03-2023, 66
-David Khazzam: 10-03-2023, 146
-Cecilia/John Perez/Hagist: 10-04-2023, 58
+Sass Khazzam, 2023-10-03, 61
+Claire Samuels, 2023-10-03, 66
+David Khazzam, 2023-10-03, 146
+John Hagist, 2023-10-04, 58
 Mom, 2023-10-04, 118
 Anne Khazzam, 2023-10-04, 55
-Anusha Samarabandu: 10-04-2023, 32
+Anusha Samarabandu, 2023-10-04, 32
 Jelle, 2023-10-04, 61
-David Khazzam: 10-04-2023, 31
-Claire Samuels: 10-04-2023, 50
+David Khazzam, 2023-10-04, 31
+Claire Samuels, 2023-10-04, 50
 Dad, 2023-10-04, 50
-Sass Khazzam: 10-04-2023, 93
-Rebecca Benest: 10-04-2023, 39
+Sass Khazzam, 2023-10-04, 93
+Rebecca Benest, 2023-10-04, 39
 Emma Khazzam, 2023-10-04, 131
-Cecilia/John Perez/Hagist: 10-05-2023, 110
+John Hagist, 2023-10-05, 110
 Jelle, 2023-10-05, 71
 Anne Khazzam, 2023-10-05, 47
 Aaron Iny, 2023-10-05, 45
-David Khazzam: 10-05-2023, 33
-Anusha Samarabandu: 10-05-2023, 27
+David Khazzam, 2023-10-05, 33
+Anusha Samarabandu, 2023-10-05, 27
 Dad, 2023-10-05, 46
 Emma Khazzam, 2023-10-05, 63
-Rebecca Benest: 10-05-2023, 25
-Claire Samuels: 10-05-2023, 92
-Sass Khazzam: 10-05-2023, 62
-Cecilia/John Perez/Hagist: 10-06-2023, 124
-Anusha Samarabandu: 10-06-2023, 68
-Claire Samuels: 10-06-2023, 159
+Rebecca Benest, 2023-10-05, 25
+Claire Samuels, 2023-10-05, 92
+Sass Khazzam, 2023-10-05, 62
+John Hagist, 2023-10-06, 124
+Anusha Samarabandu, 2023-10-06, 68
+Claire Samuels, 2023-10-06, 159
 Dad, 2023-10-06, 67
 Jelle, 2023-10-06, 109
-Sass Khazzam: 10-06-2023, 182
-David Khazzam: 10-06-2023, 114
-David Khazzam: 10-07-2023, 154
-Cecilia/John Perez/Hagist: 10-07-2023, 242
-Anusha Samarabandu: 10-07-2023, 111
-Rebecca Benest: 10-07-2023, 107
-Claire Samuels: 10-07-2023, 80
-Sass Khazzam: 10-08-2023, 126
-Cecilia/John Perez/Hagist: 10-08-2023, 68
-Anusha Samarabandu: 10-08-2023, 19
-David Khazzam: 10-08-2023, 52
-Claire Samuels: 10-08-2023, 39
-Cecilia/John Perez/Hagist: 10-09-2023, 217
-David Khazzam: 10-09-2023, 179
-Sass Khazzam: 10-09-2023, 75
-Anusha Samarabandu: 10-09-2023, 287
-Claire Samuels: 10-09-2023, 358
-Anusha Samarabandu: 10-10-2023, 55
-Cecilia/John Perez/Hagist: 10-10-2023, 98
-David Khazzam: 10-10-2023, 52
-Claire Samuels: 10-10-2023, 123
-Sass Khazzam: 10-10-2023, 106
-Cecilia/John Perez/Hagist: 10-11-2023, 62
-Anusha Samarabandu: 10-11-2023, 44
-Claire Samuels: 10-11-2023, 69
-Sass Khazzam: 10-11-2023, 76
-David Khazzam: 10-11-2023, 68
-Cecilia/John Perez/Hagist: 10-12-2023, 61
+Sass Khazzam, 2023-10-06, 182
+David Khazzam, 2023-10-06, 114
+David Khazzam, 2023-10-07, 154
+John Hagist, 2023-10-07, 242
+Anusha Samarabandu, 2023-10-07, 111
+Rebecca Benest, 2023-10-07, 107
+Claire Samuels, 2023-10-07, 80
+Sass Khazzam, 2023-10-08, 126
+John Hagist, 2023-10-08, 68
+Anusha Samarabandu, 2023-10-08, 19
+David Khazzam, 2023-10-08, 52
+Claire Samuels, 2023-10-08, 39
+John Hagist, 2023-10-09, 217
+David Khazzam, 2023-10-09, 179
+Sass Khazzam, 2023-10-09, 75
+Anusha Samarabandu, 2023-10-09, 287
+Claire Samuels, 2023-10-09, 358
+Anusha Samarabandu, 2023-10-10, 55
+John Hagist, 2023-10-10, 98
+David Khazzam, 2023-10-10, 52
+Claire Samuels, 2023-10-10, 123
+Sass Khazzam, 2023-10-10, 106
+John Hagist, 2023-10-11, 62
+Anusha Samarabandu, 2023-10-11, 44
+Claire Samuels, 2023-10-11, 69
+Sass Khazzam, 2023-10-11, 76
+David Khazzam, 2023-10-11, 68
+John Hagist, 2023-10-12, 61
 Anne Khazzam, 2023-10-12, 33
-Anusha Samarabandu: 10-12-2023, 30
-David Khazzam: 10-12-2023, 39
-Claire Samuels: 10-12-2023, 47
+Anusha Samarabandu, 2023-10-12, 30
+David Khazzam, 2023-10-12, 39
+Claire Samuels, 2023-10-12, 47
 Aaron Iny, 2023-10-12, 63
 Dad, 2023-10-12, 45
 Jelle, 2023-10-12, 57
@@ -2103,1937 +2103,1937 @@ Emma Khazzam, 2023-10-12, 79
 Malo Thomassin, 2023-10-12, 62
 Dad, 2023-10-13, 42
 Anne Khazzam, 2023-10-13, 71
-David Khazzam: 10-13-2023, 66
-Sass Khazzam: 10-13-2023, 89
-Cecilia/John Perez/Hagist: 10-13-2023, 74
-Anusha Samarabandu: 10-13-2023, 53
-Claire Samuels: 10-13-2023, 75
+David Khazzam, 2023-10-13, 66
+Sass Khazzam, 2023-10-13, 89
+John Hagist, 2023-10-13, 74
+Anusha Samarabandu, 2023-10-13, 53
+Claire Samuels, 2023-10-13, 75
 Malo Thomassin, 2023-10-13, 61
 Jelle, 2023-10-13, 57
-Rebecca Benest: 10-13-2023, 41
+Rebecca Benest, 2023-10-13, 41
 Aaron Iny, 2023-10-13, 122
-Cecilia/John Perez/Hagist: 10-14-2023, 177
+John Hagist, 2023-10-14, 177
 Anne Khazzam, 2023-10-14, 239
 Jelle, 2023-10-14, 219
-Claire Samuels: 10-14-2023, 226
-Anusha Samarabandu: 10-14-2023, 174
-David Khazzam: 10-14-2023, 144
+Claire Samuels, 2023-10-14, 226
+Anusha Samarabandu, 2023-10-14, 174
+David Khazzam, 2023-10-14, 144
 Emma Khazzam, 2023-10-14, 292
 Dad, 2023-10-14, 127
 Aaron Iny, 2023-10-15, 40
-David Khazzam: 10-15-2023, 21
-Claire Samuels: 10-15-2023, 34
+David Khazzam, 2023-10-15, 21
+Claire Samuels, 2023-10-15, 34
 Jelle, 2023-10-15, 32
-Anusha Samarabandu: 10-15-2023, 34
+Anusha Samarabandu, 2023-10-15, 34
 Dad, 2023-10-15, 46
-Sass Khazzam: 10-15-2023, 68
-Sass Khazzam: 10-14-2023, 314
+Sass Khazzam, 2023-10-15, 68
+Sass Khazzam, 2023-10-14, 314
 Anne Khazzam, 2023-10-15, 34
-Cecilia/John Perez/Hagist: 10-15-2023, 56
+John Hagist, 2023-10-15, 56
 Mom, 2023-10-15, 126
-Cecilia/John Perez/Hagist: 10-16-2023, 113
+John Hagist, 2023-10-16, 113
 Anne Khazzam, 2023-10-16, 36
-Rebecca Benest: 10-16-2023, 37
+Rebecca Benest, 2023-10-16, 37
 Mom, 2023-10-16, 87
 Jelle, 2023-10-16, 29
-Anusha Samarabandu: 10-16-2023, 56
+Anusha Samarabandu, 2023-10-16, 56
 Aaron Iny, 2023-10-16, 68
-David Khazzam: 10-16-2023, 63
+David Khazzam, 2023-10-16, 63
 Dad, 2023-10-16, 43
-Claire Samuels: 10-16-2023, 45
-Cecilia/John Perez/Hagist: 10-17-2023, 110
+Claire Samuels, 2023-10-16, 45
+John Hagist, 2023-10-17, 110
 Emma Khazzam, 2023-10-17, 211
 Jelle, 2023-10-17, 160
 Aaron Iny, 2023-10-17, 210
 Malo Thomassin, 2023-10-17, 148
-Anusha Samarabandu: 10-17-2023, 33
-Claire Samuels: 10-17-2023, 68
-David Khazzam: 10-17-2023, 154
+Anusha Samarabandu, 2023-10-17, 33
+Claire Samuels, 2023-10-17, 68
+David Khazzam, 2023-10-17, 154
 Dad, 2023-10-17, 58
-Sass Khazzam: 10-17-2023, 49
-Cecilia/John Perez/Hagist: 10-18-2023, 98
+Sass Khazzam, 2023-10-17, 49
+John Hagist, 2023-10-18, 98
 Aaron Iny, 2023-10-18, 90
 Jelle, 2023-10-18, 60
 Emma Khazzam, 2023-10-18, 133
 Mom, 2023-10-18, 391
 Anne Khazzam, 2023-10-18, 111
-Anusha Samarabandu: 10-18-2023, 69
+Anusha Samarabandu, 2023-10-18, 69
 Malo Thomassin, 2023-10-18, 68
-Claire Samuels: 10-18-2023, 73
-Sass Khazzam: 10-18-2023, 136
-David Khazzam: 10-18-2023, 63
+Claire Samuels, 2023-10-18, 73
+Sass Khazzam, 2023-10-18, 136
+David Khazzam, 2023-10-18, 63
 Dad, 2023-10-18, 61
 Anne Khazzam, 2023-10-19, 42
 Jelle, 2023-10-19, 87
-Sass Khazzam: 10-19-2023, 159
-Anusha Samarabandu: 10-19-2023, 113
+Sass Khazzam, 2023-10-19, 159
+Anusha Samarabandu, 2023-10-19, 113
 Dad, 2023-10-19, 64
-David Khazzam: 10-19-2023, 73
-Claire Samuels: 10-19-2023, 102
-Cecilia/John Perez/Hagist: 10-19-2023, 212
+David Khazzam, 2023-10-19, 73
+Claire Samuels, 2023-10-19, 102
+John Hagist, 2023-10-19, 212
 Aaron Iny, 2023-10-19, 186
-Sass Khazzam: 10-20-2023, 74
-Anusha Samarabandu: 10-20-2023, 41
+Sass Khazzam, 2023-10-20, 74
+Anusha Samarabandu, 2023-10-20, 41
 Anne Khazzam, 2023-10-20, 71
-Cecilia/John Perez/Hagist: 10-20-2023, 161
+John Hagist, 2023-10-20, 161
 Dad, 2023-10-20, 50
 Jelle, 2023-10-20, 75
 Mom, 2023-10-20, 109
 Malo Thomassin, 2023-10-20, 92
 Emma Cook, 2023-10-20, 75
-David Khazzam: 10-21-2023, 173
+David Khazzam, 2023-10-21, 173
 Aaron Iny, 2023-10-21, 215
-Anusha Samarabandu: 10-21-2023, 103
+Anusha Samarabandu, 2023-10-21, 103
 Anne Khazzam, 2023-10-21, 265
-Claire Samuels: 10-21-2023, 210
+Claire Samuels, 2023-10-21, 210
 Jelle, 2023-10-21, 275
 Mom, 2023-10-21, 548
 Dad, 2023-10-21, 118
-Sass Khazzam: 10-21-2023, 465
+Sass Khazzam, 2023-10-21, 465
 Anne Khazzam, 2023-10-22, 127
-David Khazzam: 10-22-2023, 36
-Anusha Samarabandu: 10-22-2023, 83
-Cecilia/John Perez/Hagist: 10-22-2023, 183
+David Khazzam, 2023-10-22, 36
+Anusha Samarabandu, 2023-10-22, 83
+John Hagist, 2023-10-22, 183
 Aaron Iny, 2023-10-22, 129
-Sass Khazzam: 10-22-2023, 170
+Sass Khazzam, 2023-10-22, 170
 Jelle, 2023-10-22, 12993
 Malo Thomassin, 2023-10-23, 166
-Sass Khazzam: 10-23-2023, 89
+Sass Khazzam, 2023-10-23, 89
 Dad, 2023-10-23, 68
-Anusha Samarabandu: 10-23-2023, 86
-Claire Samuels: 10-23-2023, 80
-David Khazzam: 10-23-2023, 74
+Anusha Samarabandu, 2023-10-23, 86
+Claire Samuels, 2023-10-23, 80
+David Khazzam, 2023-10-23, 74
 Anne Khazzam, 2023-10-23, 99
 Jelle, 2023-10-23, 106
 Aaron Iny, 2023-10-23, 108
-Sass Khazzam: 10-24-2023, 75
-Anusha Samarabandu: 10-24-2023, 41
-Cecilia/John Perez/Hagist: 10-24-2023, 91
+Sass Khazzam, 2023-10-24, 75
+Anusha Samarabandu, 2023-10-24, 41
+John Hagist, 2023-10-24, 91
 Malo Thomassin, 2023-10-24, 96
 Alan Iny, 2023-10-23, 171
 Aaron Iny, 2023-10-24, 44
 Jelle, 2023-10-24, 87
-David Khazzam: 10-24-2023, 41
-Claire Samuels: 10-24-2023, 80
+David Khazzam, 2023-10-24, 41
+Claire Samuels, 2023-10-24, 80
 Dad, 2023-10-24, 50
 Anne Khazzam, 2023-10-24, 42
-Rebecca Benest: 10-24-2023, 47
-Cecilia/John Perez/Hagist: 10-25-2023, 238
+Rebecca Benest, 2023-10-24, 47
+John Hagist, 2023-10-25, 238
 Jelle, 2023-10-25, 148
 David Khazzam, 2023-10-25, 65
-Anusha Samarabandu: 10-25-2023, 147
+Anusha Samarabandu, 2023-10-25, 147
 Dad, 2023-10-25, 82
-Claire Samuels: 10-25-2023, 53
+Claire Samuels, 2023-10-25, 53
 Anne Khazzam, 2023-10-25, 150
 Aaron Iny, 2023-10-25, 110
 Emma Khazzam, 2023-10-25, 303
 Malo Thomassin, 2023-10-25, 156
-Sass Khazzam: 10-25-2023, 105
+Sass Khazzam, 2023-10-25, 105
 Mom, 2023-10-25, 159
-Sass Khazzam: 10-26-2023, 92
-Cecilia/John Perez/Hagist: 10-26-2023, 55
-Anusha Samarabandu: 10-26-2023, 36
+Sass Khazzam, 2023-10-26, 92
+John Hagist, 2023-10-26, 55
+Anusha Samarabandu, 2023-10-26, 36
 Dad, 2023-10-26, 61
 Malo Thomassin, 2023-10-26, 73
 Emma Khazzam, 2023-10-26, 78
 Jelle, 2023-10-26, 112
-David Khazzam: 10-26-2023, 205
+David Khazzam, 2023-10-26, 205
 Mom, 2023-10-26, 123
 Aaron Iny, 2023-10-26, 76
-Claire Samuels: 10-26-2023, 140
-Rebecca Benest: 10-27-2023, 49
-Anusha Samarabandu: 10-27-2023, 118
-David Khazzam: 10-27-2023, 193
+Claire Samuels, 2023-10-26, 140
+Rebecca Benest, 2023-10-27, 49
+Anusha Samarabandu, 2023-10-27, 118
+David Khazzam, 2023-10-27, 193
 Dad, 2023-10-27, 71
-Cecilia/John Perez/Hagist: 10-27-2023, 140
+John Hagist, 2023-10-27, 140
 Anne Khazzam, 2023-10-27, 157
-Sass Khazzam: 10-27-2023, 126
+Sass Khazzam, 2023-10-27, 126
 Aaron Iny, 2023-10-27, 246
 Jelle, 2023-10-27, 134
 Emma Khazzam, 2023-10-27, 269
-Sass Khazzam: 10-28-2023, 425
+Sass Khazzam, 2023-10-28, 425
 Dad, 2023-10-28, 144
-Cecilia/John Perez/Hagist: 10-28-2023, 82
-Anusha Samarabandu: 10-28-2023, 63
-Claire Samuels: 10-28-2023, 106
+John Hagist, 2023-10-28, 82
+Anusha Samarabandu, 2023-10-28, 63
+Claire Samuels, 2023-10-28, 106
 Aaron Iny, 2023-10-28, 130
-David Khazzam: 10-28-2023, 88
-Sass Khazzam: 10-29-2023, 63
+David Khazzam, 2023-10-28, 88
+Sass Khazzam, 2023-10-29, 63
 Jelle, 2023-10-29, 129
-Cecilia/John Perez/Hagist: 10-29-2023, 154
+John Hagist, 2023-10-29, 154
 Mom, 2023-10-29, 207
 Dad, 2023-10-29, 74
-Anusha Samarabandu: 10-29-2023, 38
+Anusha Samarabandu, 2023-10-29, 38
 Emma Khazzam, 2023-10-29, 97
-David Khazzam: 10-29-2023, 80
+David Khazzam, 2023-10-29, 80
 Anne Khazzam, 2023-10-29, 35
-Cecilia/John Perez/Hagist: 10-30-2023, 73
+John Hagist, 2023-10-30, 73
 Jelle, 2023-10-30, 75
 Mom, 2023-10-30, 115
 Anne Khazzam, 2023-10-30, 29
-Sass Khazzam: 10-30-2023, 72
-David Khazzam: 10-30-2023, 50
-Claire Samuels: 10-30-2023, 38
+Sass Khazzam, 2023-10-30, 72
+David Khazzam, 2023-10-30, 50
+Claire Samuels, 2023-10-30, 38
 Dad, 2023-10-30, 56
-Anusha Samarabandu: 10-30-2023, 36
+Anusha Samarabandu, 2023-10-30, 36
 Aaron Iny, 2023-10-30, 175
 Louise Thomassin, 2023-10-30, 111
-Cecilia/John Perez/Hagist: 10-31-2023, 51
+John Hagist, 2023-10-31, 51
 Dad, 2023-10-31, 31
-Anusha Samarabandu: 10-31-2023, 71
-David Khazzam: 10-31-2023, 65
+Anusha Samarabandu, 2023-10-31, 71
+David Khazzam, 2023-10-31, 65
 Emma Khazzam, 2023-10-31, 54
 Jelle, 2023-10-31, 50
-Claire Samuels: 10-31-2023, 36
-Sass Khazzam: 10-31-2023, 57
+Claire Samuels, 2023-10-31, 36
+Sass Khazzam, 2023-10-31, 57
 Anne Khazzam, 2023-10-31, 59
-Rebecca Benest: 10-31-2023, 61
+Rebecca Benest, 2023-10-31, 61
 Aaron Iny, 2023-10-31, 49
-Cecilia/John Perez/Hagist: 11-01-2023, 95
-Anusha Samarabandu: 11-01-2023, 52
+John Hagist, 2023-11-01, 95
+Anusha Samarabandu, 2023-11-01, 52
 Louise Thomassin, 2023-11-01, 181
-Sass Khazzam: 11-01-2023, 128
+Sass Khazzam, 2023-11-01, 128
 Dad, 2023-11-01, 61
 Aaron Iny, 2023-11-01, 107
-David Khazzam: 11-01-2023, 60
-Claire Samuels: 11-01-2023, 82
+David Khazzam, 2023-11-01, 60
+Claire Samuels, 2023-11-01, 82
 Anne Khazzam, 2023-11-01, 60
-Rebecca Benest: 11-01-2023, 52
+Rebecca Benest, 2023-11-01, 52
 Mom, 2023-11-01, 174
-Cecilia/John Perez/Hagist: 11-02-2023, 72
-Sass Khazzam: 11-02-2023, 72
+John Hagist, 2023-11-02, 72
+Sass Khazzam, 2023-11-02, 72
 Jelle, 2023-11-02, 85
-Anusha Samarabandu: 11-02-2023, 27
+Anusha Samarabandu, 2023-11-02, 27
 Dad, 2023-11-02, 60
-Claire Samuels: 11-02-2023, 36
-Rebecca Benest: 11-02-2023, 40
-David Khazzam: 11-02-2023, 89
+Claire Samuels, 2023-11-02, 36
+Rebecca Benest, 2023-11-02, 40
+David Khazzam, 2023-11-02, 89
 Emma Khazzam, 2023-11-02, 75
 Aaron Iny, 2023-11-02, 103
 Anne Khazzam, 2023-11-02, 121
-David Khazzam: 11-03-2023, 98
-Cecilia/John Perez/Hagist: 11-03-2023, 93
-Sass Khazzam: 11-03-2023, 113
+David Khazzam, 2023-11-03, 98
+John Hagist, 2023-11-03, 93
+Sass Khazzam, 2023-11-03, 113
 Jelle, 2023-11-03, 69
-Anusha Samarabandu: 11-03-2023, 32
+Anusha Samarabandu, 2023-11-03, 32
 Dad, 2023-11-03, 53
-Claire Samuels: 11-03-2023, 149
+Claire Samuels, 2023-11-03, 149
 Anne Khazzam, 2023-11-03, 87
 Aaron Iny, 2023-11-03, 90
 Mom, 2023-11-04, 153
 Jelle, 2023-11-04, 97
 Emma Khazzam, 2023-11-04, 180
-Cecilia/John Perez/Hagist: 11-04-2023, 154
-David Khazzam: 11-04-2023, 82
+John Hagist, 2023-11-04, 154
+David Khazzam, 2023-11-04, 82
 Anne Khazzam, 2023-11-04, 111
 Dad, 2023-11-04, 88
-Anusha Samarabandu: 11-04-2023, 70
-Claire Samuels: 11-04-2023, 120
+Anusha Samarabandu, 2023-11-04, 70
+Claire Samuels, 2023-11-04, 120
 Aaron Iny, 2023-11-04, 172
 Louise Thomassin, 2023-11-04, 115
-Sass Khazzam: 11-04-2023, 240
+Sass Khazzam, 2023-11-04, 240
 Mom, 2023-11-05, 146
 Anne Khazzam, 2023-11-05, 57
 Jelle, 2023-11-05, 36
 Louise Thomassin, 2023-11-05, 88
-Anusha Samarabandu: 11-05-2023, 134
+Anusha Samarabandu, 2023-11-05, 134
 Dad, 2023-11-05, 62
-Cecilia/John Perez/Hagist: 11-05-2023, 78
-Sass Khazzam: 11-05-2023, 111
-Rebecca Benest: 11-05-2023, 56
-David Khazzam: 11-05-2023, 38
+John Hagist, 2023-11-05, 78
+Sass Khazzam, 2023-11-05, 111
+Rebecca Benest, 2023-11-05, 56
+David Khazzam, 2023-11-05, 38
 Aaron Iny, 2023-11-05, 82
-Cecilia/John Perez/Hagist: 11-06-2023, 229
-Anusha Samarabandu: 11-06-2023, 145
-Sass Khazzam: 11-06-2023, 141
+John Hagist, 2023-11-06, 229
+Anusha Samarabandu, 2023-11-06, 145
+Sass Khazzam, 2023-11-06, 141
 Anne Khazzam, 2023-11-06, 102
-David Khazzam: 11-06-2023, 183
+David Khazzam, 2023-11-06, 183
 Louise Thomassin, 2023-11-06, 83
 Aaron Iny, 2023-11-06, 86
 Jelle, 2023-11-06, 106
-Claire Samuels: 11-06-2023, 70
+Claire Samuels, 2023-11-06, 70
 Dad, 2023-11-06, 74
-Cecilia/John Perez/Hagist: 11-07-2023, 171
-Sass Khazzam: 11-07-2023, 73
+John Hagist, 2023-11-07, 171
+Sass Khazzam, 2023-11-07, 73
 Louise Thomassin, 2023-11-07, 115
-Anusha Samarabandu: 11-07-2023, 94
+Anusha Samarabandu, 2023-11-07, 94
 Dad, 2023-11-07, 97
-David Khazzam: 11-07-2023, 37
-Rebecca Benest: 11-07-2023, 73
+David Khazzam, 2023-11-07, 37
+Rebecca Benest, 2023-11-07, 73
 Aaron Iny, 2023-11-07, 108
 Jelle, 2023-11-07, 42
 Anne Khazzam, 2023-11-07, 74
 Mom, 2023-11-07, 247
 Louise Thomassin, 2023-11-08, 83
-Anusha Samarabandu: 11-08-2023, 59
-Sass Khazzam: 11-08-2023, 68
+Anusha Samarabandu, 2023-11-08, 59
+Sass Khazzam, 2023-11-08, 68
 Anne Khazzam, 2023-11-08, 163
-David Khazzam: 11-08-2023, 135
+David Khazzam, 2023-11-08, 135
 Dad, 2023-11-08, 70
 Jelle, 2023-11-08, 93
 Aaron Iny, 2023-11-08, 184
-Claire Samuels: 11-08-2023, 145
-Cecilia/John Perez/Hagist: 11-09-2023, 141
+Claire Samuels, 2023-11-08, 145
+John Hagist, 2023-11-09, 141
 Anne Khazzam, 2023-11-09, 135
-Sass Khazzam: 11-09-2023, 96
-Anusha Samarabandu: 11-09-2023, 60
+Sass Khazzam, 2023-11-09, 96
+Anusha Samarabandu, 2023-11-09, 60
 Jelle, 2023-11-09, 107
 Dad, 2023-11-09, 78
 Louise Thomassin, 2023-11-09, 56
-Claire Samuels: 11-09-2023, 119
-David Khazzam: 11-09-2023, 57
+Claire Samuels, 2023-11-09, 119
+David Khazzam, 2023-11-09, 57
 Aaron Iny, 2023-11-09, 115
 Emma Khazzam, 2023-11-09, 165
 Mom, 2023-11-10, 114
-Anusha Samarabandu: 11-10-2023, 42
-Cecilia/John Perez/Hagist: 11-10-2023, 130
+Anusha Samarabandu, 2023-11-10, 42
+John Hagist, 2023-11-10, 130
 Dad, 2023-11-10, 60
-Sass Khazzam: 11-10-2023, 58
+Sass Khazzam, 2023-11-10, 58
 Anne Khazzam, 2023-11-10, 39
 Jelle, 2023-11-10, 64
 Louise Thomassin, 2023-11-10, 62
-Claire Samuels: 11-10-2023, 63
-David Khazzam: 11-10-2023, 35
+Claire Samuels, 2023-11-10, 63
+David Khazzam, 2023-11-10, 35
 Aaron Iny, 2023-11-10, 36
 Mom, 2023-11-11, 244
-Sass Khazzam: 11-11-2023, 223
+Sass Khazzam, 2023-11-11, 223
 Anne Khazzam, 2023-11-11, 175
 Emma Khazzam, 2023-11-11, 155
 Jelle, 2023-11-11, 252
-Rebecca Benest: 11-11-2023, 102
-Anusha Samarabandu: 11-11-2023, 61
+Rebecca Benest, 2023-11-11, 102
+Anusha Samarabandu, 2023-11-11, 61
 Dad, 2023-11-11, 118
-David Khazzam: 11-11-2023, 73
+David Khazzam, 2023-11-11, 73
 Aaron Iny, 2023-11-11, 223
 Louise Thomassin, 2023-11-11, 110
-Cecilia/John Perez/Hagist: 11-11-2023, 100
-Cecilia/John Perez/Hagist: 11-12-2023, 81
-Sass Khazzam: 11-12-2023, 78
-Anusha Samarabandu: 11-12-2023, 47
+John Hagist, 2023-11-11, 100
+John Hagist, 2023-11-12, 81
+Sass Khazzam, 2023-11-12, 78
+Anusha Samarabandu, 2023-11-12, 47
 Dad, 2023-11-12, 46
 Mom, 2023-11-12, 155
-David Khazzam: 11-12-2023, 24
-Rebecca Benest: 11-12-2023, 38
-Claire Samuels: 11-12-2023, 94
+David Khazzam, 2023-11-12, 24
+Rebecca Benest, 2023-11-12, 38
+Claire Samuels, 2023-11-12, 94
 Emma Khazzam, 2023-11-12, 37
 Jelle, 2023-11-12, 40
 Aaron Iny, 2023-11-12, 118
 Anne Khazzam, 2023-11-13, 31
-Cecilia/John Perez/Hagist: 11-13-2023, 61
+John Hagist, 2023-11-13, 61
 Louise Thomassin, 2023-11-13, 47
-Anusha Samarabandu: 11-13-2023, 31
+Anusha Samarabandu, 2023-11-13, 31
 Dad, 2023-11-13, 47
-Sass Khazzam: 11-13-2023, 99
-David Khazzam: 11-13-2023, 28
+Sass Khazzam, 2023-11-13, 99
+David Khazzam, 2023-11-13, 28
 Emma Cook, 2023-11-13, 76
 Aaron Iny, 2023-11-13, 68
 Mom, 2023-11-13, 87
-Claire Samuels: 11-13-2023, 25
+Claire Samuels, 2023-11-13, 25
 Jelle, 2023-11-13, 55
 Malo Thomassin, 2023-11-13, 65
-Cecilia/John Perez/Hagist: 11-14-2023, 82
+John Hagist, 2023-11-14, 82
 Anne Khazzam, 2023-11-14, 27
 Jelle, 2023-11-14, 78
 Mom, 2023-11-14, 86
-Sass Khazzam: 11-14-2023, 76
+Sass Khazzam, 2023-11-14, 76
 Dad, 2023-11-14, 53
-David Khazzam: 11-14-2023, 49
-Claire Samuels: 11-14-2023, 51
-Rebecca Benest: 11-14-2023, 24
-Anusha Samarabandu: 11-14-2023, 28
+David Khazzam, 2023-11-14, 49
+Claire Samuels, 2023-11-14, 51
+Rebecca Benest, 2023-11-14, 24
+Anusha Samarabandu, 2023-11-14, 28
 Aaron Iny, 2023-11-14, 57
 Louise Thomassin, 2023-11-14, 84
-Cecilia/John Perez/Hagist: 11-15-2023, 130
+John Hagist, 2023-11-15, 130
 Anne Khazzam, 2023-11-15, 71
-Sass Khazzam: 11-15-2023, 186
-Anusha Samarabandu: 11-15-2023, 64
+Sass Khazzam, 2023-11-15, 186
+Anusha Samarabandu, 2023-11-15, 64
 Aaron Iny, 2023-11-15, 176
 Jelle, 2023-11-15, 109
-Claire Samuels: 11-15-2023, 86
+Claire Samuels, 2023-11-15, 86
 Mom, 2023-11-15, 372
-David Khazzam: 11-15-2023, 120
-Rebecca Benest: 11-15-2023, 43
+David Khazzam, 2023-11-15, 120
+Rebecca Benest, 2023-11-15, 43
 Dad, 2023-11-16, 50
-Cecilia/John Perez/Hagist: 11-16-2023, 109
+John Hagist, 2023-11-16, 109
 Anne Khazzam, 2023-11-16, 52
 Jelle, 2023-11-16, 29
 Malo Thomassin, 2023-11-16, 64
-Anusha Samarabandu: 11-16-2023, 38
-Claire Samuels: 11-16-2023, 52
-Sass Khazzam: 11-16-2023, 124
-David Khazzam: 11-16-2023, 47
+Anusha Samarabandu, 2023-11-16, 38
+Claire Samuels, 2023-11-16, 52
+Sass Khazzam, 2023-11-16, 124
+David Khazzam, 2023-11-16, 47
 Mom, 2023-11-16, 109
-Anusha Samarabandu: 11-17-2023, 42
-Cecilia/John Perez/Hagist: 11-17-2023, 61
-David Khazzam: 11-17-2023, 55
+Anusha Samarabandu, 2023-11-17, 42
+John Hagist, 2023-11-17, 61
+David Khazzam, 2023-11-17, 55
 Dad, 2023-11-17, 44
 Anne Khazzam, 2023-11-17, 129
-Sass Khazzam: 11-17-2023, 81
-Claire Samuels: 11-17-2023, 99
+Sass Khazzam, 2023-11-17, 81
+Claire Samuels, 2023-11-17, 99
 Mom, 2023-11-17, 162
-Rebecca Benest: 11-17-2023, 48
+Rebecca Benest, 2023-11-17, 48
 Aaron Iny, 2023-11-17, 69
-Cecilia/John Perez/Hagist: 11-18-2023, 154
-Anusha Samarabandu: 11-18-2023, 133
+John Hagist, 2023-11-18, 154
+Anusha Samarabandu, 2023-11-18, 133
 Anne Khazzam, 2023-11-18, 65
 Mom, 2023-11-18, 158
-David Khazzam: 11-18-2023, 97
+David Khazzam, 2023-11-18, 97
 Jelle, 2023-11-18, 98
 Dad, 2023-11-18, 49
-Sass Khazzam: 11-18-2023, 165
-Claire Samuels: 11-18-2023, 148
+Sass Khazzam, 2023-11-18, 165
+Claire Samuels, 2023-11-18, 148
 Anne Khazzam, 2023-11-19, 73
-Sass Khazzam: 11-19-2023, 122
+Sass Khazzam, 2023-11-19, 122
 Jelle, 2023-11-19, 49
-Anusha Samarabandu: 11-19-2023, 92
-David Khazzam: 11-19-2023, 53
+Anusha Samarabandu, 2023-11-19, 92
+David Khazzam, 2023-11-19, 53
 Aaron Iny, 2023-11-19, 111
-Claire Samuels: 11-19-2023, 69
+Claire Samuels, 2023-11-19, 69
 Malo Thomassin, 2023-11-19, 118
 Mom, 2023-11-19, 354
 Dad, 2023-11-19, 50
-Rebecca Benest: 11-20-2023, 26
+Rebecca Benest, 2023-11-20, 26
 Emma Khazzam, 2023-11-20, 84
-Anusha Samarabandu: 11-20-2023, 44
-Sass Khazzam: 11-20-2023, 50
-Claire Samuels: 11-20-2023, 37
-Cecilia/John Perez/Hagist: 11-20-2023, 110
+Anusha Samarabandu, 2023-11-20, 44
+Sass Khazzam, 2023-11-20, 50
+Claire Samuels, 2023-11-20, 37
+John Hagist, 2023-11-20, 110
 Dad, 2023-11-20, 56
 Jelle, 2023-11-20, 124
 Anne Khazzam, 2023-11-20, 46
 Mom, 2023-11-20, 258
-David Khazzam: 11-20-2023, 40
+David Khazzam, 2023-11-20, 40
 Aaron Iny, 2023-11-20, 46
-Sass Khazzam: 11-21-2023, 182
+Sass Khazzam, 2023-11-21, 182
 Jelle, 2023-11-21, 69
-Anusha Samarabandu: 11-21-2023, 45
+Anusha Samarabandu, 2023-11-21, 45
 Dad, 2023-11-21, 60
-David Khazzam: 11-21-2023, 32
+David Khazzam, 2023-11-21, 32
 Emma Khazzam, 2023-11-21, 52
 Aaron Iny, 2023-11-21, 51
-Rebecca Benest: 11-21-2023, 46
+Rebecca Benest, 2023-11-21, 46
 Anne Khazzam, 2023-11-21, 45
 Mom, 2023-11-21, 147
-Sass Khazzam: 11-22-2023, 99
-Cecilia/John Perez/Hagist: 11-22-2023, 64
-Anusha Samarabandu: 11-22-2023, 35
-David Khazzam: 11-22-2023, 33
-Rebecca Benest: 11-22-2023, 47
-Claire Samuels: 11-22-2023, 38
+Sass Khazzam, 2023-11-22, 99
+John Hagist, 2023-11-22, 64
+Anusha Samarabandu, 2023-11-22, 35
+David Khazzam, 2023-11-22, 33
+Rebecca Benest, 2023-11-22, 47
+Claire Samuels, 2023-11-22, 38
 Anne Khazzam, 2023-11-22, 72
 Jelle, 2023-11-22, 56
 Dad, 2023-11-22, 44
-David Khazzam: 11-23-2023, 69
-Claire Samuels: 11-23-2023, 68
+David Khazzam, 2023-11-23, 69
+Claire Samuels, 2023-11-23, 68
 Jelle, 2023-11-23, 72
-Sass Khazzam: 11-23-2023, 159
-Anusha Samarabandu: 11-23-2023, 65
-Rebecca Benest: 11-23-2023, 30
+Sass Khazzam, 2023-11-23, 159
+Anusha Samarabandu, 2023-11-23, 65
+Rebecca Benest, 2023-11-23, 30
 Anne Khazzam, 2023-11-23, 126
 Emma Khazzam, 2023-11-23, 197
 Mom, 2023-11-23, 264
-David Khazzam: 11-24-2023, 60
-Sass Khazzam: 11-24-2023, 145
+David Khazzam, 2023-11-24, 60
+Sass Khazzam, 2023-11-24, 145
 Emma Khazzam, 2023-11-24, 98
-Claire Samuels: 11-24-2023, 51
+Claire Samuels, 2023-11-24, 51
 Dad, 2023-11-24, 75
-Rebecca Benest: 11-24-2023, 48
-Anusha Samarabandu: 11-24-2023, 49
+Rebecca Benest, 2023-11-24, 48
+Anusha Samarabandu, 2023-11-24, 49
 Anne Khazzam, 2023-11-24, 107
-Anusha Samarabandu: 11-25-2023, 75
-David Khazzam: 11-25-2023, 155
+Anusha Samarabandu, 2023-11-25, 75
+David Khazzam, 2023-11-25, 155
 Dad, 2023-11-25, 85
 Mom, 2023-11-25, 369
 Aaron Iny, 2023-11-25, 149
 Anne Khazzam, 2023-11-25, 168
-Rebecca Benest: 11-25-2023, 108
+Rebecca Benest, 2023-11-25, 108
 Jelle, 2023-11-25, 134
-Cecilia/John Perez/Hagist: 11-26-2023, 51
-Anusha Samarabandu: 11-26-2023, 28
+John Hagist, 2023-11-26, 51
+Anusha Samarabandu, 2023-11-26, 28
 Anne Khazzam, 2023-11-26, 36
 Jelle, 2023-11-26, 43
-Sass Khazzam: 11-25-2023, 247
-Sass Khazzam: 11-26-2023, 131
+Sass Khazzam, 2023-11-25, 247
+Sass Khazzam, 2023-11-26, 131
 Aaron Iny, 2023-11-26, 48
-Rebecca Benest: 11-26-2023, 45
-David Khazzam: 11-26-2023, 45
+Rebecca Benest, 2023-11-26, 45
+David Khazzam, 2023-11-26, 45
 Dad, 2023-11-26, 57
-Cecilia/John Perez/Hagist: 11-27-2023, 58
-David Khazzam: 11-27-2023, 32
+John Hagist, 2023-11-27, 58
+David Khazzam, 2023-11-27, 32
 Mom, 2023-11-27, 184
-Anusha Samarabandu: 11-27-2023, 344
-Sass Khazzam: 11-27-2023, 47
+Anusha Samarabandu, 2023-11-27, 344
+Sass Khazzam, 2023-11-27, 47
 Anne Khazzam, 2023-11-27, 87
 Aaron Iny, 2023-11-27, 54
 Dad, 2023-11-27, 52
-Rebecca Benest: 11-27-2023, 37
+Rebecca Benest, 2023-11-27, 37
 Jelle, 2023-11-27, 52
 Anne Khazzam, 2023-11-28, 93
-Cecilia/John Perez/Hagist: 11-28-2023, 227
-Anusha Samarabandu: 11-28-2023, 45
-Claire Samuels: 11-28-2023, 49
-David Khazzam: 11-28-2023, 33
+John Hagist, 2023-11-28, 227
+Anusha Samarabandu, 2023-11-28, 45
+Claire Samuels, 2023-11-28, 49
+David Khazzam, 2023-11-28, 33
 Dad, 2023-11-28, 47
 Jelle, 2023-11-28, 32
 Aaron Iny, 2023-11-28, 140
-Rebecca Benest: 11-28-2023, 33
+Rebecca Benest, 2023-11-28, 33
 Emma Khazzam, 2023-11-28, 65
 Mom, 2023-11-28, 139
-Sass Khazzam: 11-28-2023, 135
+Sass Khazzam, 2023-11-28, 135
 Mom, 2023-11-29, 58
-Cecilia/John Perez/Hagist: 11-29-2023, 60
-Sass Khazzam: 11-29-2023, 39
-David Khazzam: 11-29-2023, 31
+John Hagist, 2023-11-29, 60
+Sass Khazzam, 2023-11-29, 39
+David Khazzam, 2023-11-29, 31
 Anne Khazzam, 2023-11-29, 65
 Aaron Iny, 2023-11-29, 59
-Anusha Samarabandu: 11-29-2023, 18
+Anusha Samarabandu, 2023-11-29, 18
 Dad, 2023-11-29, 37
-Rebecca Benest: 11-29-2023, 38
-Anusha Samarabandu: 11-30-2023, 90
-David Khazzam: 11-30-2023, 108
+Rebecca Benest, 2023-11-29, 38
+Anusha Samarabandu, 2023-11-30, 90
+David Khazzam, 2023-11-30, 108
 Anne Khazzam, 2023-11-30, 254
-Claire Samuels: 11-30-2023, 181
+Claire Samuels, 2023-11-30, 181
 Jelle, 2023-11-30, 44
 Aaron Iny, 2023-11-30, 150
 Mom, 2023-11-30, 130
 Dad, 2023-11-30, 57
-Sass Khazzam: 11-30-2023, 59
-Sass Khazzam: 12-01-2023, 59
-Cecilia/John Perez/Hagist: 12-01-2023, 148
+Sass Khazzam, 2023-11-30, 59
+Sass Khazzam, 2023-12-01, 59
+John Hagist, 2023-12-01, 148
 Mom, 2023-12-01, 227
-Anusha Samarabandu: 12-01-2023, 110
+Anusha Samarabandu, 2023-12-01, 110
 Aaron Iny, 2023-12-01, 246
 Anne Khazzam, 2023-12-01, 78
-Rebecca Benest: 12-01-2023, 34
-David Khazzam: 12-01-2023, 68
+Rebecca Benest, 2023-12-01, 34
+David Khazzam, 2023-12-01, 68
 Dad, 2023-12-01, 43
-Sass Khazzam: 12-02-2023, 218
+Sass Khazzam, 2023-12-02, 218
 Dad, 2023-12-02, 107
-Anusha Samarabandu: 12-02-2023, 83
+Anusha Samarabandu, 2023-12-02, 83
 Aaron Iny, 2023-12-02, 73
 Anne Khazzam, 2023-12-02, 268
-David Khazzam: 12-02-2023, 103
-Rebecca Benest: 12-02-2023, 110
+David Khazzam, 2023-12-02, 103
+Rebecca Benest, 2023-12-02, 110
 Anne Khazzam, 2023-12-03, 34
 Jelle, 2023-12-03, 64
 Mom, 2023-12-03, 100
 Dad, 2023-12-03, 43
-David Khazzam: 12-03-2023, 39
+David Khazzam, 2023-12-03, 39
 Aaron Iny, 2023-12-03, 100
-Cecilia/John Perez/Hagist: 12-03-2023, 95
-Anusha Samarabandu: 12-03-2023, 21
-Cecilia/John Perez/Hagist: 12-04-2023, 61
-Anusha Samarabandu: 12-04-2023, 73
+John Hagist, 2023-12-03, 95
+Anusha Samarabandu, 2023-12-03, 21
+John Hagist, 2023-12-04, 61
+Anusha Samarabandu, 2023-12-04, 73
 Aaron Iny, 2023-12-04, 61
 Jelle, 2023-12-04, 94
-Sass Khazzam: 12-04-2023, 54
-Sass Khazzam: 12-03-2023, 91
+Sass Khazzam, 2023-12-04, 54
+Sass Khazzam, 2023-12-03, 91
 Dad, 2023-12-04, 63
-Rebecca Benest: 12-04-2023, 52
+Rebecca Benest, 2023-12-04, 52
 Anne Khazzam, 2023-12-04, 60
-David Khazzam: 12-04-2023, 88
-Sass Khazzam: 12-05-2023, 133
-Cecilia/John Perez/Hagist: 12-05-2023, 163
+David Khazzam, 2023-12-04, 88
+Sass Khazzam, 2023-12-05, 133
+John Hagist, 2023-12-05, 163
 Anne Khazzam, 2023-12-05, 67
 Louise Thomassin, 2023-12-05, 40
-Claire Samuels: 12-05-2023, 55
+Claire Samuels, 2023-12-05, 55
 Jelle, 2023-12-05, 34
 Aaron Iny, 2023-12-05, 151
-Rebecca Benest: 12-05-2023, 43
-David Khazzam: 12-05-2023, 56
-Anusha Samarabandu: 12-05-2023, 41
+Rebecca Benest, 2023-12-05, 43
+David Khazzam, 2023-12-05, 56
+Anusha Samarabandu, 2023-12-05, 41
 Dad, 2023-12-05, 57
-Anusha Samarabandu: 12-05-2023, 41
+Anusha Samarabandu, 2023-12-05, 41
 Emma Khazzam, 2023-12-05, 94
-David Khazzam: 12-06-2023, 49
+David Khazzam, 2023-12-06, 49
 Anne Khazzam, 2023-12-06, 94
-Anusha Samarabandu: 12-06-2023, 70
+Anusha Samarabandu, 2023-12-06, 70
 Aaron Iny, 2023-12-06, 87
-Rebecca Benest: 12-06-2023, 49
-Sass Khazzam: 12-06-2023, 113
+Rebecca Benest, 2023-12-06, 49
+Sass Khazzam, 2023-12-06, 113
 Dad, 2023-12-06, 56
-Claire Samuels: 12-06-2023, 104
+Claire Samuels, 2023-12-06, 104
 Jelle, 2023-12-06, 89
 Mom, 2023-12-06, 124
-Sass Khazzam: 12-07-2023, 79
-Anusha Samarabandu: 12-07-2023, 101
-David Khazzam: 12-07-2023, 42
+Sass Khazzam, 2023-12-07, 79
+Anusha Samarabandu, 2023-12-07, 101
+David Khazzam, 2023-12-07, 42
 Aaron Iny, 2023-12-07, 31
-Claire Samuels: 12-07-2023, 33
+Claire Samuels, 2023-12-07, 33
 Jelle, 2023-12-07, 41
 Anne Khazzam, 2023-12-07, 86
 Louise Thomassin, 2023-12-07, 60
-Rebecca Benest: 12-07-2023, 77
-Cecilia/John Perez/Hagist: 12-08-2023, 58
+Rebecca Benest, 2023-12-07, 77
+John Hagist, 2023-12-08, 58
 Jelle, 2023-12-08, 43
 Mom, 2023-12-08, 201
-Sass Khazzam: 12-08-2023, 55
-Anusha Samarabandu: 12-08-2023, 29
-Claire Samuels: 12-08-2023, 50
+Sass Khazzam, 2023-12-08, 55
+Anusha Samarabandu, 2023-12-08, 29
+Claire Samuels, 2023-12-08, 50
 Emma Khazzam, 2023-12-08, 74
 Dad, 2023-12-08, 44
-David Khazzam: 12-08-2023, 18
+David Khazzam, 2023-12-08, 18
 Aaron Iny, 2023-12-08, 63
 Anne Khazzam, 2023-12-08, 48
-Rebecca Benest: 12-08-2023, 34
-Anusha Samarabandu: 12-09-2023, 136
-David Khazzam: 12-09-2023, 78
+Rebecca Benest, 2023-12-08, 34
+Anusha Samarabandu, 2023-12-09, 136
+David Khazzam, 2023-12-09, 78
 Anne Khazzam, 2023-12-09, 250
 Jelle, 2023-12-10, 38
 Emma Khazzam, 2023-12-10, 56
 Mom, 2023-12-10, 60
 Dad, 2023-12-10, 38
-Sass Khazzam: 12-10-2023, 52
+Sass Khazzam, 2023-12-10, 52
 Aaron Iny, 2023-12-10, 37
 Louise Thomassin, 2023-12-10, 26
-Anusha Samarabandu: 12-10-2023, 20
-Claire Samuels: 12-10-2023, 27
-Rebecca Benest: 12-10-2023, 30
-David Khazzam: 12-10-2023, 36
+Anusha Samarabandu, 2023-12-10, 20
+Claire Samuels, 2023-12-10, 27
+Rebecca Benest, 2023-12-10, 30
+David Khazzam, 2023-12-10, 36
 Anne Khazzam, 2023-12-11, 55
-Anusha Samarabandu: 12-11-2023, 103
+Anusha Samarabandu, 2023-12-11, 103
 Jelle, 2023-12-11, 63
-Rebecca Benest: 12-11-2023, 39
-David Khazzam: 12-11-2023, 49
-Sass Khazzam: 12-11-2023, 121
+Rebecca Benest, 2023-12-11, 39
+David Khazzam, 2023-12-11, 49
+Sass Khazzam, 2023-12-11, 121
 Dad, 2023-12-11, 46
-Cecilia/John Perez/Hagist: 12-11-2023, 145
-Anusha Samarabandu: 12-12-2023, 48
-Sass Khazzam: 12-12-2023, 132
-David Khazzam: 12-12-2023, 50
-Rebecca Benest: 12-12-2023, 49
+John Hagist, 2023-12-11, 145
+Anusha Samarabandu, 2023-12-12, 48
+Sass Khazzam, 2023-12-12, 132
+David Khazzam, 2023-12-12, 50
+Rebecca Benest, 2023-12-12, 49
 Anne Khazzam, 2023-12-12, 61
 Jelle, 2023-12-12, 61
 Aaron Iny, 2023-12-12, 124
 Dad, 2023-12-12, 57
 Mom, 2023-12-12, 96
-Sass Khazzam: 12-13-2023, 60
-Anusha Samarabandu: 12-13-2023, 30
-Claire Samuels: 12-13-2023, 129
-David Khazzam: 12-13-2023, 35
+Sass Khazzam, 2023-12-13, 60
+Anusha Samarabandu, 2023-12-13, 30
+Claire Samuels, 2023-12-13, 129
+David Khazzam, 2023-12-13, 35
 Louise Thomassin, 2023-12-13, 40
 Dad, 2023-12-13, 57
-Rebecca Benest: 12-13-2023, 41
+Rebecca Benest, 2023-12-13, 41
 Aaron Iny, 2023-12-13, 103
 Jelle, 2023-12-14, 84
 Louise Thomassin, 2023-12-14, 69
 Anne Khazzam, 2023-12-14, 44
-Sass Khazzam: 12-14-2023, 121
-Anusha Samarabandu: 12-14-2023, 30
+Sass Khazzam, 2023-12-14, 121
+Anusha Samarabandu, 2023-12-14, 30
 Dad, 2023-12-14, 66
-Claire Samuels: 12-14-2023, 37
-David Khazzam: 12-14-2023, 157
-Rebecca Benest: 12-14-2023, 39
-Cecilia/John Perez/Hagist: 12-15-2023, 114
-Sass Khazzam: 12-15-2023, 199
+Claire Samuels, 2023-12-14, 37
+David Khazzam, 2023-12-14, 157
+Rebecca Benest, 2023-12-14, 39
+John Hagist, 2023-12-15, 114
+Sass Khazzam, 2023-12-15, 199
 Mom, 2023-12-15, 115
 Anne Khazzam, 2023-12-15, 39
-Anusha Samarabandu: 12-15-2023, 62
+Anusha Samarabandu, 2023-12-15, 62
 Jelle, 2023-12-15, 84
-David Khazzam: 12-15-2023, 61
-Rebecca Benest: 12-15-2023, 59
+David Khazzam, 2023-12-15, 61
+Rebecca Benest, 2023-12-15, 59
 Dad, 2023-12-15, 48
 Aaron Iny, 2023-12-15, 72
-Sass Khazzam: 12-16-2023, 207
+Sass Khazzam, 2023-12-16, 207
 Louise Thomassin, 2023-12-16, 141
-Anusha Samarabandu: 12-16-2023, 83
-Rebecca Benest: 12-16-2023, 104
+Anusha Samarabandu, 2023-12-16, 83
+Rebecca Benest, 2023-12-16, 104
 Mom, 2023-12-16, 226
-Cecilia/John Perez/Hagist: 12-16-2023, 270
+John Hagist, 2023-12-16, 270
 Jelle, 2023-12-16, 171
 Emma Khazzam, 2023-12-16, 228
 Aaron Iny, 2023-12-16, 163
-David Khazzam: 12-16-2023, 185
-David Khazzam: 12-17-2023, 33
-Claire Samuels: 12-16-2023, 216
+David Khazzam, 2023-12-16, 185
+David Khazzam, 2023-12-17, 33
+Claire Samuels, 2023-12-16, 216
 Jelle, 2023-12-17, 46
 Anne Khazzam, 2023-12-17, 59
-Anusha Samarabandu: 12-17-2023, 29
-Cecilia/John Perez/Hagist: 12-17-2023, 81
-Sass Khazzam: 12-17-2023, 53
-Rebecca Benest: 12-17-2023, 28
+Anusha Samarabandu, 2023-12-17, 29
+John Hagist, 2023-12-17, 81
+Sass Khazzam, 2023-12-17, 53
+Rebecca Benest, 2023-12-17, 28
 Mom, 2023-12-17, 127
 Emma Khazzam, 2023-12-17, 35
 Aaron Iny, 2023-12-17, 64
-Sass Khazzam: 12-18-2023, 57
-Cecilia/John Perez/Hagist: 12-18-2023, 71
+Sass Khazzam, 2023-12-18, 57
+John Hagist, 2023-12-18, 71
 Dad, 2023-12-18, 35
 Louise Thomassin, 2023-12-18, 49
 Anne Khazzam, 2023-12-18, 34
-Anusha Samarabandu: 12-18-2023, 34
-Claire Samuels: 12-18-2023, 34
-Rebecca Benest: 12-18-2023, 28
+Anusha Samarabandu, 2023-12-18, 34
+Claire Samuels, 2023-12-18, 34
+Rebecca Benest, 2023-12-18, 28
 Aaron Iny, 2023-12-18, 72
-David Khazzam: 12-18-2023, 32
+David Khazzam, 2023-12-18, 32
 Mom, 2023-12-18, 69
-Sass Khazzam: 12-19-2023, 153
+Sass Khazzam, 2023-12-19, 153
 Anne Khazzam, 2023-12-19, 44
-Anusha Samarabandu: 12-19-2023, 48
-Claire Samuels: 12-19-2023, 85
+Anusha Samarabandu, 2023-12-19, 48
+Claire Samuels, 2023-12-19, 85
 Aaron Iny, 2023-12-19, 50
-David Khazzam: 12-19-2023, 69
+David Khazzam, 2023-12-19, 69
 Jelle, 2023-12-19, 45
-Rebecca Benest: 12-19-2023, 49
+Rebecca Benest, 2023-12-19, 49
 Dad, 2023-12-19, 52
-Cecilia/John Perez/Hagist: 12-20-2023, 54
+John Hagist, 2023-12-20, 54
 Anne Khazzam, 2023-12-20, 56
 Malo Thomassin, 2023-12-20, 85
-Sass Khazzam: 12-20-2023, 46
-Anusha Samarabandu: 12-20-2023, 49
+Sass Khazzam, 2023-12-20, 46
+Anusha Samarabandu, 2023-12-20, 49
 Aaron Iny, 2023-12-20, 74
 Jelle, 2023-12-20, 51
-Rachel Brennan: 12-20-2023, 32
-Rebecca Benest: 12-20-2023, 48
-David Khazzam: 12-20-2023, 32
+Rachel Brennan, 2023-12-20, 32
+Rebecca Benest, 2023-12-20, 48
+David Khazzam, 2023-12-20, 32
 Dad, 2023-12-20, 49
 Emma Khazzam, 2023-12-20, 21790
-Cecilia/John Perez/Hagist: 12-21-2023, 108
+John Hagist, 2023-12-21, 108
 Mom, 2023-12-21, 169
 Anne Khazzam, 2023-12-21, 123
-Anusha Samarabandu: 12-21-2023, 32
-Sass Khazzam: 12-21-2023, 73
-Claire Samuels: 12-21-2023, 69
+Anusha Samarabandu, 2023-12-21, 32
+Sass Khazzam, 2023-12-21, 73
+Claire Samuels, 2023-12-21, 69
 Dad, 2023-12-21, 47
-David Khazzam: 12-21-2023, 39
+David Khazzam, 2023-12-21, 39
 Jelle, 2023-12-21, 32
-Rachel Brennan: 12-21-2023, 46
-Rebecca Benest: 12-21-2023, 41
+Rachel Brennan, 2023-12-21, 46
+Rebecca Benest, 2023-12-21, 41
 Aaron Iny, 2023-12-21, 125
 Louise Thomassin, 2023-12-21, 58
-Cecilia/John Perez/Hagist: 12-22-2023, 86
+John Hagist, 2023-12-22, 86
 Anne Khazzam, 2023-12-22, 68
-Anusha Samarabandu: 12-22-2023, 42
+Anusha Samarabandu, 2023-12-22, 42
 Dad, 2023-12-22, 62
-Sass Khazzam: 12-22-2023, 52
+Sass Khazzam, 2023-12-22, 52
 Louise Thomassin, 2023-12-22, 108
 Aaron Iny, 2023-12-22, 101
-David Khazzam: 12-22-2023, 43
+David Khazzam, 2023-12-22, 43
 Mom, 2023-12-22, 159
-Claire Samuels: 12-22-2023, 85
+Claire Samuels, 2023-12-22, 85
 Jelle, 2023-12-22, 41
-Cecilia/John Perez/Hagist: 12-23-2023, 214
-Rachel Brennan: 12-23-2023, 77
+John Hagist, 2023-12-23, 214
+Rachel Brennan, 2023-12-23, 77
 Anne Khazzam, 2023-12-23, 194
-David Khazzam: 12-23-2023, 50
-Claire Samuels: 12-23-2023, 57
-Rebecca Benest: 12-23-2023, 66
+David Khazzam, 2023-12-23, 50
+Claire Samuels, 2023-12-23, 57
+Rebecca Benest, 2023-12-23, 66
 Louise Thomassin, 2023-12-23, 66
 Dad, 2023-12-23, 65
-Anusha Samarabandu: 12-23-2023, 45
+Anusha Samarabandu, 2023-12-23, 45
 Aaron Iny, 2023-12-23, 169
 Jelle, 2023-12-23, 65
 Emma Khazzam, 2023-12-23, 138
-Sass Khazzam: 12-23-2023, 174
+Sass Khazzam, 2023-12-23, 174
 Mom, 2023-12-24, 180
 Dad, 2023-12-24, 112
-Cecilia/John Perez/Hagist: 12-24-2023, 93
-Anusha Samarabandu: 12-24-2023, 67
-David Khazzam: 12-24-2023, 34
-Sass Khazzam: 12-24-2023, 122
-Claire Samuels: 12-24-2023, 32
+John Hagist, 2023-12-24, 93
+Anusha Samarabandu, 2023-12-24, 67
+David Khazzam, 2023-12-24, 34
+Sass Khazzam, 2023-12-24, 122
+Claire Samuels, 2023-12-24, 32
 Louise Thomassin, 2023-12-24, 78
-Rebecca Benest: 12-24-2023, 27
+Rebecca Benest, 2023-12-24, 27
 Aaron Iny, 2023-12-24, 40
 Louise Thomassin, 2023-12-25, 83
-Anusha Samarabandu: 12-25-2023, 13
-David Khazzam: 12-25-2023, 27
+Anusha Samarabandu, 2023-12-25, 13
+David Khazzam, 2023-12-25, 27
 Anne Khazzam, 2023-12-25, 139
-Sass Khazzam: 12-25-2023, 86
-Rachel Brennan: 12-25-2023, 45
+Sass Khazzam, 2023-12-25, 86
+Rachel Brennan, 2023-12-25, 45
 Dad, 2023-12-25, 40
-Cecilia/John Perez/Hagist: 12-25-2023, 52
+John Hagist, 2023-12-25, 52
 Jelle, 2023-12-25, 34
-Rebecca Benest: 12-25-2023, 40
-Sass Khazzam: 12-26-2023, 56
-Cecilia/John Perez/Hagist: 12-26-2023, 86
+Rebecca Benest, 2023-12-25, 40
+Sass Khazzam, 2023-12-26, 56
+John Hagist, 2023-12-26, 86
 Jelle, 2023-12-26, 47
 Dad, 2023-12-26, 44
-David Khazzam: 12-26-2023, 69
-Anusha Samarabandu: 12-26-2023, 57
-Rebecca Benest: 12-26-2023, 45
-Claire Samuels: 12-26-2023, 25
+David Khazzam, 2023-12-26, 69
+Anusha Samarabandu, 2023-12-26, 57
+Rebecca Benest, 2023-12-26, 45
+Claire Samuels, 2023-12-26, 25
 Mom, 2023-12-26, 144
 Malo Thomassin, 2023-12-26, 70
-Cecilia/John Perez/Hagist: 12-27-2023, 60
-Anusha Samarabandu: 12-27-2023, 34
-David Khazzam: 12-27-2023, 56
-Sass Khazzam: 12-27-2023, 68
+John Hagist, 2023-12-27, 60
+Anusha Samarabandu, 2023-12-27, 34
+David Khazzam, 2023-12-27, 56
+Sass Khazzam, 2023-12-27, 68
 Dad, 2023-12-27, 58
 Anne Khazzam, 2023-12-27, 43
 Jelle, 2023-12-27, 90
-Rebecca Benest: 12-27-2023, 32
+Rebecca Benest, 2023-12-27, 32
 Mom, 2023-12-27, 234
 Aaron Iny, 2023-12-27, 42
-Sass Khazzam: 12-28-2023, 143
+Sass Khazzam, 2023-12-28, 143
 Dad, 2023-12-28, 63
 Anne Khazzam, 2023-12-28, 70
-Cecilia/John Perez/Hagist: 12-28-2023, 86
-Anusha Samarabandu: 12-28-2023, 53
-Rebecca Benest: 12-28-2023, 57
+John Hagist, 2023-12-28, 86
+Anusha Samarabandu, 2023-12-28, 53
+Rebecca Benest, 2023-12-28, 57
 Aaron Iny, 2023-12-28, 150
-Claire Samuels: 12-28-2023, 55
+Claire Samuels, 2023-12-28, 55
 Mom, 2023-12-28, 117
-Anusha Samarabandu: 12-29-2023, 22
-Cecilia/John Perez/Hagist: 12-29-2023, 67
-David Khazzam: 12-29-2023, 35
+Anusha Samarabandu, 2023-12-29, 22
+John Hagist, 2023-12-29, 67
+David Khazzam, 2023-12-29, 35
 Anne Khazzam, 2023-12-29, 66
-Claire Samuels: 12-29-2023, 64
-Sass Khazzam: 12-29-2023, 31
+Claire Samuels, 2023-12-29, 64
+Sass Khazzam, 2023-12-29, 31
 Dad, 2023-12-29, 56
 Aaron Iny, 2023-12-29, 92
 Emma Khazzam, 2023-12-29, 95
 Jelle, 2023-12-29, 36
-Rebecca Benest: 12-29-2023, 41
+Rebecca Benest, 2023-12-29, 41
 Tenzin Ary, 2023-12-29, 135
-Cecilia/John Perez/Hagist: 12-30-2023, 226
+John Hagist, 2023-12-30, 226
 Jelle, 2023-12-30, 229
 Dad, 2023-12-30, 107
 Emma Khazzam, 2023-12-30, 240
-Tenzin Ary: 12-30-2023, 247
+Tenzin Ary, 2023-12-30, 247
 Louise Thomassin, 2023-12-30, 122
-David Khazzam: 12-30-2023, 67
-Anne Khazzam: 12-30-2023, 259
+David Khazzam, 2023-12-30, 67
+Anne Khazzam, 2023-12-30, 259
 Mom, 2023-12-30, 226
-Sass Khazzam: 12-30-2023, 173
-Anusha Samarabandu: 12-30-2023, 130
-Rebecca Benest: 12-30-2023, 115
+Sass Khazzam, 2023-12-30, 173
+Anusha Samarabandu, 2023-12-30, 130
+Rebecca Benest, 2023-12-30, 115
 Aaron Iny, 2023-12-31, 93
-Rachel Brennan: 12-31-2023, 60
-Sass Khazzam: 12-31-2023, 160
+Rachel Brennan, 2023-12-31, 60
+Sass Khazzam, 2023-12-31, 160
 Mom, 2023-12-31, 87
-Tenzin Ary: 12-31-2023, 87
-David Khazzam: 12-31-2023, 53
-Claire Samuels: 12-31-2023, 47
-Anusha Samarabandu: 12-31-2023, 34
-Cecilia/John Perez/Hagist: 12-31-2023, 55
+Tenzin Ary, 2023-12-31, 87
+David Khazzam, 2023-12-31, 53
+Claire Samuels, 2023-12-31, 47
+Anusha Samarabandu, 2023-12-31, 34
+John Hagist, 2023-12-31, 55
 Dad, 2023-12-31, 55
-Rebecca Benest: 12-31-2023, 42
-Sass Khazzam: 1-01-2024, 78
+Rebecca Benest, 2023-12-31, 42
+Sass Khazzam, 2024-01-01, 78
 Dad, 2024-01-01, 52
 Jelle, 2024-01-01, 113
 Emma Khazzam, 2024-01-01, 188
-David Khazzam: 1-01-2024, 118
-Louise Thomassin: 1-01-2024, 104
-Claire Samuels: 1-01-2024, 127
-Tenzin Ary: 1-1-2024, 84
-Anusha Samarabandu: 1-01-2024, 160
-Rebecca Benest: 1-01-2024, 85
+David Khazzam, 2024-01-01, 118
+Louise Thomassin, 2024-01-01, 104
+Claire Samuels, 2024-01-01, 127
+Tenzin Ary, 2024-01-01, 84
+Anusha Samarabandu, 2024-01-01, 160
+Rebecca Benest, 2024-01-01, 85
 Mom, 2024-01-01, 243
-Cecilia/John Perez/Hagist: 1-01-2024, 189
-Tenzin Ary: 1-2-2024, 93
-David Khazzam: 1-02-2024, 71
+John Hagist, 2024-01-01, 189
+Tenzin Ary, 2024-01-02, 93
+David Khazzam, 2024-01-02, 71
 Louise Thomassin, 2024-01-02, 44
 Dad, 2024-01-02, 54
 Mom, 2024-01-02, 166
-Anne Khazzam: 1-02-2024, 84
+Anne Khazzam, 2024-01-02, 84
 Jelle, 2024-01-02, 59
 Emma Khazzam, 2024-01-02, 64
-Claire Samuels: 1-02-2024, 46
-Cecilia/John Perez/Hagist: 1-02-2024, 88
-Anusha Samarabandu: 1-02-2024, 40
-Rebecca Benest: 1-02-2024, 42
-Sass Khazzam: 1-02-2024, 177
+Claire Samuels, 2024-01-02, 46
+John Hagist, 2024-01-02, 88
+Anusha Samarabandu, 2024-01-02, 40
+Rebecca Benest, 2024-01-02, 42
+Sass Khazzam, 2024-01-02, 177
 Dad, 2024-01-03, 42
 Mom, 2024-01-03, 104
-Tenzin Ary: 1-3-2024, 73
+Tenzin Ary, 2024-01-03, 73
 Jelle, 2024-01-03, 118
 Louise Thomassin, 2024-01-03, 46
-Anusha Samarabandu: 1-03-2024, 38
-Cecilia/John Perez/Hagist: 1-03-2024, 72
-Sass Khazzam: 1-03-2024, 69
-Cecilia/John Perez/Hagist: 1-04-2024, 86
-Anusha Samarabandu: 1-04-2024, 29
-Claire Samuels: 1-04-2024, 46
-Anne Khazzam: 1-04-2024, 120
-David Khazzam: 1-04-2024, 60
+Anusha Samarabandu, 2024-01-03, 38
+John Hagist, 2024-01-03, 72
+Sass Khazzam, 2024-01-03, 69
+John Hagist, 2024-01-04, 86
+Anusha Samarabandu, 2024-01-04, 29
+Claire Samuels, 2024-01-04, 46
+Anne Khazzam, 2024-01-04, 120
+David Khazzam, 2024-01-04, 60
 Jelle, 2024-01-04, 57
-Louise Thomassin: 1-04-2024, 67
-Rebecca Benest: 1-04-2024, 80
+Louise Thomassin, 2024-01-04, 67
+Rebecca Benest, 2024-01-04, 80
 Dad, 2024-01-04, 63
 Mom, 2024-01-04, 55
-Rachel Brennan: 1-4-2024, 60
-David Khazzam: 1-05-2024, 44
+Rachel Brennan, 2024-01-04, 60
+David Khazzam, 2024-01-05, 44
 Emma Khazzam, 2024-01-05, 53
 Jelle, 2024-01-05, 69
-Anne Khazzam: 1-05-2024, 41
-Louise Thomassin: 1-05-2024, 39
-Anusha Samarabandu: 1-05-2024, 53
+Anne Khazzam, 2024-01-05, 41
+Louise Thomassin, 2024-01-05, 39
+Anusha Samarabandu, 2024-01-05, 53
 Dad, 2024-01-05, 45
-Sass Khazzam: 1-05-2024, 62
+Sass Khazzam, 2024-01-05, 62
 Mom, 2024-01-05, 28
-Cecilia/John Perez/Hagist: 1-05-2024, 41
+John Hagist, 2024-01-05, 41
 Aaron Iny, 2024-01-05, 74
-Rachel Brennan: 1-5-2024, 54
-Rebecca Benest: 1-05-2024, 24
-Rebecca Benest: 1-06-2024, 57
-Louise Thomassin: 1-06-2024, 79
-David Khazzam: 1-06-2024, 57
-Tenzin Ary: 1-6-2024, 112
+Rachel Brennan, 2024-01-05, 54
+Rebecca Benest, 2024-01-05, 24
+Rebecca Benest, 2024-01-06, 57
+Louise Thomassin, 2024-01-06, 79
+David Khazzam, 2024-01-06, 57
+Tenzin Ary, 2024-01-06, 112
 Mom, 2024-01-06, 194
-Anusha Samarabandu: 1-06-2024, 48
+Anusha Samarabandu, 2024-01-06, 48
 Dad, 2024-01-06, 64
 Emma Khazzam, 2024-01-06, 198
-Cecilia/John Perez/Hagist: 1-06-2024, 130
-Anne Khazzam: 1-06-2024, 131
+John Hagist, 2024-01-06, 130
+Anne Khazzam, 2024-01-06, 131
 Dad, 2024-01-07, 44
-Louise Thomassin: 1-07-2024, 70
+Louise Thomassin, 2024-01-07, 70
 Jelle, 2024-01-07, 81
-Anne Khazzam: 1-07-2024, 97
-Sass Khazzam: 1-07-2024, 70
-Anusha Samarabandu: 1-07-2024, 36
-Sass Khazzam: 1-06-2024, 86
-Rebecca Benest: 1-07-2024, 47
-Sass Khazzam: 1-08-2024, 65
-Cecilia/John Perez/Hagist: 1-08-2024, 53
+Anne Khazzam, 2024-01-07, 97
+Sass Khazzam, 2024-01-07, 70
+Anusha Samarabandu, 2024-01-07, 36
+Sass Khazzam, 2024-01-06, 86
+Rebecca Benest, 2024-01-07, 47
+Sass Khazzam, 2024-01-08, 65
+John Hagist, 2024-01-08, 53
 Mom, 2024-01-08, 165
 Jelle, 2024-01-08, 200
 Emma Khazzam, 2024-01-08, 167
-Louise Thomassin: 1-08-2024, 97
+Louise Thomassin, 2024-01-08, 97
 Dad, 2024-01-08, 66
 Malo Thomassin, 2024-01-08, 115
-Anusha Samarabandu: 1-08-2024, 47
-Rebecca Benest: 1-08-2024, 36
-Louise Thomassin: 1-09-2024, 47
-Anne Khazzam: 1-09-2024, 139
-David Khazzam: 1-09-2024, 79
-Anusha Samarabandu: 1-09-2024, 34
-Cecilia/John Perez/Hagist: 1-09-2024, 68
+Anusha Samarabandu, 2024-01-08, 47
+Rebecca Benest, 2024-01-08, 36
+Louise Thomassin, 2024-01-09, 47
+Anne Khazzam, 2024-01-09, 139
+David Khazzam, 2024-01-09, 79
+Anusha Samarabandu, 2024-01-09, 34
+John Hagist, 2024-01-09, 68
 Jonah Pagano, 2024-01-09, 39
 Dad, 2024-01-09, 47
 Aaron Iny, 2024-01-09, 85
-Sass Khazzam: 1-09-2024, 67
-Rebecca Benest: 1-09-2024, 41
-Tenzin Ary: 1-9-2024, 66
+Sass Khazzam, 2024-01-09, 67
+Rebecca Benest, 2024-01-09, 41
+Tenzin Ary, 2024-01-09, 66
 Mom, 2024-01-10, 210
-Cecilia/John Perez/Hagist: 1-10-2024, 135
-Louise Thomassin: 1-10-2024, 88
-Tenzin Ary: 1-10-2024, 140
+John Hagist, 2024-01-10, 135
+Louise Thomassin, 2024-01-10, 88
+Tenzin Ary, 2024-01-10, 140
 Aaron Iny, 2024-01-10, 91
 Jelle, 2024-01-10, 110
-Sass Khazzam: 1-10-2024, 137
-Anusha Samarabandu: 1-10-2024, 54
-Rebecca Benest: 1-10-2024, 62
+Sass Khazzam, 2024-01-10, 137
+Anusha Samarabandu, 2024-01-10, 54
+Rebecca Benest, 2024-01-10, 62
 Jonah Pagano, 2024-01-10, 112
-David Khazzam: 1-10-2024, 245
+David Khazzam, 2024-01-10, 245
 Anne Khazzam, 2024-01-10, 48
 Dad, 2024-01-10, 93
-Cecilia/John Perez/Hagist: 1-11-2024, 111
-Louise Thomassin: 1-11-2024, 129
+John Hagist, 2024-01-11, 111
+Louise Thomassin, 2024-01-11, 129
 Emma Khazzam, 2024-01-11, 171
-Tenzin Ary: 1-11-2024, 118
+Tenzin Ary, 2024-01-11, 118
 Dad, 2024-01-11, 57
 Jelle, 2024-01-11, 128
-Anusha Samarabandu: 1-11-2024, 291
-David Khazzam: 1-11-2024, 106
-Rebecca Benest: 1-11-2024, 55
+Anusha Samarabandu, 2024-01-11, 291
+David Khazzam, 2024-01-11, 106
+Rebecca Benest, 2024-01-11, 55
 Aaron Iny, 2024-01-11, 219
-Claire Samuels: 1-11-2024, 144
-Sass Khazzam: 1-11-2024, 294
+Claire Samuels, 2024-01-11, 144
+Sass Khazzam, 2024-01-11, 294
 Jonah Pagano, 2024-01-11, 119
 Mom, 2024-01-12, 102
-Louise Thomassin: 1-12-2024, 43
-Sass Khazzam: 1-12-2024, 56
-Cecilia/John Perez/Hagist: 1-12-2024, 101
-Tenzin Ary: 1-12-2024, 136
-David Khazzam: 1-12-2024, 36
+Louise Thomassin, 2024-01-12, 43
+Sass Khazzam, 2024-01-12, 56
+John Hagist, 2024-01-12, 101
+Tenzin Ary, 2024-01-12, 136
+David Khazzam, 2024-01-12, 36
 Aaron Iny, 2024-01-12, 82
-Anusha Samarabandu: 1-12-2024, 32
+Anusha Samarabandu, 2024-01-12, 32
 Dad, 2024-01-12, 59
-Rebecca Benest: 1-12-2024, 27
-Sass Khazzam: 1-13-2024, 191
+Rebecca Benest, 2024-01-12, 27
+Sass Khazzam, 2024-01-13, 191
 Mom, 2024-01-13, 194
-Louise Thomassin: 1-13-2024, 100
-Rebecca Benest: 1-13-2024, 147
+Louise Thomassin, 2024-01-13, 100
+Rebecca Benest, 2024-01-13, 147
 Dad, 2024-01-13, 89
-Cecilia/John Perez/Hagist: 1-13-2024, 237
+John Hagist, 2024-01-13, 237
 Jelle, 2024-01-13, 148
-David Khazzam: 1-13-2024, 58
+David Khazzam, 2024-01-13, 58
 Aaron Iny, 2024-01-13, 123
 Anne Khazzam, 2024-01-13, 128
-Anusha Samarabandu: 1-13-2024, 93
+Anusha Samarabandu, 2024-01-13, 93
 Mom, 2024-01-14, 186
-Louise Thomassin: 1-14-2024, 72
-David Khazzam: 1-14-2024, 58
+Louise Thomassin, 2024-01-14, 72
+David Khazzam, 2024-01-14, 58
 Dad, 2024-01-14, 50
-Tenzin Ary: 1-14-2024, 106
+Tenzin Ary, 2024-01-14, 106
 Anne Khazzam, 2024-01-14, 77
-Anusha Samarabandu: 1-14-2024, 40
-Sass Khazzam: 1-14-2024, 70
+Anusha Samarabandu, 2024-01-14, 40
+Sass Khazzam, 2024-01-14, 70
 Jelle, 2024-01-14, 136
-Rebecca Benest: 1-14-2024, 36
+Rebecca Benest, 2024-01-14, 36
 Dad, 2024-01-15, 52
-Sass Khazzam: 1-15-2024, 158
+Sass Khazzam, 2024-01-15, 158
 Aaron Iny, 2024-01-15, 94
-Tenzin Ary: 1-15-2024, 40
-David Khazzam: 1-15-2024, 93
-Anusha Samarabandu: 1-15-2024, 30
-Louise Thomassin: 1-15-2024, 74
-Cecilia/John Perez/Hagist: 1-15-2024, 124
+Tenzin Ary, 2024-01-15, 40
+David Khazzam, 2024-01-15, 93
+Anusha Samarabandu, 2024-01-15, 30
+Louise Thomassin, 2024-01-15, 74
+John Hagist, 2024-01-15, 124
 Anne Khazzam, 2024-01-16, 76
 Mom, 2024-01-16, 115
-Louise Thomassin: 1-16-2024, 76
-David Khazzam: 1-16-2024, 31
+Louise Thomassin, 2024-01-16, 76
+David Khazzam, 2024-01-16, 31
 Dad, 2024-01-16, 43
 Jelle, 2024-01-16, 98
-Anusha Samarabandu: 1-16-2024, 53
-Sass Khazzam: 1-16-2024, 74
+Anusha Samarabandu, 2024-01-16, 53
+Sass Khazzam, 2024-01-16, 74
 Aaron Iny, 2024-01-16, 81
-Cecilia/John Perez/Hagist: 1-16-2024, 95
-Rebecca Benest: 1-16-2024, 109
-David Khazzam: 1-17-2024, 29
+John Hagist, 2024-01-16, 95
+Rebecca Benest, 2024-01-16, 109
+David Khazzam, 2024-01-17, 29
 Aaron Iny, 2024-01-17, 89
-Louise Thomassin: 1-17-2024, 40
-Tenzin Ary: 1-17-2024, 92
-Cecilia/John Perez/Hagist: 1-17-2024, 37
-Sass Khazzam: 1-17-2024, 47
+Louise Thomassin, 2024-01-17, 40
+Tenzin Ary, 2024-01-17, 92
+John Hagist, 2024-01-17, 37
+Sass Khazzam, 2024-01-17, 47
 Jelle, 2024-01-17, 83
-Anusha Samarabandu: 1-17-2024, 166
-Rebecca Benest: 1-17-2024, 30
+Anusha Samarabandu, 2024-01-17, 166
+Rebecca Benest, 2024-01-17, 30
 Mom, 2024-01-18, 154
-Cecilia/John Perez/Hagist: 1-18-2024, 82
-David Khazzam: 1-18-2024, 53
+John Hagist, 2024-01-18, 82
+David Khazzam, 2024-01-18, 53
 Jelle, 2024-01-18, 76
-Louise Thomassin: 1-18-2024, 53
-Anusha Samarabandu: 1-18-2024, 32
-Sass Khazzam: 1-18-2024, 116
+Louise Thomassin, 2024-01-18, 53
+Anusha Samarabandu, 2024-01-18, 32
+Sass Khazzam, 2024-01-18, 116
 Aaron Iny, 2024-01-18, 137
-Claire Samuels: 1-18-2024, 72
+Claire Samuels, 2024-01-18, 72
 Dad, 2024-01-18, 46
 Anne Khazzam, 2024-01-18, 67
-Rebecca Benest: 1-18-2024, 39
+Rebecca Benest, 2024-01-18, 39
 Mom, 2024-01-19, 96
-Cecilia/John Perez/Hagist: 1-19-2024, 60
-Louise Thomassin: 1-19-2024, 109
-Sass Khazzam: 1-19-2024, 67
-Anusha Samarabandu: 1-19-2024, 41
+John Hagist, 2024-01-19, 60
+Louise Thomassin, 2024-01-19, 109
+Sass Khazzam, 2024-01-19, 67
+Anusha Samarabandu, 2024-01-19, 41
 Dad, 2024-01-19, 43
-Rebecca Benest: 1-19-2024, 35
-Claire Samuels: 1-19-2024, 38
-David Khazzam: 1-19-2024, 53
-Tenzin Ary: 1-20-2024, 101
-David Khazzam: 1-20-2024, 52
-Anusha Samarabandu: 1-20-2024, 54
+Rebecca Benest, 2024-01-19, 35
+Claire Samuels, 2024-01-19, 38
+David Khazzam, 2024-01-19, 53
+Tenzin Ary, 2024-01-20, 101
+David Khazzam, 2024-01-20, 52
+Anusha Samarabandu, 2024-01-20, 54
 Aaron Iny, 2024-01-20, 107
 Malo Thomassin, 2024-01-20, 116
 Dad, 2024-01-20, 69
-Sass Khazzam: 1-20-2024, 149
+Sass Khazzam, 2024-01-20, 149
 Jelle, 2024-01-20, 129
-Cecilia/John Perez/Hagist: 1-20-2024, 92
-Claire Samuels: 1-20-2024, 104
-Rebecca Benest: 1-20-2024, 56
-Cecilia/John Perez/Hagist: 1-21-2024, 83
+John Hagist, 2024-01-20, 92
+Claire Samuels, 2024-01-20, 104
+Rebecca Benest, 2024-01-20, 56
+John Hagist, 2024-01-21, 83
 Mom, 2024-01-21, 112
-Louise Thomassin: 1-21-2024, 60
+Louise Thomassin, 2024-01-21, 60
 Dad, 2024-01-21, 54
-Anusha Samarabandu: 1-21-2024, 36
-Sass Khazzam: 1-21-2024, 87
+Anusha Samarabandu, 2024-01-21, 36
+Sass Khazzam, 2024-01-21, 87
 Jelle, 2024-01-21, 35
 Anne Khazzam, 2024-01-21, 56
-Rebecca Benest: 1-21-2024, 67
-Cecilia/John Perez/Hagist: 1-22-2024, 87
-Sass Khazzam: 1-22-2024, 51
+Rebecca Benest, 2024-01-21, 67
+John Hagist, 2024-01-22, 87
+Sass Khazzam, 2024-01-22, 51
 Mom, 2024-01-22, 87
-Tenzin Ary: 1-22-2024, 63
+Tenzin Ary, 2024-01-22, 63
 Jelle, 2024-01-22, 58
-Louise Thomassin: 1-22-2024, 33
+Louise Thomassin, 2024-01-22, 33
 Dad, 2024-01-22, 47
-Anusha Samarabandu: 1-22-2024, 71
-Rebecca Benest: 1-22-2024, 41
-Cecilia/John Perez/Hagist: 1-23-2024, 125
+Anusha Samarabandu, 2024-01-22, 71
+Rebecca Benest, 2024-01-22, 41
+John Hagist, 2024-01-23, 125
 Mom, 2024-01-23, 130
-Tenzin Ary: 1-23-2024, 42
+Tenzin Ary, 2024-01-23, 42
 Aaron Iny, 2024-01-23, 141
-Anusha Samarabandu: 1-23-2024, 28
-Louise Thomassin: 1-23-2024, 76
-David Khazzam: 1-23-2024, 83
-Claire Samuels: 1-23-2024, 65
+Anusha Samarabandu, 2024-01-23, 28
+Louise Thomassin, 2024-01-23, 76
+David Khazzam, 2024-01-23, 83
+Claire Samuels, 2024-01-23, 65
 Dad, 2024-01-23, 47
 Jelle, 2024-01-23, 76
-Sass Khazzam: 1-23-2024, 35
-Rebecca Benest: 1-23-2024, 34
+Sass Khazzam, 2024-01-23, 35
+Rebecca Benest, 2024-01-23, 34
 Anne Khazzam, 2024-01-24, 194
-Tenzin Ary: 1-24-2024, 95
+Tenzin Ary, 2024-01-24, 95
 Emma Khazzam, 2024-01-24, 104
 Jelle, 2024-01-24, 85
-Louise Thomassin: 1-24-2024, 110
+Louise Thomassin, 2024-01-24, 110
 Dad, 2024-01-24, 53
-Anusha Samarabandu: 1-24-2024, 57
-Cecilia/John Perez/Hagist: 1-24-2024, 56
-Rebecca Benest: 1-24-2024, 48
-Sass Khazzam: 1-24-2024, 85
-David Khazzam: 1-24-2024, 55
-Cecilia/John Perez/Hagist: 1-25-2024, 47
-Sass Khazzam: 1-25-2024, 79
-Tenzin Ary: 1-25-2024, 74
+Anusha Samarabandu, 2024-01-24, 57
+John Hagist, 2024-01-24, 56
+Rebecca Benest, 2024-01-24, 48
+Sass Khazzam, 2024-01-24, 85
+David Khazzam, 2024-01-24, 55
+John Hagist, 2024-01-25, 47
+Sass Khazzam, 2024-01-25, 79
+Tenzin Ary, 2024-01-25, 74
 Jelle, 2024-01-25, 42
-Louise Thomassin: 1-25-2024, 45
+Louise Thomassin, 2024-01-25, 45
 Malo Thomassin, 2024-01-25, 87
 Dad, 2024-01-25, 45
-Claire Samuels: 1-25-2024, 59
-Claire Samuels: 1-24-2024, 88
-Anusha Samarabandu: 1-25-2024, 40
+Claire Samuels, 2024-01-25, 59
+Claire Samuels, 2024-01-24, 88
+Anusha Samarabandu, 2024-01-25, 40
 Mom, 2024-01-25, 85
 Anne Khazzam, 2024-01-25, 50
-David Khazzam: 1-25-2024, 63
-Rebecca Benest: 1-25-2024, 49
-Sass Khazzam: 1-26-2024, 44
-Cecilia/John Perez/Hagist: 1-26-2024, 89
-Tenzin Ary: 1-26-2024, 108
-Louise Thomassin: 1-26-2024, 104
-Anusha Samarabandu: 1-26-2024, 44
+David Khazzam, 2024-01-25, 63
+Rebecca Benest, 2024-01-25, 49
+Sass Khazzam, 2024-01-26, 44
+John Hagist, 2024-01-26, 89
+Tenzin Ary, 2024-01-26, 108
+Louise Thomassin, 2024-01-26, 104
+Anusha Samarabandu, 2024-01-26, 44
 Aaron Iny, 2024-01-26, 81
-Rebecca Benest: 1-26-2024, 46
-Anusha Samarabandu: 1-27-2024, 144
-Cecilia/John Perez/Hagist: 1-27-2024, 225
+Rebecca Benest, 2024-01-26, 46
+Anusha Samarabandu, 2024-01-27, 144
+John Hagist, 2024-01-27, 225
 Anne Khazzam, 2024-01-27, 128
-Louise Thomassin: 1-27-2024, 115
-Sass Khazzam: 1-27-2024, 317
-Rachel Brennan: 1-27-2024, 89
+Louise Thomassin, 2024-01-27, 115
+Sass Khazzam, 2024-01-27, 317
+Rachel Brennan, 2024-01-27, 89
 Dad, 2024-01-27, 122
 Emma Khazzam, 2024-01-27, 300
 Mom, 2024-01-27, 205
-David Khazzam: 1-28-2024, 37
-Cecilia/John Perez/Hagist: 1-28-2024, 67
-Louise Thomassin: 1-28-2024, 48
-Tenzin Ary: 1-28-2024, 116
-Sass Khazzam: 1-28-2024, 85
+David Khazzam, 2024-01-28, 37
+John Hagist, 2024-01-28, 67
+Louise Thomassin, 2024-01-28, 48
+Tenzin Ary, 2024-01-28, 116
+Sass Khazzam, 2024-01-28, 85
 Aaron Iny, 2024-01-28, 81
 Mom, 2024-01-28, 76
-Anusha Samarabandu: 1-28-2024, 80
+Anusha Samarabandu, 2024-01-28, 80
 Dad, 2024-01-28, 56
-Rebecca Benest: 1-29-2024, 32
-Cecilia/John Perez/Hagist: 1-29-2024, 68
-Louise Thomassin: 1-29-2024, 52
-David Khazzam: 1-29-2024, 30
+Rebecca Benest, 2024-01-29, 32
+John Hagist, 2024-01-29, 68
+Louise Thomassin, 2024-01-29, 52
+David Khazzam, 2024-01-29, 30
 Aaron Iny, 2024-01-29, 90
 Jelle, 2024-01-29, 80
 Dad, 2024-01-29, 40
 Emma Khazzam, 2024-01-29, 30
-Rachel Brennan: 1-29-2024, 71
-Anusha Samarabandu: 1-29-2024, 26
-Sass Khazzam: 1-29-2024, 80
-Anne Khazzam: 1-29-2024, 51
-Louise Thomassin: 1-30-2024, 32
-Tenzin Ary: 1-30-2024, 95
-David Khazzam: 1-30-2024, 36
+Rachel Brennan, 2024-01-29, 71
+Anusha Samarabandu, 2024-01-29, 26
+Sass Khazzam, 2024-01-29, 80
+Anne Khazzam, 2024-01-29, 51
+Louise Thomassin, 2024-01-30, 32
+Tenzin Ary, 2024-01-30, 95
+David Khazzam, 2024-01-30, 36
 Emma Khazzam, 2024-01-30, 54
-Sass Khazzam: 1-30-2024, 106
-Anusha Samarabandu: 1-30-2024, 49
+Sass Khazzam, 2024-01-30, 106
+Anusha Samarabandu, 2024-01-30, 49
 Jelle, 2024-01-30, 39
 Aaron Iny, 2024-01-30, 89
-Rebecca Benest: 1-30-2024, 63
+Rebecca Benest, 2024-01-30, 63
 Mom, 2024-01-30, 149
 Dad, 2024-01-30, 40
-Anne Khazzam: 1-30-2024, 48
-Cecilia/John Perez/Hagist: 1-30-2024, 58
-Claire Samuels: 1-30-2024, 52
-Sass Khazzam: 1-31-2024, 170
-Louise Thomassin: 1-31-2024, 50
+Anne Khazzam, 2024-01-30, 48
+John Hagist, 2024-01-30, 58
+Claire Samuels, 2024-01-30, 52
+Sass Khazzam, 2024-01-31, 170
+Louise Thomassin, 2024-01-31, 50
 Dad, 2024-01-31, 56
 Mom, 2024-01-31, 179
 Emma Khazzam, 2024-01-31, 57
-Anusha Samarabandu: 1-31-2024, 40
+Anusha Samarabandu, 2024-01-31, 40
 Jelle, 2024-01-31, 55
 Anne Khazzam, 2024-01-31, 64
 Malo Thomassin, 2024-01-31, 86
-Rebecca Benest: 1-31-2024, 38
-Claire Samuels: 1-31-2024, 40
-Cecilia/John Perez/Hagist: 2-01-2024, 168
+Rebecca Benest, 2024-01-31, 38
+Claire Samuels, 2024-01-31, 40
+John Hagist, 2024-02-01, 168
 Dad, 2024-02-01, 43
 Mom, 2024-02-01, 136
-Louise Thomassin: 2-01-2024, 97
-Sass Khazzam: 2-01-2024, 54
-Anusha Samarabandu: 2-01-2024, 194
+Louise Thomassin, 2024-02-01, 97
+Sass Khazzam, 2024-02-01, 54
+Anusha Samarabandu, 2024-02-01, 194
 Dad, 2024-02-02, 57
 Jelle, 2024-02-02, 101
-Louise Thomassin: 2-02-2024, 117
-Sass Khazzam: 2-02-2024, 117
-Anusha Samarabandu: 2-02-2024, 45
-Rebecca Benest: 2-02-2024, 96
+Louise Thomassin, 2024-02-02, 117
+Sass Khazzam, 2024-02-02, 117
+Anusha Samarabandu, 2024-02-02, 45
+Rebecca Benest, 2024-02-02, 96
 Aaron Iny, 2024-02-02, 227
 Mom, 2024-02-02, 142
-Cecilia/John Perez/Hagist: 2-02-2024, 132
-Louise Thomassin: 2-03-2024, 97
-Tenzin Ary: 2-3-2024, 194
-David Khazzam: 2-03-2024, 64
-Rebecca Benest: 2-03-2024, 60
-Claire Samuels: 2-03-2024, 95
-Anusha Samarabandu: 2-03-2024, 38
+John Hagist, 2024-02-02, 132
+Louise Thomassin, 2024-02-03, 97
+Tenzin Ary, 2024-02-03, 194
+David Khazzam, 2024-02-03, 64
+Rebecca Benest, 2024-02-03, 60
+Claire Samuels, 2024-02-03, 95
+Anusha Samarabandu, 2024-02-03, 38
 Dad, 2024-02-03, 76
 Mom, 2024-02-03, 212
-Anne Khazzam: 2-03-2024, 72
-Louise Thomassin: 2-04-2024, 71
-Anusha Samarabandu: 2-04-2024, 47
+Anne Khazzam, 2024-02-03, 72
+Louise Thomassin, 2024-02-04, 71
+Anusha Samarabandu, 2024-02-04, 47
 Dad, 2024-02-04, 39
 Mom, 2024-02-04, 90
-Sass Khazzam: 2-04-2024, 79
-Rebecca Benest: 2-04-2024, 38
-David Khazzam: 2-04-2024, 49
-Anne Khazzam: 2-05-2024, 81
+Sass Khazzam, 2024-02-04, 79
+Rebecca Benest, 2024-02-04, 38
+David Khazzam, 2024-02-04, 49
+Anne Khazzam, 2024-02-05, 81
 Mom, 2024-02-05, 230
-Rachel Brennan: 2-5-2024, 29
+Rachel Brennan, 2024-02-05, 29
 Dad, 2024-02-05, 55
-Sass Khazzam: 2-05-2024, 67
-Anusha Samarabandu: 2-05-2024, 76
-David Khazzam: 2-05-2024, 46
-Louise Thomassin: 2-05-2024, 73
-Rebecca Benest: 2-05-2024, 57
-Cecilia/John Perez/Hagist: 2-05-2024, 75
+Sass Khazzam, 2024-02-05, 67
+Anusha Samarabandu, 2024-02-05, 76
+David Khazzam, 2024-02-05, 46
+Louise Thomassin, 2024-02-05, 73
+Rebecca Benest, 2024-02-05, 57
+John Hagist, 2024-02-05, 75
 Aaron Iny, 2024-02-05, 101
 Mom, 2024-02-06, 63
-Sass Khazzam: 2-06-2024, 117
-Anusha Samarabandu: 2-06-2024, 40
-Cecilia/John Perez/Hagist: 2-06-2024, 91
+Sass Khazzam, 2024-02-06, 117
+Anusha Samarabandu, 2024-02-06, 40
+John Hagist, 2024-02-06, 91
 Dad, 2024-02-06, 51
-Louise Thomassin: 2-06-2024, 43
-Louise Thomassin: 2-07-2024, 48
-Cecilia/John Perez/Hagist: 2-07-2024, 79
+Louise Thomassin, 2024-02-06, 43
+Louise Thomassin, 2024-02-07, 48
+John Hagist, 2024-02-07, 79
 Jelle, 2024-02-07, 57
 Dad, 2024-02-07, 46
-Tenzin Ary: 2-7-2024, 74
-Anusha Samarabandu: 2-07-2024, 24
+Tenzin Ary, 2024-02-07, 74
+Anusha Samarabandu, 2024-02-07, 24
 Anne Khazzam, 2024-02-07, 66
-Claire Samuels: 2-07-2024, 33
-David Khazzam: 2-07-2024, 39
-Rebecca Benest: 2-07-2024, 22
+Claire Samuels, 2024-02-07, 33
+David Khazzam, 2024-02-07, 39
+Rebecca Benest, 2024-02-07, 22
 Aaron Iny, 2024-02-07, 98
-Sass Khazzam: 2-07-2024, 102
+Sass Khazzam, 2024-02-07, 102
 Mom, 2024-02-08, 91
-Tenzin Ary: 2-8-2024, 91
-Sass Khazzam: 2-08-2024, 105
-Louise Thomassin: 2-08-2024, 72
-Anusha Samarabandu: 2-08-2024, 45
+Tenzin Ary, 2024-02-08, 91
+Sass Khazzam, 2024-02-08, 105
+Louise Thomassin, 2024-02-08, 72
+Anusha Samarabandu, 2024-02-08, 45
 Dad, 2024-02-08, 50
-Cecilia/John Perez/Hagist: 2-09-2024, 62
+John Hagist, 2024-02-09, 62
 Mom, 2024-02-09, 49
-Louise Thomassin: 2-09-2024, 38
-Tenzin Ary: 2-9-2024, 53
-Sass Khazzam: 2-09-2024, 67
-Anusha Samarabandu: 2-09-2024, 35
+Louise Thomassin, 2024-02-09, 38
+Tenzin Ary, 2024-02-09, 53
+Sass Khazzam, 2024-02-09, 67
+Anusha Samarabandu, 2024-02-09, 35
 Jelle, 2024-02-09, 56
 Anne Khazzam, 2024-02-09, 28
-Rebecca Benest: 2-09-2024, 40
+Rebecca Benest, 2024-02-09, 40
 Dad, 2024-02-09, 48
-Rachel Brennan: 2-9-2024, 42
-Claire Samuels: 2-09-2024, 23
-David Khazzam: 2-09-2024, 58
+Rachel Brennan, 2024-02-09, 42
+Claire Samuels, 2024-02-09, 23
+David Khazzam, 2024-02-09, 58
 Aaron Iny, 2024-02-09, 43
 Dad, 2024-02-10, 60
 Jelle, 2024-02-10, 114
 Mom, 2024-02-10, 263
-Sass Khazzam: 2-10-2024, 103
+Sass Khazzam, 2024-02-10, 103
 Anne Khazzam, 2024-02-10, 174
 Aaron Iny, 2024-02-10, 249
-Anusha Samarabandu: 2-10-2024, 62
-Louise Thomassin: 2-10-2024, 78
-Tenzin Ary: 2-10-2024, 111
-David Khazzam: 2-10-2024, 70
-Rebecca Benest: 2-10-2024, 78
-Claire Samuels: 2-10-2024, 54
-Sass Khazzam: 2-11-2024, 126
-Anne Khazzam: 2-11-2024, 49
-Cecilia/John Perez/Hagist: 2-11-2024, 55
-Anusha Samarabandu: 2-11-2024, 41
+Anusha Samarabandu, 2024-02-10, 62
+Louise Thomassin, 2024-02-10, 78
+Tenzin Ary, 2024-02-10, 111
+David Khazzam, 2024-02-10, 70
+Rebecca Benest, 2024-02-10, 78
+Claire Samuels, 2024-02-10, 54
+Sass Khazzam, 2024-02-11, 126
+Anne Khazzam, 2024-02-11, 49
+John Hagist, 2024-02-11, 55
+Anusha Samarabandu, 2024-02-11, 41
 Dad, 2024-02-11, 54
 Jelle, 2024-02-11, 28
-Louise Thomassin: 2-11-2024, 67
-Claire Samuels: 2-11-2024, 31
+Louise Thomassin, 2024-02-11, 67
+Claire Samuels, 2024-02-11, 31
 Emma Khazzam, 2024-02-11, 31
 Aaron Iny, 2024-02-11, 52
-Sass Khazzam: 2-12-2024, 107
-Cecilia/John Perez/Hagist: 2-12-2024, 119
-Louise Thomassin: 2-12-2024, 57
+Sass Khazzam, 2024-02-12, 107
+John Hagist, 2024-02-12, 119
+Louise Thomassin, 2024-02-12, 57
 Dad, 2024-02-12, 53
-Anusha Samarabandu: 2-12-2024, 55
-David Khazzam: 2-12-2024, 75
+Anusha Samarabandu, 2024-02-12, 55
+David Khazzam, 2024-02-12, 75
 Aaron Iny, 2024-02-12, 112
-Claire Samuels: 2-12-2024, 51
-David Khazzam: 2-13-2024, 43
+Claire Samuels, 2024-02-12, 51
+David Khazzam, 2024-02-13, 43
 Dad, 2024-02-13, 49
 Jelle, 2024-02-13, 29
-Louise Thomassin: 2-13-2024, 28
+Louise Thomassin, 2024-02-13, 28
 Anne Khazzam, 2024-02-13, 37
-Anusha Samarabandu: 2-13-2024, 22
+Anusha Samarabandu, 2024-02-13, 22
 Aaron Iny, 2024-02-13, 28
-Claire Samuels: 2-13-2024, 22
-Rebecca Benest: 2-13-2024, 26
-Cecilia/John Perez/Hagist: 2-14-2024, 71
-Louise Thomassin: 2-14-2024, 35
+Claire Samuels, 2024-02-13, 22
+Rebecca Benest, 2024-02-13, 26
+John Hagist, 2024-02-14, 71
+Louise Thomassin, 2024-02-14, 35
 Dad, 2024-02-14, 45
-Anusha Samarabandu: 2-14-2024, 48
+Anusha Samarabandu, 2024-02-14, 48
 Aaron Iny, 2024-02-14, 89
-Claire Samuels: 2-14-2024, 51
-Tenzin Ary: 2-14-2024, 118
+Claire Samuels, 2024-02-14, 51
+Tenzin Ary, 2024-02-14, 118
 Jelle, 2024-02-14, 48
-David Khazzam: 2-14-2024, 25
-Rebecca Benest: 2-14-2024, 85
+David Khazzam, 2024-02-14, 25
+Rebecca Benest, 2024-02-14, 85
 Emma Khazzam, 2024-02-14, 106
-Sass Khazzam: 2-14-2024, 62
-Cecilia/John Perez/Hagist: 2-15-2024, 60
-Tenzin Ary: 2-15-2024, 99
-Anusha Samarabandu: 2-15-2024, 42
+Sass Khazzam, 2024-02-14, 62
+John Hagist, 2024-02-15, 60
+Tenzin Ary, 2024-02-15, 99
+Anusha Samarabandu, 2024-02-15, 42
 Aaron Iny, 2024-02-15, 79
-David Khazzam: 2-15-2024, 23
-Louise Thomassin: 2-15-2024, 82
-Anne Khazzam: 2-15-2024, 62
-Louise Thomassin: 2-16-2024, 120
+David Khazzam, 2024-02-15, 23
+Louise Thomassin, 2024-02-15, 82
+Anne Khazzam, 2024-02-15, 62
+Louise Thomassin, 2024-02-16, 120
 Aaron Iny, 2024-02-16, 38
-Anusha Samarabandu: 2-16-2024, 45
+Anusha Samarabandu, 2024-02-16, 45
 Anne Khazzam, 2024-02-16, 114
 Dad, 2024-02-16, 56
-Cecilia/John Perez/Hagist: 2-16-2024, 116
-Rebecca Benest: 2-16-2024, 34
-Louise Thomassin: 2-17-2024, 162
+John Hagist, 2024-02-16, 116
+Rebecca Benest, 2024-02-16, 34
+Louise Thomassin, 2024-02-17, 162
 Emma Khazzam, 2024-02-17, 166
 Jelle, 2024-02-17, 137
 Aaron Iny, 2024-02-17, 195
-Anusha Samarabandu: 2-17-2024, 411
-David Khazzam: 2-17-2024, 113
-Anne Khazzam: 2-17-2024, 107
-Cecilia/John Perez/Hagist: 2-17-2024, 474
-Tenzin Ary: 2-17-2024, 227
-Claire Samuels: 2-17-2024, 110
-Rebecca Benest: 2-17-2024, 94
+Anusha Samarabandu, 2024-02-17, 411
+David Khazzam, 2024-02-17, 113
+Anne Khazzam, 2024-02-17, 107
+John Hagist, 2024-02-17, 474
+Tenzin Ary, 2024-02-17, 227
+Claire Samuels, 2024-02-17, 110
+Rebecca Benest, 2024-02-17, 94
 Mom, 2024-02-18, 63
-Tenzin Ary: 2-18-2024, 53
-Sass Khazzam: 2-17-2024, 168
-Sass Khazzam: 2-18-2024, 66
+Tenzin Ary, 2024-02-18, 53
+Sass Khazzam, 2024-02-17, 168
+Sass Khazzam, 2024-02-18, 66
 Dad, 2024-02-18, 55
-Anusha Samarabandu: 2-18-2024, 36
-Anne Khazzam: 2-18-2024, 51
-Louise Thomassin: 2-18-2024, 57
-Rebecca Benest: 2-18-2024, 36
-Cecilia/John Perez/Hagist: 2-19-2024, 73
-Tenzin Ary: 2-19-2024, 97
-Louise Thomassin: 2-19-2024, 69
-Sass Khazzam: 2-19-2024, 66
-Anusha Samarabandu: 2-19-2024, 72
+Anusha Samarabandu, 2024-02-18, 36
+Anne Khazzam, 2024-02-18, 51
+Louise Thomassin, 2024-02-18, 57
+Rebecca Benest, 2024-02-18, 36
+John Hagist, 2024-02-19, 73
+Tenzin Ary, 2024-02-19, 97
+Louise Thomassin, 2024-02-19, 69
+Sass Khazzam, 2024-02-19, 66
+Anusha Samarabandu, 2024-02-19, 72
 Anne Khazzam, 2024-02-19, 64
-Claire Samuels: 2-19-2024, 47
+Claire Samuels, 2024-02-19, 47
 Jelle, 2024-02-19, 67
 Emma Khazzam, 2024-02-19, 66
-David Khazzam: 2-19-2024, 57
+David Khazzam, 2024-02-19, 57
 Dad, 2024-02-19, 62
-Sass Khazzam: 2-20-2024, 64
-Louise Thomassin: 2-20-2024, 103
+Sass Khazzam, 2024-02-20, 64
+Louise Thomassin, 2024-02-20, 103
 Anne Khazzam, 2024-02-20, 182
 Jelle, 2024-02-20, 166
 Dad, 2024-02-20, 62
-Anusha Samarabandu: 2-20-2024, 61
-Claire Samuels: 2-20-2024, 39
+Anusha Samarabandu, 2024-02-20, 61
+Claire Samuels, 2024-02-20, 39
 Aaron Iny, 2024-02-20, 190
 Mom, 2024-02-21, 82
-Louise Thomassin: 2-21-2024, 52
+Louise Thomassin, 2024-02-21, 52
 Jelle, 2024-02-21, 45
-Cecilia/John Perez/Hagist: 2-21-2024, 94
-Tenzin Ary: 2-21-2024, 46
-Anusha Samarabandu: 2-21-2024, 43
-Anne Khazzam: 2-21-2024, 67
-Sass Khazzam: 2-21-2024, 70
-David Khazzam: 2-21-2024, 57
-Claire Samuels: 2-21-2024, 67
+John Hagist, 2024-02-21, 94
+Tenzin Ary, 2024-02-21, 46
+Anusha Samarabandu, 2024-02-21, 43
+Anne Khazzam, 2024-02-21, 67
+Sass Khazzam, 2024-02-21, 70
+David Khazzam, 2024-02-21, 57
+Claire Samuels, 2024-02-21, 67
 Aaron Iny, 2024-02-21, 125
 Dad, 2024-02-21, 59
 Mom, 2024-02-22, 93
-Tenzin Ary: 2-22-2024, 111
-Louise Thomassin: 2-22-2024, 39
-Sass Khazzam: 2-22-2024, 42
-Claire Samuels: 2-22-2024, 37
+Tenzin Ary, 2024-02-22, 111
+Louise Thomassin, 2024-02-22, 39
+Sass Khazzam, 2024-02-22, 42
+Claire Samuels, 2024-02-22, 37
 Dad, 2024-02-22, 55
-Anusha Samarabandu: 2-22-2024, 30
-Anne Khazzam: 2-22-2024, 45
-Cecilia/John Perez/Hagist: 2-22-2024, 90
-Rachel Brennan: 2-22-2024, 25
-David Khazzam: 2-22-2024, 24
+Anusha Samarabandu, 2024-02-22, 30
+Anne Khazzam, 2024-02-22, 45
+John Hagist, 2024-02-22, 90
+Rachel Brennan, 2024-02-22, 25
+David Khazzam, 2024-02-22, 24
 Aaron Iny, 2024-02-22, 155
 Mom, 2024-02-23, 109
-Sass Khazzam: 2-23-2024, 99
-Louise Thomassin: 2-23-2024, 102
-Tenzin Ary: 2-23-2024, 70
+Sass Khazzam, 2024-02-23, 99
+Louise Thomassin, 2024-02-23, 102
+Tenzin Ary, 2024-02-23, 70
 Dad, 2024-02-23, 42
-Anusha Samarabandu: 2-23-2024, 60
+Anusha Samarabandu, 2024-02-23, 60
 Anne Khazzam, 2024-02-23, 47
 Aaron Iny, 2024-02-23, 79
 Mom, 2024-02-24, 201
-Tenzin Ary: 2-24-2024, 148
+Tenzin Ary, 2024-02-24, 148
 Jelle, 2024-02-24, 201
-Louise Thomassin: 2-24-2024, 113
+Louise Thomassin, 2024-02-24, 113
 Dad, 2024-02-24, 72
-Anusha Samarabandu: 2-24-2024, 145
-Cecilia/John Perez/Hagist: 2-24-2024, 110
-Anne Khazzam: 2-24-2024, 120
-Sass Khazzam: 2-24-2024, 96
+Anusha Samarabandu, 2024-02-24, 145
+John Hagist, 2024-02-24, 110
+Anne Khazzam, 2024-02-24, 120
+Sass Khazzam, 2024-02-24, 96
 Aaron Iny, 2024-02-24, 128
-Sass Khazzam: 2-25-2024, 85
-Louise Thomassin: 2-25-2024, 55
-Tenzin Ary: 2-25-2024, 95
+Sass Khazzam, 2024-02-25, 85
+Louise Thomassin, 2024-02-25, 55
+Tenzin Ary, 2024-02-25, 95
 Dad, 2024-02-25, 48
 Jelle, 2024-02-25, 44
-Anusha Samarabandu: 2-25-2024, 50
-Cecilia/John Perez/Hagist: 2-26-2024, 48
+Anusha Samarabandu, 2024-02-25, 50
+John Hagist, 2024-02-26, 48
 Mom, 2024-02-26, 112
-Tenzin Ary: 2-26-2024, 45
+Tenzin Ary, 2024-02-26, 45
 Emma Khazzam, 2024-02-26, 151
-Anusha Samarabandu: 2-26-2024, 26
-Louise Thomassin: 2-26-2024, 27
+Anusha Samarabandu, 2024-02-26, 26
+Louise Thomassin, 2024-02-26, 27
 Aaron Iny, 2024-02-26, 61
 Anne Khazzam, 2024-02-26, 68
-Claire Samuels: 2-26-2024, 51
+Claire Samuels, 2024-02-26, 51
 Dad, 2024-02-26, 49
-Sass Khazzam: 2-26-2024, 60
-David Khazzam: 2-26-2024, 51
-Cecilia/John Perez/Hagist: 2-27-2024, 107
-Louise Thomassin: 2-27-2024, 137
-Sass Khazzam: 2-27-2024, 190
-Anusha Samarabandu: 2-27-2024, 94
+Sass Khazzam, 2024-02-26, 60
+David Khazzam, 2024-02-26, 51
+John Hagist, 2024-02-27, 107
+Louise Thomassin, 2024-02-27, 137
+Sass Khazzam, 2024-02-27, 190
+Anusha Samarabandu, 2024-02-27, 94
 Dad, 2024-02-27, 81
 Anne Khazzam, 2024-02-27, 209
 Malo Thomassin, 2024-02-27, 209
 Aaron Iny, 2024-02-27, 188
-David Khazzam: 2-27-2024, 105
-Tenzin Ary: 2-28-2024, 61
-Louise Thomassin: 2-28-2024, 37
-Cecilia/John Perez/Hagist: 2-28-2024, 68
+David Khazzam, 2024-02-27, 105
+Tenzin Ary, 2024-02-28, 61
+Louise Thomassin, 2024-02-28, 37
+John Hagist, 2024-02-28, 68
 Emma Khazzam, 2024-02-28, 109
-Anusha Samarabandu: 2-28-2024, 51
+Anusha Samarabandu, 2024-02-28, 51
 Dad, 2024-02-28, 66
 Aaron Iny, 2024-02-28, 82
-Sass Khazzam: 2-28-2024, 82
+Sass Khazzam, 2024-02-28, 82
 Jelle, 2024-02-28, 94
-Claire Samuels: 2-28-2024, 100
+Claire Samuels, 2024-02-28, 100
 Anne Khazzam, 2024-02-28, 54
 Mom, 2024-02-29, 128
-Sass Khazzam: 2-29-2024, 44
+Sass Khazzam, 2024-02-29, 44
 Emma Khazzam, 2024-02-29, 106
-Anusha Samarabandu: 2-29-2024, 22
-David Khazzam: 2-29-2024, 188
+Anusha Samarabandu, 2024-02-29, 22
+David Khazzam, 2024-02-29, 188
 Anne Khazzam, 2024-02-29, 89
-Cecilia/John Perez/Hagist: 2-29-2024, 56
+John Hagist, 2024-02-29, 56
 Dad, 2024-02-29, 51
-Claire Samuels: 2-29-2024, 267
-Cecilia/John Perez/Hagist: 3-01-2024, 48
+Claire Samuels, 2024-02-29, 267
+John Hagist, 2024-03-01, 48
 Mom, 2024-03-01, 96
 Dad, 2024-03-01, 42
 Jelle, 2024-03-01, 80
-Anusha Samarabandu: 3-01-2024, 32
-Tenzin Ary: 3-1-2024, 117
-Louise Thomassin: 3-01-2024, 47
-Sass Khazzam: 3-01-2024, 66
-David Khazzam: 3-01-2024, 22
+Anusha Samarabandu, 2024-03-01, 32
+Tenzin Ary, 2024-03-01, 117
+Louise Thomassin, 2024-03-01, 47
+Sass Khazzam, 2024-03-01, 66
+David Khazzam, 2024-03-01, 22
 Anne Khazzam, 2024-03-01, 33
 Mom, 2024-03-02, 127
-Cecilia/John Perez/Hagist: 3-02-2024, 160
-Tenzin Ary: 3-2-2024, 129
-Louise Thomassin: 3-02-2024, 259
-Sass Khazzam: 3-02-2024, 152
+John Hagist, 2024-03-02, 160
+Tenzin Ary, 2024-03-02, 129
+Louise Thomassin, 2024-03-02, 259
+Sass Khazzam, 2024-03-02, 152
 Anne Khazzam, 2024-03-02, 71
-Anusha Samarabandu: 3-02-2024, 59
+Anusha Samarabandu, 2024-03-02, 59
 Dad, 2024-03-02, 66
 Jelle, 2024-03-02, 68
 Emma Khazzam, 2024-03-02, 177
-David Khazzam: 3-02-2024, 56
+David Khazzam, 2024-03-02, 56
 Aaron Iny, 2024-03-02, 105
-Anusha Samarabandu: 3-03-2024, 69
+Anusha Samarabandu, 2024-03-03, 69
 Nicolas Schneider, 2024-03-03, 184
 Jelle, 2024-03-03, 113
 Emma Khazzam, 2024-03-03, 242
-Anne Khazzam: 3-03-2024, 252
-Sass Khazzam: 3-03-2024, 88
+Anne Khazzam, 2024-03-03, 252
+Sass Khazzam, 2024-03-03, 88
 Dad, 2024-03-03, 98
-Louise Thomassin: 3-03-2024, 183
-David Khazzam: 3-03-2024, 234
+Louise Thomassin, 2024-03-03, 183
+David Khazzam, 2024-03-03, 234
 Aaron Iny, 2024-03-03, 291
 Mom, 2024-03-03, 369
-Rachel Brennan: 3-3-2024, 82
-Sass Khazzam: 3-04-2024, 212
-Louise Thomassin: 3-04-2024, 78
+Rachel Brennan, 2024-03-03, 82
+Sass Khazzam, 2024-03-04, 212
+Louise Thomassin, 2024-03-04, 78
 Anne Khazzam, 2024-03-04, 84
-Anusha Samarabandu: 3-04-2024, 162
-Rebecca Benest: 3-04-2024, 74
+Anusha Samarabandu, 2024-03-04, 162
+Rebecca Benest, 2024-03-04, 74
 Dad, 2024-03-04, 73
 Jelle, 2024-03-04, 104
 Aaron Iny, 2024-03-04, 115
-Cecilia/John Perez/Hagist: 3-04-2024, 127
-Louise Thomassin: 3-05-2024, 130
-Tenzin Ary: 3-5-2024, 70
+John Hagist, 2024-03-04, 127
+Louise Thomassin, 2024-03-05, 130
+Tenzin Ary, 2024-03-05, 70
 Nicolas Schneider, 2024-03-05, 136
 Jelle, 2024-03-05, 63
-Anusha Samarabandu: 3-05-2024, 58
+Anusha Samarabandu, 2024-03-05, 58
 Dad, 2024-03-05, 60
 Mom, 2024-03-05, 150
-Sass Khazzam: 3-05-2024, 120
-Rachel Brennan: 3-5-2024, 54
-Rebecca Benest: 3-05-2024, 67
-Anne Khazzam: 3-05-2024, 86
-David Khazzam: 3-05-2024, 70
-Cecilia/John Perez/Hagist: 3-06-2024, 108
-Louise Thomassin: 3-06-2024, 175
-Anusha Samarabandu: 3-06-2024, 49
+Sass Khazzam, 2024-03-05, 120
+Rachel Brennan, 2024-03-05, 54
+Rebecca Benest, 2024-03-05, 67
+Anne Khazzam, 2024-03-05, 86
+David Khazzam, 2024-03-05, 70
+John Hagist, 2024-03-06, 108
+Louise Thomassin, 2024-03-06, 175
+Anusha Samarabandu, 2024-03-06, 49
 Anne Khazzam, 2024-03-06, 57
 Aaron Iny, 2024-03-06, 95
-Rebecca Benest: 3-06-2024, 77
-Claire Samuels: 3-06-2024, 56
-Sass Khazzam: 3-06-2024, 250
-David Khazzam: 3-07-2024, 42
+Rebecca Benest, 2024-03-06, 77
+Claire Samuels, 2024-03-06, 56
+Sass Khazzam, 2024-03-06, 250
+David Khazzam, 2024-03-07, 42
 Anne Khazzam, 2024-03-07, 57
-Claire Samuels: 3-07-2024, 92
+Claire Samuels, 2024-03-07, 92
 Mom, 2024-03-07, 136
-Louise Thomassin: 3-07-2024, 40
-Tenzin Ary: 3-7-2024, 117
+Louise Thomassin, 2024-03-07, 40
+Tenzin Ary, 2024-03-07, 117
 Jelle, 2024-03-07, 56
-Cecilia/John Perez/Hagist: 3-07-2024, 194
+John Hagist, 2024-03-07, 194
 Nicolas Schneider, 2024-03-07, 89
-Anusha Samarabandu: 3-07-2024, 67
-Rebecca Benest: 3-07-2024, 35
-Sass Khazzam: 3-07-2024, 322
-Tenzin Ary: 3-8-2024, 82
-Louise Thomassin: 3-08-2024, 171
+Anusha Samarabandu, 2024-03-07, 67
+Rebecca Benest, 2024-03-07, 35
+Sass Khazzam, 2024-03-07, 322
+Tenzin Ary, 2024-03-08, 82
+Louise Thomassin, 2024-03-08, 171
 Nicolas Schneider, 2024-03-08, 114
-Anusha Samarabandu: 3-08-2024, 62
-Rebecca Benest: 3-08-2024, 61
+Anusha Samarabandu, 2024-03-08, 62
+Rebecca Benest, 2024-03-08, 61
 Anne Khazzam, 2024-03-08, 33
 Aaron Iny, 2024-03-08, 71
-David Khazzam: 3-08-2024, 34
+David Khazzam, 2024-03-08, 34
 Emma Khazzam, 2024-03-08, 142
-Sass Khazzam: 3-08-2024, 93
+Sass Khazzam, 2024-03-08, 93
 Dad, 2024-03-08, 55
 Mom, 2024-03-09, 236
-Tenzin Ary: 3-9-2024, 104
+Tenzin Ary, 2024-03-09, 104
 Jelle, 2024-03-09, 91
 Emma Khazzam, 2024-03-09, 110
-Anusha Samarabandu: 3-09-2024, 183
-Claire Samuels: 3-09-2024, 95
-Cecilia/John Perez/Hagist: 3-09-2024, 129
-Louise Thomassin: 3-09-2024, 91
+Anusha Samarabandu, 2024-03-09, 183
+Claire Samuels, 2024-03-09, 95
+John Hagist, 2024-03-09, 129
+Louise Thomassin, 2024-03-09, 91
 Nicolas Schneider, 2024-03-09, 101
-Claire Samuels: 3-09-2024, 95
-Anne Khazzam: 3-09-2024, 88
-David Khazzam: 3-09-2024, 63
-Rebecca Benest: 3-09-2024, 70
+Claire Samuels, 2024-03-09, 95
+Anne Khazzam, 2024-03-09, 88
+David Khazzam, 2024-03-09, 63
+Rebecca Benest, 2024-03-09, 70
 Dad, 2024-03-09, 79
-Sass Khazzam: 3-09-2024, 185
-Louise Thomassin: 3-10-2024, 60
-Tenzin Ary: 3-10-2024, 83
+Sass Khazzam, 2024-03-09, 185
+Louise Thomassin, 2024-03-10, 60
+Tenzin Ary, 2024-03-10, 83
 Nicolas Schneider, 2024-03-10, 55
 Malo Thomassin, 2024-03-10, 77
-Anusha Samarabandu: 3-10-2024, 55
-Sass Khazzam: 3-10-2024, 39
-Rachel Brennan: 3-10-2024, 29
-Cecilia/John Perez/Hagist: 3-10-2024, 70
-Claire Samuels: 3-10-2024, 30
-Anne Khazzam: 3-10-2024, 41
-Rebecca Benest: 3-10-2024, 45
+Anusha Samarabandu, 2024-03-10, 55
+Sass Khazzam, 2024-03-10, 39
+Rachel Brennan, 2024-03-10, 29
+John Hagist, 2024-03-10, 70
+Claire Samuels, 2024-03-10, 30
+Anne Khazzam, 2024-03-10, 41
+Rebecca Benest, 2024-03-10, 45
 Mom, 2024-03-10, 61
-Louise Thomassin: 3-11-2024, 57
+Louise Thomassin, 2024-03-11, 57
 Jelle, 2024-03-11, 116
-Anne Khazzam: 3-11-2024, 244
-Sass Khazzam: 3-11-2024, 213
-Claire Samuels: 3-11-2024, 94
+Anne Khazzam, 2024-03-11, 244
+Sass Khazzam, 2024-03-11, 213
+Claire Samuels, 2024-03-11, 94
 Dad, 2024-03-11, 71
-Louise Thomassin: 3-12-2024, 81
-Rachel Brennan: 3-12-2024, 70
-Malo Thomassin: 3-12-2024, 133
+Louise Thomassin, 2024-03-12, 81
+Rachel Brennan, 2024-03-12, 70
+Malo Thomassin, 2024-03-12, 133
 Nicolas Schneider, 2024-03-12, 145
 Anne Khazzam, 2024-03-12, 160
 Dad, 2024-03-12, 80
 Jelle, 2024-03-12, 95
-Anusha Samarabandu: 3-12-2024, 105
-Claire Samuels: 3-12-2024, 47
-David Khazzam: 3-12-2024, 120
+Anusha Samarabandu, 2024-03-12, 105
+Claire Samuels, 2024-03-12, 47
+David Khazzam, 2024-03-12, 120
 Mom, 2024-03-12, 89
-Sass Khazzam: 3-12-2024, 74
+Sass Khazzam, 2024-03-12, 74
 Nicolas Schneider, 2024-03-13, 86
-Louise Thomassin: 3-13-2024, 42
+Louise Thomassin, 2024-03-13, 42
 Jelle, 2024-03-13, 119
 Emma Khazzam, 2024-03-13, 123
-Rebecca Benest: 3-13-2024, 51
+Rebecca Benest, 2024-03-13, 51
 Anne Khazzam, 2024-03-13, 186
-Anusha Samarabandu: 3-13-2024, 95
-Claire Samuels: 3-13-2024, 107
-Louise Thomassin: 3-14-2024, 70
-Anusha Samarabandu: 3-14-2024, 86
+Anusha Samarabandu, 2024-03-13, 95
+Claire Samuels, 2024-03-13, 107
+Louise Thomassin, 2024-03-14, 70
+Anusha Samarabandu, 2024-03-14, 86
 Mom, 2024-03-14, 92
 Anne Khazzam, 2024-03-14, 47
 Aaron Iny, 2024-03-14, 88
 Dad, 2024-03-14, 67
-Rebecca Benest: 3-14-2024, 55
+Rebecca Benest, 2024-03-14, 55
 Jelle, 2024-03-14, 75
-David Khazzam: 3-14-2024, 34
-Sass Khazzam: 3-14-2024, 86
+David Khazzam, 2024-03-14, 34
+Sass Khazzam, 2024-03-14, 86
 Nicolas Schneider, 2024-03-15, 108
 Malo Thomassin, 2024-03-15, 107
-Anusha Samarabandu: 3-15-2024, 68
-Claire Samuels: 3-15-2024, 83
+Anusha Samarabandu, 2024-03-15, 68
+Claire Samuels, 2024-03-15, 83
 Aaron Iny, 2024-03-15, 67
 Anne Khazzam, 2024-03-15, 184
-Louise Thomassin: 3-15-2024, 68
+Louise Thomassin, 2024-03-15, 68
 Dad, 2024-03-15, 61
-Cecilia/John Perez/Hagist: 3-15-2024, 69
-Sass Khazzam: 3-15-2024, 370
-Rebecca Benest: 3-15-2024, 36
-David Khazzam: 3-15-2024, 87
+John Hagist, 2024-03-15, 69
+Sass Khazzam, 2024-03-15, 370
+Rebecca Benest, 2024-03-15, 36
+David Khazzam, 2024-03-15, 87
 Mom, 2024-03-16, 251
-Louise Thomassin: 3-16-2024, 162
+Louise Thomassin, 2024-03-16, 162
 Malo Thomassin, 2024-03-16, 224
 Nicolas Schneider, 2024-03-16, 175
-Claire Samuels: 3-16-2024, 110
+Claire Samuels, 2024-03-16, 110
 Aaron Iny, 2024-03-16, 122
-David Khazzam: 3-16-2024, 247
-Rebecca Benest: 3-16-2024, 69
+David Khazzam, 2024-03-16, 247
+Rebecca Benest, 2024-03-16, 69
 Anne Khazzam, 2024-03-16, 93
-Sass Khazzam: 3-16-2024, 182
-Cecilia/John Perez/Hagist: 3-16-2024, 218
-Anusha Samarabandu: 3-16-2024, 163
+Sass Khazzam, 2024-03-16, 182
+John Hagist, 2024-03-16, 218
+Anusha Samarabandu, 2024-03-16, 163
 Dad, 2024-03-17, 61
-David Khazzam: 3-17-2024, 36
+David Khazzam, 2024-03-17, 36
 Mom, 2024-03-17, 209
-Tenzin Ary: 3-17-2024, 123
-Louise Thomassin: 3-17-2024, 52
+Tenzin Ary, 2024-03-17, 123
+Louise Thomassin, 2024-03-17, 52
 Malo Thomassin, 2024-03-17, 159
-Anusha Samarabandu: 3-17-2024, 56
-Claire Samuels: 3-17-2024, 28
+Anusha Samarabandu, 2024-03-17, 56
+Claire Samuels, 2024-03-17, 28
 Anne Khazzam, 2024-03-17, 61
 Nicolas Schneider, 2024-03-17, 77
-Cecilia/John Perez/Hagist: 3-17-2024, 58
-Rebecca Benest: 3-17-2024, 32
+John Hagist, 2024-03-17, 58
+Rebecca Benest, 2024-03-17, 32
 Aaron Iny, 2024-03-17, 55
-Sass Khazzam: 3-17-2024, 110
-Cecilia/John Perez/Hagist: 3-18-2024, 128
-Tenzin Ary: 3-18-2024, 116
+Sass Khazzam, 2024-03-17, 110
+John Hagist, 2024-03-18, 128
+Tenzin Ary, 2024-03-18, 116
 Nicolas Schneider, 2024-03-18, 106
-Anusha Samarabandu: 3-18-2024, 27
-Louise Thomassin: 3-18-2024, 117
+Anusha Samarabandu, 2024-03-18, 27
+Louise Thomassin, 2024-03-18, 117
 Malo Thomassin, 2024-03-18, 120
-Claire Samuels: 3-18-2024, 59
+Claire Samuels, 2024-03-18, 59
 Dad, 2024-03-18, 54
-Rebecca Benest: 3-18-2024, 69
+Rebecca Benest, 2024-03-18, 69
 Anne Khazzam, 2024-03-18, 58
-Sass Khazzam: 3-18-2024, 60
-Cecilia/John Perez/Hagist: 3-19-2024, 114
-Louise Thomassin: 3-19-2024, 61
+Sass Khazzam, 2024-03-18, 60
+John Hagist, 2024-03-19, 114
+Louise Thomassin, 2024-03-19, 61
 Nicolas Schneider, 2024-03-19, 81
 Jelle, 2024-03-19, 66
 Emma Khazzam, 2024-03-19, 43
 Malo Thomassin, 2024-03-19, 32
-Anusha Samarabandu: 3-19-2024, 27
-Claire Samuels: 3-19-2024, 39
+Anusha Samarabandu, 2024-03-19, 27
+Claire Samuels, 2024-03-19, 39
 Dad, 2024-03-19, 58
-Rebecca Benest: 3-19-2024, 36
+Rebecca Benest, 2024-03-19, 36
 Anne Khazzam, 2024-03-19, 41
-David Khazzam: 3-19-2024, 37
+David Khazzam, 2024-03-19, 37
 Aaron Iny, 2024-03-19, 47
 Mom, 2024-03-20, 107
-Cecilia/John Perez/Hagist: 3-20-2024, 86
+John Hagist, 2024-03-20, 86
 Nicolas Schneider, 2024-03-20, 84
-Louise Thomassin: 3-20-2024, 56
-Anusha Samarabandu: 3-20-2024, 163
+Louise Thomassin, 2024-03-20, 56
+Anusha Samarabandu, 2024-03-20, 163
 Emma Khazzam, 2024-03-20, 42
 Jelle, 2024-03-20, 50
-Claire Samuels: 3-20-2024, 72
-Rebecca Benest: 3-20-2024, 36
-David Khazzam: 3-20-2024, 43
+Claire Samuels, 2024-03-20, 72
+Rebecca Benest, 2024-03-20, 36
+David Khazzam, 2024-03-20, 43
 Malo Thomassin, 2024-03-20, 47
-Cecilia/John Perez/Hagist: 3-21-2024, 129
+John Hagist, 2024-03-21, 129
 Mom, 2024-03-21, 116
-Tenzin Ary: 3-21-2024, 126
+Tenzin Ary, 2024-03-21, 126
 Nicolas Schneider, 2024-03-21, 88
-Claire Samuels: 3-21-2024, 95
-Rebecca Benest: 3-21-2024, 62
-Louise Thomassin: 3-21-2024, 70
+Claire Samuels, 2024-03-21, 95
+Rebecca Benest, 2024-03-21, 62
+Louise Thomassin, 2024-03-21, 70
 Aaron Iny, 2024-03-21, 108
 Anne Khazzam, 2024-03-21, 60
 Mom, 2024-03-22, 130
-Louise Thomassin: 3-22-2024, 81
-Anusha Samarabandu: 3-22-2024, 43
-Claire Samuels: 3-22-2024, 71
+Louise Thomassin, 2024-03-22, 81
+Anusha Samarabandu, 2024-03-22, 43
+Claire Samuels, 2024-03-22, 71
 Jelle, 2024-03-22, 213
 Dad, 2024-03-22, 60
-Rebecca Benest: 3-22-2024, 43
+Rebecca Benest, 2024-03-22, 43
 Anne Khazzam, 2024-03-22, 233
-Cecilia/John Perez/Hagist: 3-23-2024, 102
-Louise Thomassin: 3-23-2024, 133
-Sass Khazzam: 3-23-2024, 133
+John Hagist, 2024-03-23, 102
+Louise Thomassin, 2024-03-23, 133
+Sass Khazzam, 2024-03-23, 133
 Dad, 2024-03-23, 68
 Emma Khazzam, 2024-03-23, 168
 Jelle, 2024-03-23, 190
-Claire Samuels: 3-23-2024, 162
-Anusha Samarabandu: 3-23-2024, 41
-Rebecca Benest: 3-23-2024, 45
-Anne Khazzam: 3-23-2024, 59
+Claire Samuels, 2024-03-23, 162
+Anusha Samarabandu, 2024-03-23, 41
+Rebecca Benest, 2024-03-23, 45
+Anne Khazzam, 2024-03-23, 59
 Aaron Iny, 2024-03-23, 273
-David Khazzam: 3-23-2024, 54
+David Khazzam, 2024-03-23, 54
 Aaron Iny, 2024-03-24, 92
-Rebecca Benest: 3-24-2024, 208
+Rebecca Benest, 2024-03-24, 208
 Anne Khazzam, 2024-03-24, 101
 Jelle, 2024-03-24, 177
 Dad, 2024-03-24, 72
-Anusha Samarabandu: 3-24-2024, 50
-Cecilia/John Perez/Hagist: 3-24-2024, 230
+Anusha Samarabandu, 2024-03-24, 50
+John Hagist, 2024-03-24, 230
 Mom, 2024-03-25, 66
-David Khazzam: 3-25-2024, 28
-Claire Samuels: 3-25-2024, 39
-Cecilia/John Perez/Hagist: 3-25-2024, 140
+David Khazzam, 2024-03-25, 28
+Claire Samuels, 2024-03-25, 39
+John Hagist, 2024-03-25, 140
 Jelle, 2024-03-25, 31
-Tenzin Ary: 3-25-2024, 80
+Tenzin Ary, 2024-03-25, 80
 Emma Khazzam, 2024-03-25, 58
-Anusha Samarabandu: 3-25-2024, 33
-Jared Rabinovici: 3-25-2024, 16
+Anusha Samarabandu, 2024-03-25, 33
+Jared Rabinovici, 2024-03-25, 16
 Anne Khazzam, 2024-03-25, 45
-Rebecca Benest: 3-25-2024, 38
+Rebecca Benest, 2024-03-25, 38
 Nicolas Schneider, 2024-03-25, 85
 Dad, 2024-03-25, 49
-Louise Thomassin: 3-25-2024, 45
+Louise Thomassin, 2024-03-25, 45
 Malo Thomassin, 2024-03-25, 41
-Sass Khazzam: 3-25-2024, 35
+Sass Khazzam, 2024-03-25, 35
 Aaron Iny, 2024-03-25, 67
-Louise Thomassin: 3-26-2024, 66
-Anusha Samarabandu: 3-26-2024, 30
+Louise Thomassin, 2024-03-26, 66
+Anusha Samarabandu, 2024-03-26, 30
 Anne Khazzam, 2024-03-26, 104
-Claire Samuels: 3-26-2024, 133
-David Khazzam: 3-26-2024, 67
-Jared Rabinovici: 3-26-2024, 67
+Claire Samuels, 2024-03-26, 133
+David Khazzam, 2024-03-26, 67
+Jared Rabinovici, 2024-03-26, 67
 Dad, 2024-03-26, 47
-Sass Khazzam: 3-26-2024, 70
-Tenzin Ary: 3-27-2024, 108
+Sass Khazzam, 2024-03-26, 70
+Tenzin Ary, 2024-03-27, 108
 Malo Thomassin, 2024-03-27, 114
 Mom, 2024-03-27, 146
 Anne Khazzam, 2024-03-27, 67
 Jelle, 2024-03-27, 88
-Sass Khazzam: 3-27-2024, 81
-Rebecca Benest: 3-27-2024, 41
+Sass Khazzam, 2024-03-27, 81
+Rebecca Benest, 2024-03-27, 41
 Aaron Iny, 2024-03-27, 89
-Claire Samuels: 3-27-2024, 59
-David Khazzam: 3-27-2024, 41
+Claire Samuels, 2024-03-27, 59
+David Khazzam, 2024-03-27, 41
 Dad, 2024-03-27, 49
-Anusha Samarabandu: 3-27-2024, 35
-Tenzin Ary: 3-28-2024, 73
-Cecilia/John Perez/Hagist: 3-28-2024, 42
+Anusha Samarabandu, 2024-03-27, 35
+Tenzin Ary, 2024-03-28, 73
+John Hagist, 2024-03-28, 42
 Jelle, 2024-03-28, 37
-Claire Samuels: 3-28-2024, 36
-Jared Rabinovici: 3-28-2024, 36
+Claire Samuels, 2024-03-28, 36
+Jared Rabinovici, 2024-03-28, 36
 Anne Khazzam, 2024-03-28, 37
-Rebecca Benest: 3-28-2024, 33
-David Khazzam: 3-28-2024, 116
+Rebecca Benest, 2024-03-28, 33
+David Khazzam, 2024-03-28, 116
 Mom, 2024-03-28, 94
 Nicolas Schneider, 2024-03-28, 40
 Malo Thomassin, 2024-03-28, 791
 Dad, 2024-03-28, 48
-Rachel Brennan: 3-28-2024, 28
-Anusha Samarabandu: 3-28-2024, 48
-Anusha Samarabandu: 3-29-2024, 32
+Rachel Brennan, 2024-03-28, 28
+Anusha Samarabandu, 2024-03-28, 48
+Anusha Samarabandu, 2024-03-29, 32
 Anne Khazzam, 2024-03-29, 161
 Malo Thomassin, 2024-03-29, 123
-David Khazzam: 3-29-2024, 55
-Louise Thomassin: 3-29-2024, 102
-Rebecca Benest: 3-29-2024, 45
-Sass Khazzam: 3-29-2024, 91
+David Khazzam, 2024-03-29, 55
+Louise Thomassin, 2024-03-29, 102
+Rebecca Benest, 2024-03-29, 45
+Sass Khazzam, 2024-03-29, 91
 Dad, 2024-03-29, 67
-Claire Samuels: 3-29-2024, 73
-Cecilia/John Perez/Hagist: 3-29-2024, 144
+Claire Samuels, 2024-03-29, 73
+John Hagist, 2024-03-29, 144
 Jelle, 2024-03-29, 64
 Aaron Iny, 2024-03-29, 77
-Anusha Samarabandu: 3-30-2024, 195
-Cecilia/John Perez/Hagist: 3-30-2024, 209
+Anusha Samarabandu, 2024-03-30, 195
+John Hagist, 2024-03-30, 209
 Malo Thomassin, 2024-03-30, 237
 Aaron Iny, 2024-03-30, 196
 Jelle, 2024-03-30, 275
 Dad, 2024-03-30, 116
 Mom, 2024-03-30, 219
 Anne Khazzam, 2024-03-30, 127
-Rebecca Benest: 3-30-2024, 157
-Tenzin Ary: 3-31-2024, 25
+Rebecca Benest, 2024-03-30, 157
+Tenzin Ary, 2024-03-31, 25
 Dad, 2024-03-31, 26
 Mom, 2024-03-31, 54
 Jelle, 2024-03-31, 25
 Malo Thomassin, 2024-03-31, 51
-Anusha Samarabandu: 3-31-2024, 12
-David Khazzam: 3-31-2024, 24
+Anusha Samarabandu, 2024-03-31, 12
+David Khazzam, 2024-03-31, 24
 Nicolas Schneider, 2024-03-31, 53
-Claire Samuels: 3-31-2024, 28
-Louise Thomassin: 3-31-2024, 24
-Rachel Brennan: 3-31-2024, 22
+Claire Samuels, 2024-03-31, 28
+Louise Thomassin, 2024-03-31, 24
+Rachel Brennan, 2024-03-31, 22
 Aaron Iny, 2024-03-31, 34
-Rebecca Benest: 3-31-2024, 31
-Anne Khazzam: 3-31-2024, 28
-Louise Thomassin: 4-01-2024, 54
+Rebecca Benest, 2024-03-31, 31
+Anne Khazzam, 2024-03-31, 28
+Louise Thomassin, 2024-04-01, 54
 Jelle, 2024-04-01, 40
-Tenzin Ary: 4-1-2024, 117
-Cecilia/John Perez/Hagist: 3-31-2024, 79
+Tenzin Ary, 2024-04-01, 117
+John Hagist, 2024-03-31, 79
 Mom, 2024-04-01, 97
 Nicolas Schneider, 2024-04-01, 77
-Anusha Samarabandu: 4-01-2024, 34
-Claire Samuels: 4-01-2024, 48
+Anusha Samarabandu, 2024-04-01, 34
+Claire Samuels, 2024-04-01, 48
 Anne Khazzam, 2024-04-01, 33
 Dad, 2024-04-01, 57
-Rebecca Benest: 4-01-2024, 42
-David Khazzam: 4-01-2024, 36
-Cecilia/John Perez/Hagist: 4-01-2024, 73
+Rebecca Benest, 2024-04-01, 42
+David Khazzam, 2024-04-01, 36
+John Hagist, 2024-04-01, 73
 Aaron Iny, 2024-04-01, 49
-Sass Khazzam: 4-01-2024, 120
+Sass Khazzam, 2024-04-01, 120
 Malo Thomassin, 2024-04-01, 41
-Rebecca Benest: 4-02-2024, 46
-Louise Thomassin: 4-02-2024, 121
-Tenzin Ary: 4-2-2024, 69
-Anusha Samarabandu: 4-02-2024, 25
+Rebecca Benest, 2024-04-02, 46
+Louise Thomassin, 2024-04-02, 121
+Tenzin Ary, 2024-04-02, 69
+Anusha Samarabandu, 2024-04-02, 25
 Dad, 2024-04-02, 45
-Sass Khazzam: 4-02-2024, 97
+Sass Khazzam, 2024-04-02, 97
 Anne Khazzam, 2024-04-02, 44
-Claire Samuels: 4-02-2024, 56
-David Khazzam: 4-02-2024, 69
-Cecilia/John Perez/Hagist: 4-02-2024, 107
-Tenzin Ary: 4-3-2024, 66
-Louise Thomassin: 4-03-2024, 70
+Claire Samuels, 2024-04-02, 56
+David Khazzam, 2024-04-02, 69
+John Hagist, 2024-04-02, 107
+Tenzin Ary, 2024-04-03, 66
+Louise Thomassin, 2024-04-03, 70
 Anne Khazzam, 2024-04-03, 45
 David Khazzam, 2024-04-03, 74
-Anusha Samarabandu: 4-03-2024, 54
-Claire Samuels: 4-03-2024, 57
-Sass Khazzam: 4-03-2024, 76
+Anusha Samarabandu, 2024-04-03, 54
+Claire Samuels, 2024-04-03, 57
+Sass Khazzam, 2024-04-03, 76
 Jelle, 2024-04-03, 79
 Nicolas Schneider, 2024-04-03, 78
-Jared Rabinovici: 4-03-2024, 51
+Jared Rabinovici, 2024-04-03, 51
 Dad, 2024-04-03, 57
-Rebecca Benest: 4-03-2024, 30
+Rebecca Benest, 2024-04-03, 30
 Aaron Iny, 2024-04-03, 93
 Mom, 2024-04-03, 96
-Sass Khazzam: 4-04-2024, 78
-Claire Samuels: 4-04-2024, 130
-Anusha Samarabandu: 4-04-2024, 43
+Sass Khazzam, 2024-04-04, 78
+Claire Samuels, 2024-04-04, 130
+Anusha Samarabandu, 2024-04-04, 43
 Anne Khazzam, 2024-04-04, 56
-David Khazzam: 4-04-2024, 31
-Cecilia/John Perez/Hagist: 4-04-2024, 80
+David Khazzam, 2024-04-04, 31
+John Hagist, 2024-04-04, 80
 Nicolas Schneider, 2024-04-04, 57
-Jared Rabinovici: 4-04-2024, 38
+Jared Rabinovici, 2024-04-04, 38
 Dad, 2024-04-04, 57
 Aaron Iny, 2024-04-04, 73
 Malo Thomassin, 2024-04-04, 86
 Mom, 2024-04-04, 131
-Anusha Samarabandu: 4-05-2024, 45
+Anusha Samarabandu, 2024-04-05, 45
 Dad, 2024-04-05, 71
-Louise Thomassin: 4-05-2024, 79
-Rebecca Benest: 4-05-2024, 60
-Jared Rabinovici: 4-05-2024, 38
-David Khazzam: 4-05-2024, 91
+Louise Thomassin, 2024-04-05, 79
+Rebecca Benest, 2024-04-05, 60
+Jared Rabinovici, 2024-04-05, 38
+David Khazzam, 2024-04-05, 91
 Aaron Iny, 2024-04-05, 87
-Claire Samuels: 4-05-2024, 138
-Anusha Samarabandu: 4-06-2024, 78
+Claire Samuels, 2024-04-05, 138
+Anusha Samarabandu, 2024-04-06, 78
 Dad, 2024-04-06, 89
 Anne Khazzam, 2024-04-06, 65
 Nicolas Schneider, 2024-04-06, 103
-David Khazzam: 4-06-2024, 102
-Claire Samuels: 4-06-2024, 244
-Rebecca Benest: 4-06-2024, 36
-Jared Rabinovici: 4-06-2024, 67
-Sass Khazzam: 4-07-2024, 84
-Sass Khazzam: 4-06-2024, 250
-Anusha Samarabandu: 4-07-2024, 120
-Louise Thomassin: 4-07-2024, 92
+David Khazzam, 2024-04-06, 102
+Claire Samuels, 2024-04-06, 244
+Rebecca Benest, 2024-04-06, 36
+Jared Rabinovici, 2024-04-06, 67
+Sass Khazzam, 2024-04-07, 84
+Sass Khazzam, 2024-04-06, 250
+Anusha Samarabandu, 2024-04-07, 120
+Louise Thomassin, 2024-04-07, 92
 Jelle, 2024-04-07, 98
-David Khazzam: 4-07-2024, 26
-Jared Rabinovici: 4-07-2024, 45
+David Khazzam, 2024-04-07, 26
+Jared Rabinovici, 2024-04-07, 45
 Malo Thomassin, 2024-04-07, 90
 Dad, 2024-04-07, 69
 Anne Khazzam, 2024-04-07, 36
-Tenzin Ary: 4-7-2024, 132
-Rebecca Benest: 4-07-2024, 58
-Tenzin Ary: 4-8-2024, 61
-Louise Thomassin: 4-08-2024, 27
+Tenzin Ary, 2024-04-07, 132
+Rebecca Benest, 2024-04-07, 58
+Tenzin Ary, 2024-04-08, 61
+Louise Thomassin, 2024-04-08, 27
 Jelle, 2024-04-08, 27
 Nicolas Schneider, 2024-04-08, 53
-Anusha Samarabandu: 4-08-2024, 35
-David Khazzam: 4-08-2024, 22
-Cecilia/John Perez/Hagist: 4-08-2024, 71
-Anne Khazzam: 4-08-2024, 45
+Anusha Samarabandu, 2024-04-08, 35
+David Khazzam, 2024-04-08, 22
+John Hagist, 2024-04-08, 71
+Anne Khazzam, 2024-04-08, 45
 Malo Thomassin, 2024-04-08, 91
-Rachel Brennan: 4-8-2024, 29
-Claire Samuels: 4-08-2024, 38
-Rebecca Benest: 4-08-2024, 25
+Rachel Brennan, 2024-04-08, 29
+Claire Samuels, 2024-04-08, 38
+Rebecca Benest, 2024-04-08, 25
 Dad, 2024-04-08, 29
-Jared Rabinovici: 4-08-2024, 23
-Tenzin Ary: 4-9-2024, 64
-Louise Thomassin: 4-09-2024, 62
+Jared Rabinovici, 2024-04-08, 23
+Tenzin Ary, 2024-04-09, 64
+Louise Thomassin, 2024-04-09, 62
 Nicolas Schneider, 2024-04-09, 53
 Dad, 2024-04-09, 56
-David Khazzam: 4-09-2024, 28
+David Khazzam, 2024-04-09, 28
 Anne Khazzam, 2024-04-09, 119
-Anusha Samarabandu: 4-09-2024, 33
-Claire Samuels: 4-09-2024, 41
+Anusha Samarabandu, 2024-04-09, 33
+Claire Samuels, 2024-04-09, 41
 Jelle, 2024-04-09, 81
-Jared Rabinovici: 4-09-2024, 61
+Jared Rabinovici, 2024-04-09, 61
 Malo Thomassin, 2024-04-09, 81
-Sass Khazzam: 4-09-2024, 62
+Sass Khazzam, 2024-04-09, 62
 Mom, 2024-04-09, 103
-Cecilia/John Perez/Hagist: 4-10-2024, 152
-Louise Thomassin: 4-10-2024, 94
+John Hagist, 2024-04-10, 152
+Louise Thomassin, 2024-04-10, 94
 Nicolas Schneider, 2024-04-10, 91
 Julien., 2024-04-10, 158
-Anusha Samarabandu: 4-10-2024, 52
-Sass Khazzam: 4-10-2024, 66
+Anusha Samarabandu, 2024-04-10, 52
+Sass Khazzam, 2024-04-10, 66
 Anne Khazzam, 2024-04-10, 168
-David Khazzam: 4-10-2024, 47
+David Khazzam, 2024-04-10, 47
 Malo Thomassin, 2024-04-10, 136
-Tenzin Ary: 4-10-2024, 84
-Jared Rabinovici: 4-10-2024, 31
-Rebecca Benest: 4-10-2024, 43
-Claire Samuels: 4-10-2024, 58
+Tenzin Ary, 2024-04-10, 84
+Jared Rabinovici, 2024-04-10, 31
+Rebecca Benest, 2024-04-10, 43
+Claire Samuels, 2024-04-10, 58
 Dad, 2024-04-10, 58
-Tenzin Ary: 4-11-2024, 63
-Claire Samuels: 4-11-2024, 63
+Tenzin Ary, 2024-04-11, 63
+Claire Samuels, 2024-04-11, 63
 Malo Thomassin, 2024-04-11, 182
-Sass Khazzam: 4-11-2024, 91
-Anusha Samarabandu: 4-11-2024, 27
+Sass Khazzam, 2024-04-11, 91
+Anusha Samarabandu, 2024-04-11, 27
 Dad, 2024-04-11, 52
 Jelle, 2024-04-11, 67
 Anne Khazzam, 2024-04-11, 41
-Louise Thomassin: 4-11-2024, 39
+Louise Thomassin, 2024-04-11, 39
 Nicolas Schneider, 2024-04-11, 98
 Julien., 2024-04-11, 91
-David Khazzam: 4-11-2024, 35
-Rebecca Benest: 4-11-2024, 23
-Louise Thomassin: 4-12-2024, 96
+David Khazzam, 2024-04-11, 35
+Rebecca Benest, 2024-04-11, 23
+Louise Thomassin, 2024-04-12, 96
 Nicolas Schneider, 2024-04-12, 82
-Anusha Samarabandu: 4-12-2024, 53
+Anusha Samarabandu, 2024-04-12, 53
 Julien., 2024-04-12, 82
 Malo Thomassin, 2024-04-12, 63
 Mom, 2024-04-12, 123
-Cecilia/John Perez/Hagist: 4-12-2024, 69
+John Hagist, 2024-04-12, 69
 Dad, 2024-04-12, 53
-David Khazzam: 4-12-2024, 94
-Rebecca Benest: 4-12-2024, 22
+David Khazzam, 2024-04-12, 94
+Rebecca Benest, 2024-04-12, 22
 Anne Khazzam, 2024-04-12, 69
 Aaron Iny, 2024-04-12, 113
-Tenzin Ary: 4-12-2024, 76
-Claire Samuels: 4-12-2024, 52
-Tenzin Ary: 4-13-2024, 82
+Tenzin Ary, 2024-04-12, 76
+Claire Samuels, 2024-04-12, 52
+Tenzin Ary, 2024-04-13, 82
 Julien., 2024-04-13, 133
-David Khazzam: 4-13-2024, 93
+David Khazzam, 2024-04-13, 93
 Jonah Pagano, 2024-04-13, 82
 Anne Khazzam, 2024-04-13, 112
 Jelle, 2024-04-13, 122
-Jared Rabinovici: 4-13-2024, 82
-Rachel Brennan: 4-13-2024, 70
+Jared Rabinovici, 2024-04-13, 82
+Rachel Brennan, 2024-04-13, 70
 Dad, 2024-04-13, 97
-Rebecca Benest: 4-13-2024, 84
-Anusha Samarabandu: 4-13-2024, 61
-Claire Samuels: 4-13-2024, 84
-Louise Thomassin: 4-14-2024, 83
-Tenzin Ary: 4-14-2024, 64
+Rebecca Benest, 2024-04-13, 84
+Anusha Samarabandu, 2024-04-13, 61
+Claire Samuels, 2024-04-13, 84
+Louise Thomassin, 2024-04-14, 83
+Tenzin Ary, 2024-04-14, 64
 Malo Thomassin, 2024-04-14, 98
 Anne Khazzam, 2024-04-14, 48
-Anusha Samarabandu: 4-14-2024, 52
-Rachel Brennan: 4-14-2024, 29
-Rebecca Benest: 4-14-2024, 31
-David Khazzam: 4-14-2024, 34
+Anusha Samarabandu, 2024-04-14, 52
+Rachel Brennan, 2024-04-14, 29
+Rebecca Benest, 2024-04-14, 31
+David Khazzam, 2024-04-14, 34
 Nicolas Schneider, 2024-04-14, 72
-Rachel Brennan: 4-15-2024, 14
+Rachel Brennan, 2024-04-15, 14
 Dad, 2024-04-15, 46
-Cecilia/John Perez/Hagist: 4-15-2024, 80
-Louise Thomassin: 4-15-2024, 43
-Anusha Samarabandu: 4-15-2024, 24
+John Hagist, 2024-04-15, 80
+Louise Thomassin, 2024-04-15, 43
+Anusha Samarabandu, 2024-04-15, 24
 Aaron Iny, 2024-04-15, 96
 Anne Khazzam, 2024-04-15, 42
 Malo Thomassin, 2024-04-15, 108
 Nicolas Schneider, 2024-04-15, 52
-Claire Samuels: 4-15-2024, 55
-Sass Khazzam: 4-15-2024, 94
-David Khazzam: 4-15-2024, 28
-Rebecca Benest: 4-15-2024, 40
+Claire Samuels, 2024-04-15, 55
+Sass Khazzam, 2024-04-15, 94
+David Khazzam, 2024-04-15, 28
+Rebecca Benest, 2024-04-15, 40

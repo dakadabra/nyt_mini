@@ -1,3 +1,4 @@
+from datetime import datetime
 import re
 
 # Regular expression to match timestamps
@@ -29,9 +30,14 @@ def find_solve_time(text):
     # Find all lines matching the solved crossword time format
     match = re.search(crossword_time_regex, text)
     name = match[1]
-    date = match[2].replace("/", "-")
+    date = match[2]
+    # Convert to datetime object
+    date_object = datetime.strptime(date, "%m/%d/%Y")
+    # Convert datetime object to desired format
+    formatted_date = date_object.strftime("%Y-%m-%d")
     solve_time = match[3]
-    return name, date, solve_time
+    solve_time_in_seconds = time_to_seconds(solve_time)
+    return name, formatted_date, solve_time_in_seconds
 
 # Function to check if a piece of text matches a given format
 def check_format(text, format_regex):
@@ -63,14 +69,7 @@ with open("output_file.txt", "w") as output_file:
                         name, date, number = match.groups()
                         output_file.write(f"{name}, {date}, {number}\n")
                 elif format_name == "Crossword":
-                    # print("---"+text_between_timestamps+"---")
                     name, date, solve_time = find_solve_time(text_between_timestamps)
-                    solve_time_in_seconds = time_to_seconds(solve_time)
-                    output_file.write(f"{name}: {date}, {solve_time_in_seconds}\n")
-                elif format_name == "CustomFormat1":
-                    output_file.write(f"Custom format 1 matched between timestamps {timestamps[i]} and {timestamps[i+1]}: {text_between_timestamps}\n")
+                    output_file.write(f"{name}, {date}, {solve_time}\n")
                 # Add more conditions for other formats as needed
                 break  # Break the loop after the first match
-        # else:
-        #     # If no match is found, print a default message
-        #     output_file.write(f"No matching format found between timestamps {timestamps[i]} and {timestamps[i+1]}\n")
