@@ -2,7 +2,6 @@ from datetime import datetime
 import sys
 
 # TODO: remove duplicates
-# TODO: sort input
 
 # Check if a day is a saturday
 def is_saturday(date_string):
@@ -12,33 +11,43 @@ def is_saturday(date_string):
     # Check if the weekday is Saturday (5 represents Saturday)
     return date_object.weekday() == 5
 
-def get_average_time(input_text, cutoff_date):
+# sorts the scores acheieved by date
+def process_scores(input_text, cutoff_date):
+    lines = input_text.splitlines()
+    scores_struct = []
+    for line in lines:
+        parts = line.split(",")
+        name = parts[0].strip()  # Remove leading/trailing whitespaces
+        date = parts[1].strip()  # Remove leading/trailing whitespaces
+        time = int(parts[2].strip())  # Remove leading/trailing whitespaces and convert to integer
+        if cutoff_date <= date: # filter by cutoff date input argument
+            scores_struct.append((name, date, time))
+
+    sorted_list = sorted(scores_struct, key=lambda x: x[1])
+    return sorted_list
+
+# calculate each person's average non-saturday and saturday time
+def get_average_time(scores, cutoff_date):
     # Open a new file for writing output
     with open("text_files/averages.txt", "w") as output_file:
-
         dict = {}
-        lines = input_text.splitlines()
-        for line in lines:
-            parts = line.split(",")
-            name = parts[0].strip()  # Remove leading/trailing whitespaces
-            date = parts[1].strip()  # Remove leading/trailing whitespaces
-            time = int(parts[2].strip())  # Remove leading/trailing whitespaces and convert to integer
+        for score in scores:
+            name, date, time = score
             
-            if cutoff_date <= date: # filter by cutoff date input argument
-                if is_saturday(date):
-                    # third and forth list spots are for saturdays
-                    if name in dict:
-                        original_tuple = dict[name]
-                        dict[name] = (original_tuple[0], original_tuple[1], original_tuple[2] + time, original_tuple[3] + 1)
-                    else:
-                        dict[name] = (0, 0, time, 1)
+            if is_saturday(date):
+                # third and forth list spots are for saturdays
+                if name in dict:
+                    original_tuple = dict[name]
+                    dict[name] = (original_tuple[0], original_tuple[1], original_tuple[2] + time, original_tuple[3] + 1)
                 else:
-                    # first and second list spots are for non-saturdays
-                    if name in dict:
-                        original_tuple = dict[name]
-                        dict[name] = (original_tuple[0] + time, original_tuple[1] + 1, original_tuple[2], original_tuple[3])
-                    else:
-                        dict[name] = (time, 1, 0, 0)
+                    dict[name] = (0, 0, time, 1)
+            else:
+                # first and second list spots are for non-saturdays
+                if name in dict:
+                    original_tuple = dict[name]
+                    dict[name] = (original_tuple[0] + time, original_tuple[1] + 1, original_tuple[2], original_tuple[3])
+                else:
+                    dict[name] = (time, 1, 0, 0)
 
         averages_tuples = []
         for name, tuple in dict.items():
@@ -64,6 +73,7 @@ def get_average_time(input_text, cutoff_date):
         for score in sorted_list:
             output_file.write(f"{score[0]}, {score[3]}, {score[4]}\n")
 
+# calculate each person's average position compared to others' times
 def find_average_place(individualsDict):
     with open("text_files/average_placements.txt", "w") as output_file:
         output_file.write("Average placements per person:")
@@ -79,6 +89,7 @@ def find_average_place(individualsDict):
         for person, average in sorted_list:
             output_file.write(f"\n{person}, {average}")
 
+# find the number of times a person has come first for that day
 def find_number_of_firsts(individualsDict):
     with open("text_files/first_places.txt", "w") as output_file:
         output_file.write("Number of first place finishes per person:")
@@ -93,22 +104,20 @@ def find_number_of_firsts(individualsDict):
         for person, firstPlaces in sorted_list:
             output_file.write(f"\n{person}, {firstPlaces}")
 
-def analyze_placement_info(input_text, cutoff_date):
+# processes peoples' placement for each day to make other calculations easier
+def analyze_placement_info(scores, cutoff_date):
     individualsDict = {} # key is name, value is list of placements
     dayScoresList = []
-    lines = input_text.splitlines()
     currentDate = cutoff_date
-    for idx, line in enumerate(lines):
-        parts = line.split(",")
-        name = parts[0].strip()  # Remove leading/trailing whitespaces
-        date = parts[1].strip()  # Remove leading/trailing whitespaces
-        time = int(parts[2].strip())  # Remove leading/trailing whitespaces and convert to integer
-        
+
+    for idx, score in enumerate(scores):
+        name, date, time = score
+
         # add to current day which is being analyzed
-        if date == currentDate and idx != len(lines)-1:
+        if date == currentDate and idx != len(scores)-1:
             dayScoresList.append((name, time))
         # we have gone through all the stats for today
-        else: # TODO: This assumes all the results are in chronological order
+        else:
             sorted_list = sorted(dayScoresList, key=lambda x: x[1]) # TODO: fix ties so that both get the same placement
             for place, tuple in enumerate(sorted_list):
                 nameInTuple = tuple[0]
@@ -128,8 +137,9 @@ def main(cutoff_date = "2023-02-21"):
     with open("text_files/cleaned_data.txt", "r") as file:
         text = file.read()
 
-    get_average_time(text, cutoff_date)
-    analyze_placement_info(text, cutoff_date)
+    sorted_scores = process_scores(text, cutoff_date)
+    get_average_time(sorted_scores, cutoff_date)
+    analyze_placement_info(sorted_scores, cutoff_date)
 
 
 if __name__ == "__main__":
