@@ -1,7 +1,10 @@
 # nyt_mini
 Fun little side project to compare scores from our NYT Mini groupchat!
+**Running the scripts:**
+- First run filter.py
+- then run get_metrics.py, which takes an optional argument of the form year-month-day (ex. 2024-01-01), so only data after that date will be processed.
 
-Files:
+**Files:**
 - filter.py filters the raw chat data into cleaned_data.txt
 - get_metrics.py processes cleaned_data.txt into different files
 - average_placements.txt shows what position people get on average
