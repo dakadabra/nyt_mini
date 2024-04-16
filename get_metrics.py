@@ -10,7 +10,7 @@ def is_saturday(date_string):
 
 def get_average_time(input_text, cutoff_date):
     # Open a new file for writing output
-    with open("averages.txt", "w") as output_file:
+    with open("text_files/averages.txt", "w") as output_file:
 
         dict = {}
         lines = input_text.splitlines()
@@ -57,7 +57,7 @@ def get_average_time(input_text, cutoff_date):
             output_file.write(f"{score[0]}, {score[3]}, {score[4]}\n")
 
 def findAveragePlace(individualsDict):
-    with open("average_placements.txt", "w") as output_file:
+    with open("text_files/average_placements.txt", "w") as output_file:
         output_file.write("Average placements per person:")
         personAveragesList = []
         for person, placesList in individualsDict.items():
@@ -69,7 +69,7 @@ def findAveragePlace(individualsDict):
             output_file.write(f"\n{person}, {average}")
 
 def findNumberOfFirsts(individualsDict):
-    with open("first_places.txt", "w") as output_file:
+    with open("text_files/first_places.txt", "w") as output_file:
         output_file.write("Number of first place finishes per person:")
         firstPlacesList = []
         for person, placesList in individualsDict.items():
@@ -109,7 +109,7 @@ def numberOfFirstPlaces(input_text, cutoff_date):
 
 def main(cutoff_date = "2023-02-21"):
     # Read the input file
-    with open("cleaned_data.txt", "r") as file:
+    with open("text_files/cleaned_data.txt", "r") as file:
         text = file.read()
 
     get_average_time(text, cutoff_date)
