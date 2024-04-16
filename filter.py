@@ -51,7 +51,7 @@ with open("input_file.txt", "r") as file:
 timestamps = re.findall(timestamp_regex, text)
 
 # Open a new file for writing output
-with open("output_file.txt", "w") as output_file:
+with open("cleaned_data.txt", "w") as output_file:
     for i in range(len(timestamps)-1):
         # Get the text between two timestamps
         start_index = text.find(timestamps[i]) - 1

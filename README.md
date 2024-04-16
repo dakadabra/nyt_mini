@@ -1,2 +1,2 @@
 # nyt_mini
-Comparing NYT Mini scores
+Fun little side project to compare scores from our NYT Mini groupchat!
