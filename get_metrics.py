@@ -1,6 +1,9 @@
 from datetime import datetime
 import sys
 
+# TODO: remove duplicates
+# TODO: sort input
+
 # Check if a day is a saturday
 def is_saturday(date_string):
     # Parse the date string into a datetime object
@@ -95,30 +98,30 @@ def analyze_placement_info(input_text, cutoff_date):
     dayScoresList = []
     lines = input_text.splitlines()
     currentDate = cutoff_date
-    for line in lines:
+    for idx, line in enumerate(lines):
         parts = line.split(",")
         name = parts[0].strip()  # Remove leading/trailing whitespaces
         date = parts[1].strip()  # Remove leading/trailing whitespaces
         time = int(parts[2].strip())  # Remove leading/trailing whitespaces and convert to integer
         
         # add to current day which is being analyzed
-        if date == currentDate:
+        if date == currentDate and idx != len(lines)-1:
             dayScoresList.append((name, time))
         # we have gone through all the stats for today
         else: # TODO: This assumes all the results are in chronological order
             sorted_list = sorted(dayScoresList, key=lambda x: x[1]) # TODO: fix ties so that both get the same placement
             for place, tuple in enumerate(sorted_list):
-                name = tuple[0]
-                if name in individualsDict:
-                    individualsDict[name].append(place)
+                nameInTuple = tuple[0]
+                if nameInTuple in individualsDict:
+                    individualsDict[nameInTuple].append(place+1)
                 else:
-                    individualsDict[name] = [place]
+                    individualsDict[nameInTuple] = [place+1]
 
             currentDate = date
-            dayScoresList = []
-        
-        find_average_place(individualsDict)
-        find_number_of_firsts(individualsDict)
+            dayScoresList = [(name, time)]
+
+    find_average_place(individualsDict)
+    find_number_of_firsts(individualsDict)
 
 def main(cutoff_date = "2023-02-21"):
     # Read the input file

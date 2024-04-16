@@ -1,28 +1,28 @@
 Number of first place finishes per person:
-Dad, 69
-David Khazzam, 65
-Rebecca Benest, 60
-Anusha Samarabandu, 49
-Anne Khazzam, 40
-Claire Samuels, 21
-Jelle, 21
-Sass Khazzam, 19
-Jared Rabinovici, 12
-Jonah Pagano, 11
-Louise Thomassin, 10
-John Hagist, 10
-Emma Khazzam, 8
+David Khazzam, 90
+Rebecca Benest, 86
+Anusha Samarabandu, 85
+Dad, 49
+Sass Khazzam, 22
+Jared Rabinovici, 21
+Jelle, 19
+Anne Khazzam, 16
+Claire Samuels, 14
+Jonah Pagano, 12
+Rachel Brennan, 8
+Louise Thomassin, 6
 Aaron Iny, 6
-Alan Iny, 6
-Rachel Brennan, 4
-Tenzin Ary, 3
-Willow, 3
+Willow, 6
+John Hagist, 5
+Alan Iny, 4
 Mom, 3
-Shira Iny, 2
-Malo Thomassin, 1
+Alexis Villalobos, 2
+Marina Guadagnin, 2
+Tenzin Ary, 1
 Eden Jablon, 1
-Marina Guadagnin, 1
+Shira Iny, 1
 Julien., 0
 Nicolas Schneider, 0
+Malo Thomassin, 0
 Emma Cook, 0
-Alexis Villalobos, 0
+Emma Khazzam, 0
