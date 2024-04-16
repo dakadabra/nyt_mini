@@ -1,5 +1,6 @@
 from datetime import datetime
 import sys
+from plot_data import plot_data
 
 # TODO: remove duplicates
 
@@ -20,8 +21,9 @@ def process_scores(input_text, cutoff_date):
         name = parts[0].strip()  # Remove leading/trailing whitespaces
         date = parts[1].strip()  # Remove leading/trailing whitespaces
         time = int(parts[2].strip())  # Remove leading/trailing whitespaces and convert to integer
-        if cutoff_date <= date: # filter by cutoff date input argument
-            scores_struct.append((name, date, time))
+        if cutoff_date <= date: # filter by cutoff date input argument, 
+            if time <= 1200: # remove times that are over 20 minutes
+                scores_struct.append((name, date, time))
 
     sorted_list = sorted(scores_struct, key=lambda x: x[1])
     return sorted_list
@@ -121,6 +123,7 @@ def analyze_placement_info(scores, cutoff_date):
             sorted_list = sorted(dayScoresList, key=lambda x: x[1]) # TODO: fix ties so that both get the same placement
             for place, tuple in enumerate(sorted_list):
                 nameInTuple = tuple[0]
+
                 if nameInTuple in individualsDict:
                     individualsDict[nameInTuple].append(place+1)
                 else:
@@ -140,6 +143,7 @@ def main(cutoff_date = "2023-02-21"):
     sorted_scores = process_scores(text, cutoff_date)
     get_average_time(sorted_scores, cutoff_date)
     analyze_placement_info(sorted_scores, cutoff_date)
+    plot_data(sorted_scores)
 
 
 if __name__ == "__main__":

@@ -1,5 +1,6 @@
 Cutoff day: 2023-02-21
 Name, Average Time, Number of Times
+Jared Rabinovici, 45.57, 54
 Rachel Brennan, 49.25, 20
 Rebecca Benest, 56.11, 250
 Eden Jablon, 58.2, 10
@@ -12,6 +13,7 @@ David Khazzam, 78.18, 323
 Emma Cook, 80.67, 3
 Nicolas Schneider, 86.31, 26
 Tenzin Ary, 86.4, 55
+Jelle, 94.35, 268
 Anne Khazzam, 96.46, 280
 Willow, 98.0, 34
 Sass Khazzam, 101.69, 300
@@ -19,14 +21,12 @@ John Hagist, 107.95, 284
 Aaron Iny, 108.1, 211
 Julien., 110.33, 3
 Malo Thomassin, 114.8, 40
-Jared Rabinovici, 116.6, 55
-Jelle, 142.3, 269
+Emma Khazzam, 124.95, 132
 Shira Iny, 146.85, 26
 Mom, 166.17, 219
 Alexis Villalobos, 177.52, 21
 Alan Iny, 192.66, 61
 Marina Guadagnin, 193.88, 8
-Emma Khazzam, 359.4, 134
 
 Saturdays:
 Emma Cook, -1, 0

@@ -1,5 +1,5 @@
 Average placements per person:
-Jared Rabinovici, 2.75
+Jared Rabinovici, 2.66
 Rebecca Benest, 2.99
 Anusha Samarabandu, 3.27
 David Khazzam, 3.67
@@ -12,13 +12,13 @@ Willow, 4.92
 Claire Samuels, 5.37
 Louise Thomassin, 5.58
 Anne Khazzam, 5.64
-Jelle, 5.9
+Jelle, 5.89
 Alan Iny, 6.13
 Shira Iny, 6.31
 Sass Khazzam, 6.63
 John Hagist, 7.07
 Aaron Iny, 7.36
-Emma Khazzam, 7.8
+Emma Khazzam, 7.78
 Tenzin Ary, 7.98
 Emma Cook, 8.33
 Nicolas Schneider, 8.72
