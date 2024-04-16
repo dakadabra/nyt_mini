@@ -1,3 +1,12 @@
+from datetime import datetime
+
+def is_saturday(date_string):
+    # Parse the date string into a datetime object
+    date_object = datetime.strptime(date_string, "%Y-%m-%d")
+    
+    # Check if the weekday is Saturday (5 represents Saturday)
+    return date_object.weekday() == 5
+
 def get_average_time(input_text):
     dict = {}
     lines = input_text.splitlines()
@@ -7,19 +16,36 @@ def get_average_time(input_text):
         date = parts[1].strip()  # Remove leading/trailing whitespaces
         time = int(parts[2].strip())  # Remove leading/trailing whitespaces and convert to integer
         
-        if name in dict:
-            original_tuple = dict[name]
-            dict[name] = (original_tuple[0] + time, original_tuple[1] + 1)
+        if is_saturday(date):
+            if name in dict:
+                original_tuple = dict[name]
+                dict[name] = (original_tuple[0], original_tuple[1], original_tuple[2] + time, original_tuple[3] + 1)
+            else:
+                dict[name] = (0, 0, time, 1)
         else:
-            dict[name] = (time, 1)
+            if name in dict:
+                original_tuple = dict[name]
+                dict[name] = (original_tuple[0] + time, original_tuple[1] + 1, original_tuple[2], original_tuple[3])
+            else:
+                dict[name] = (time, 1, 0, 0)
     averages_tuples = []
     for name, tuple in dict.items():
-        averages_tuples.append((name, round(tuple[0] / tuple[1], 2)))
+        averages_tuples.append((name, round(tuple[0] / tuple[1] if tuple[1] != 0 else -1, 2),
+                                round(tuple[2] / tuple[3] if tuple[3] != 0 else -1, 2)))
 
     sorted_list = sorted(averages_tuples, key=lambda x: x[1])
 
     for score in sorted_list:
         output_file.write(f"{score[0]}, {score[1]}\n")
+
+    output_file.write("\nSaturdays:\n")
+
+    # Sort Saturdays
+    sorted_list = sorted(averages_tuples, key=lambda x: x[2])
+
+    for score in sorted_list:
+        output_file.write(f"{score[0]}, {score[2]}\n")
+    
 
 
 

@@ -1,27 +1,57 @@
-Rachel Brennan, 48.05
-Rebecca Benest, 62.44
-Anusha Samarabandu, 65.6
-Dad, 68.91
-Eden Jablon, 68.91
-Jonah Pagano, 75.9
-Louise Thomassin, 78.97
+Rachel Brennan, 43.21
+Rebecca Benest, 55.86
+Eden Jablon, 58.2
+Anusha Samarabandu, 58.33
+Dad, 61.38
+Jonah Pagano, 68.08
+Louise Thomassin, 72.56
+Claire Samuels, 74.06
+David Khazzam, 78.3
 Emma Cook, 80.67
-Claire Samuels, 82.84
-David Khazzam, 87.48
-Nicolas Schneider, 90.45
-Tenzin Ary, 96.05
-Anne Khazzam, 106.65
-Jared Rabinovici, 115.28
-Julien., 116.0
-Sass Khazzam, 116.33
-Willow, 117.45
-John Hagist, 118.61
-Malo Thomassin, 120.21
-Aaron Iny, 120.55
-Jelle, 152.77
-Shira Iny, 182.03
-Mom, 183.68
-Alexis Villalobos, 205.75
-Marina Guadagnin, 207.78
-Alan Iny, 215.44
-Emma Khazzam, 337.0
+Nicolas Schneider, 86.31
+Tenzin Ary, 86.89
+Anne Khazzam, 96.46
+Willow, 98.0
+Sass Khazzam, 101.69
+John Hagist, 107.98
+Aaron Iny, 108.1
+Julien., 110.33
+Malo Thomassin, 114.8
+Jared Rabinovici, 118.07
+Jelle, 142.3
+Shira Iny, 146.85
+Mom, 166.17
+Alexis Villalobos, 177.52
+Alan Iny, 192.66
+Marina Guadagnin, 193.88
+Emma Khazzam, 359.4
+
+
+Saturdays:
+Emma Cook, -1
+Rachel Brennan, 78.67
+Jared Rabinovici, 100.2
+Rebecca Benest, 101.5
+Anusha Samarabandu, 108.59
+Dad, 117.49
+Louise Thomassin, 121.44
+Nicolas Schneider, 126.33
+Jonah Pagano, 127.75
+Julien., 133.0
+Claire Samuels, 136.61
+David Khazzam, 140.3
+Tenzin Ary, 145.5
+Anne Khazzam, 166.06
+Eden Jablon, 176.0
+John Hagist, 187.0
+Malo Thomassin, 192.33
+Sass Khazzam, 206.0
+Aaron Iny, 208.1
+Jelle, 213.98
+Willow, 227.67
+Emma Khazzam, 229.79
+Mom, 307.35
+Marina Guadagnin, 319.0
+Shira Iny, 334.5
+Alan Iny, 369.89
+Alexis Villalobos, 403.33
