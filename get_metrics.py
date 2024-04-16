@@ -35,6 +35,8 @@ def get_average_time(input_text):
 
     sorted_list = sorted(averages_tuples, key=lambda x: x[1])
 
+    output_file.write("\Average Times:\n")
+
     for score in sorted_list:
         output_file.write(f"{score[0]}, {score[1]}\n")
 
