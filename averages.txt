@@ -1,57 +1,41 @@
-Rachel Brennan, 43.21
-Rebecca Benest, 55.86
-Eden Jablon, 58.2
-Anusha Samarabandu, 58.33
-Dad, 61.38
-Jonah Pagano, 68.08
-Louise Thomassin, 72.56
-Claire Samuels, 74.06
-David Khazzam, 78.3
-Emma Cook, 80.67
-Nicolas Schneider, 86.31
-Tenzin Ary, 86.89
-Anne Khazzam, 96.46
-Willow, 98.0
-Sass Khazzam, 101.69
-John Hagist, 107.98
-Aaron Iny, 108.1
-Julien., 110.33
-Malo Thomassin, 114.8
-Jared Rabinovici, 118.07
-Jelle, 142.3
-Shira Iny, 146.85
-Mom, 166.17
-Alexis Villalobos, 177.52
-Alan Iny, 192.66
-Marina Guadagnin, 193.88
-Emma Khazzam, 359.4
-
+Name, Average Time, Number of Times
+Jonah Pagano, -1, 0
+Rachel Brennan, 23.5, 4
+Rebecca Benest, 38.15, 13
+Jared Rabinovici, 41.0, 7
+Anusha Samarabandu, 42.73, 15
+David Khazzam, 46.27, 15
+Dad, 53.07, 14
+Jelle, 60.12, 8
+Claire Samuels, 64.38, 13
+Anne Khazzam, 66.79, 14
+Nicolas Schneider, 69.64, 11
+Louise Thomassin, 70.43, 14
+Tenzin Ary, 74.64, 11
+Aaron Iny, 77.75, 8
+Sass Khazzam, 85.9, 10
+John Hagist, 95.0, 9
+Malo Thomassin, 95.83, 12
+Mom, 100.67, 6
+Julien., 110.33, 3
 
 Saturdays:
-Emma Cook, -1
-Rachel Brennan, 78.67
-Jared Rabinovici, 100.2
-Rebecca Benest, 101.5
-Anusha Samarabandu, 108.59
-Dad, 117.49
-Louise Thomassin, 121.44
-Nicolas Schneider, 126.33
-Jonah Pagano, 127.75
-Julien., 133.0
-Claire Samuels, 136.61
-David Khazzam, 140.3
-Tenzin Ary, 145.5
-Anne Khazzam, 166.06
-Eden Jablon, 176.0
-John Hagist, 187.0
-Malo Thomassin, 192.33
-Sass Khazzam, 206.0
-Aaron Iny, 208.1
-Jelle, 213.98
-Willow, 227.67
-Emma Khazzam, 229.79
-Mom, 307.35
-Marina Guadagnin, 319.0
-Shira Iny, 334.5
-Alan Iny, 369.89
-Alexis Villalobos, 403.33
+Louise Thomassin, -1, 0
+Rachel Brennan, 70.0, 1
+Jared Rabinovici, 74.5, 2
+Tenzin Ary, 82.0, 1
+Jonah Pagano, 82.0, 1
+Rebecca Benest, 92.33, 3
+David Khazzam, 97.5, 2
+Dad, 100.67, 3
+Anne Khazzam, 101.33, 3
+Nicolas Schneider, 103.0, 1
+Anusha Samarabandu, 111.33, 3
+Julien., 133.0, 1
+Claire Samuels, 164.0, 2
+Aaron Iny, 196.0, 1
+Jelle, 198.5, 2
+John Hagist, 209.0, 1
+Mom, 219.0, 1
+Malo Thomassin, 237.0, 1
+Sass Khazzam, 250.0, 1
