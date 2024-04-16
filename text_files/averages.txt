@@ -1,25 +1,25 @@
 Cutoff day: 2023-02-21
 Name, Average Time, Number of Times
-Rachel Brennan, 43.21, 19
-Rebecca Benest, 55.86, 249
+Rachel Brennan, 49.25, 20
+Rebecca Benest, 56.11, 250
 Eden Jablon, 58.2, 10
 Anusha Samarabandu, 58.33, 219
-Dad, 61.38, 329
+Dad, 61.39, 330
 Jonah Pagano, 68.08, 53
-Louise Thomassin, 72.56, 106
+Louise Thomassin, 72.7, 107
 Claire Samuels, 74.06, 141
-David Khazzam, 78.3, 322
+David Khazzam, 78.18, 323
 Emma Cook, 80.67, 3
 Nicolas Schneider, 86.31, 26
-Tenzin Ary, 86.89, 54
+Tenzin Ary, 86.4, 55
 Anne Khazzam, 96.46, 280
 Willow, 98.0, 34
 Sass Khazzam, 101.69, 300
-John Hagist, 107.98, 283
+John Hagist, 107.95, 284
 Aaron Iny, 108.1, 211
 Julien., 110.33, 3
 Malo Thomassin, 114.8, 40
-Jared Rabinovici, 118.07, 54
+Jared Rabinovici, 116.6, 55
 Jelle, 142.3, 269
 Shira Iny, 146.85, 26
 Mom, 166.17, 219
