@@ -39,6 +39,7 @@ def get_average_time(input_text, cutoff_date):
 
         averages_tuples = []
         for name, tuple in dict.items():
+            # get average times for saturdays and non-saturdays, ensuring we don't divide by zero
             averages_tuples.append((name, round(tuple[0] / tuple[1] if tuple[1] != 0 else -1, 2), tuple[1], 
                                     round(tuple[2] / tuple[3] if tuple[3] != 0 else -1, 2), tuple[3]))
 
