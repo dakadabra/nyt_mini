@@ -41,6 +41,8 @@ def get_average_time(input_text, cutoff_date):
 
         sorted_list = sorted(averages_tuples, key=lambda x: x[1])
 
+        if cutoff_date:
+            output_file.write("Cutoff day: " + cutoff_date + "\n")
         output_file.write("Name, Average Time, Number of Times\n")
 
         for score in sorted_list:

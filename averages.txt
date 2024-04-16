@@ -1,41 +1,57 @@
 Name, Average Time, Number of Times
-Jonah Pagano, -1, 0
-Rachel Brennan, 23.5, 4
-Rebecca Benest, 38.15, 13
-Jared Rabinovici, 41.0, 7
-Anusha Samarabandu, 42.73, 15
-David Khazzam, 46.27, 15
-Dad, 53.07, 14
-Jelle, 60.12, 8
-Claire Samuels, 64.38, 13
-Anne Khazzam, 66.79, 14
-Nicolas Schneider, 69.64, 11
-Louise Thomassin, 70.43, 14
-Tenzin Ary, 74.64, 11
-Aaron Iny, 77.75, 8
-Sass Khazzam, 85.9, 10
-John Hagist, 95.0, 9
-Malo Thomassin, 95.83, 12
-Mom, 100.67, 6
+Rachel Brennan, 43.21, 19
+Rebecca Benest, 55.86, 249
+Eden Jablon, 58.2, 10
+Anusha Samarabandu, 58.33, 219
+Dad, 61.38, 329
+Jonah Pagano, 68.08, 53
+Louise Thomassin, 72.56, 106
+Claire Samuels, 74.06, 141
+David Khazzam, 78.3, 322
+Emma Cook, 80.67, 3
+Nicolas Schneider, 86.31, 26
+Tenzin Ary, 86.89, 54
+Anne Khazzam, 96.46, 280
+Willow, 98.0, 34
+Sass Khazzam, 101.69, 300
+John Hagist, 107.98, 283
+Aaron Iny, 108.1, 211
 Julien., 110.33, 3
+Malo Thomassin, 114.8, 40
+Jared Rabinovici, 118.07, 54
+Jelle, 142.3, 269
+Shira Iny, 146.85, 26
+Mom, 166.17, 219
+Alexis Villalobos, 177.52, 21
+Alan Iny, 192.66, 61
+Marina Guadagnin, 193.88, 8
+Emma Khazzam, 359.4, 134
 
 Saturdays:
-Louise Thomassin, -1, 0
-Rachel Brennan, 70.0, 1
-Jared Rabinovici, 74.5, 2
-Tenzin Ary, 82.0, 1
-Jonah Pagano, 82.0, 1
-Rebecca Benest, 92.33, 3
-David Khazzam, 97.5, 2
-Dad, 100.67, 3
-Anne Khazzam, 101.33, 3
-Nicolas Schneider, 103.0, 1
-Anusha Samarabandu, 111.33, 3
+Emma Cook, -1, 0
+Rachel Brennan, 78.67, 3
+Jared Rabinovici, 100.2, 10
+Rebecca Benest, 101.5, 42
+Anusha Samarabandu, 108.59, 37
+Dad, 117.49, 51
+Louise Thomassin, 121.44, 16
+Nicolas Schneider, 126.33, 3
+Jonah Pagano, 127.75, 8
 Julien., 133.0, 1
-Claire Samuels, 164.0, 2
-Aaron Iny, 196.0, 1
-Jelle, 198.5, 2
-John Hagist, 209.0, 1
-Mom, 219.0, 1
-Malo Thomassin, 237.0, 1
-Sass Khazzam, 250.0, 1
+Claire Samuels, 136.61, 23
+David Khazzam, 140.3, 56
+Tenzin Ary, 145.5, 10
+Anne Khazzam, 166.06, 48
+Eden Jablon, 176.0, 1
+John Hagist, 187.0, 44
+Malo Thomassin, 192.33, 3
+Sass Khazzam, 206.0, 49
+Aaron Iny, 208.1, 30
+Jelle, 213.98, 46
+Willow, 227.67, 6
+Emma Khazzam, 229.79, 28
+Mom, 307.35, 31
+Marina Guadagnin, 319.0, 1
+Shira Iny, 334.5, 6
+Alan Iny, 369.89, 9
+Alexis Villalobos, 403.33, 3
