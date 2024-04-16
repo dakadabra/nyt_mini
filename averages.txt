@@ -1,3 +1,4 @@
+Cutoff day: 2023-02-21
 Name, Average Time, Number of Times
 Rachel Brennan, 43.21, 19
 Rebecca Benest, 55.86, 249
