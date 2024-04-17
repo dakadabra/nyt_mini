@@ -13,13 +13,13 @@ David Khazzam, 78.18, 323
 Emma Cook, 80.67, 3
 Nicolas Schneider, 86.31, 26
 Tenzin Ary, 86.4, 55
-Jelle, 94.35, 268
-Anne Khazzam, 96.46, 280
-Willow, 98.0, 34
-Sass Khazzam, 101.69, 300
+Jelle van der Laan, 94.99, 269
+Willow Sharp, 98.0, 34
+Anne Khazzam, 98.1, 281
+Sass Khazzam, 101.53, 301
 John Hagist, 107.95, 284
-Aaron Iny, 108.1, 211
-Julien., 110.33, 3
+Aaron Iny, 107.99, 212
+Julien Palummo, 110.33, 3
 Malo Thomassin, 114.8, 40
 Emma Khazzam, 124.95, 132
 Shira Iny, 146.85, 26
@@ -38,7 +38,7 @@ Dad, 117.49, 51
 Louise Thomassin, 121.44, 16
 Nicolas Schneider, 126.33, 3
 Jonah Pagano, 127.75, 8
-Julien., 133.0, 1
+Julien Palummo, 133.0, 1
 Claire Samuels, 136.61, 23
 David Khazzam, 140.3, 56
 Tenzin Ary, 145.5, 10
@@ -48,8 +48,8 @@ John Hagist, 187.0, 44
 Malo Thomassin, 192.33, 3
 Sass Khazzam, 206.0, 49
 Aaron Iny, 208.1, 30
-Jelle, 213.98, 46
-Willow, 227.67, 6
+Jelle van der Laan, 213.98, 46
+Willow Sharp, 227.67, 6
 Emma Khazzam, 229.79, 28
 Mom, 307.35, 31
 Marina Guadagnin, 319.0, 1
