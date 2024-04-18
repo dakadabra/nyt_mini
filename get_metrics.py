@@ -120,10 +120,15 @@ def analyze_placement_info(scores, cutoff_date):
             dayScoresList.append((name, time))
         # we have gone through all the stats for today
         else:
-            sorted_list = sorted(dayScoresList, key=lambda x: x[1]) # TODO: fix ties so that both get the same placement
+            sorted_list = sorted(dayScoresList, key=lambda x: x[1])
             for place, tuple in enumerate(sorted_list):
-                nameInTuple = tuple[0]
-
+                nameInTuple, score = tuple
+                
+                # if was a twin
+                while place > 0 and score == sorted_list[place - 1][1]: # loop cause more than two people could've tied
+                    # then give them the same placement as their twin, that just happened to be sorted first
+                    place -= 1
+                
                 if nameInTuple in individualsDict:
                     individualsDict[nameInTuple].append(place+1)
                 else:
