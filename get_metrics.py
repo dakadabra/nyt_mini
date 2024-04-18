@@ -2,8 +2,6 @@ from datetime import datetime
 import sys
 from plot_data import plot_data
 
-# TODO: remove duplicates
-
 # Check if a day is a saturday
 def is_saturday(date_string):
     # Parse the date string into a datetime object

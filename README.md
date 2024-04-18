@@ -12,3 +12,7 @@ Fun little side project to compare scores from our NYT Mini groupchat!
 - first_places.txt shows how often people get first place
     It can be called with an input arg with the format year-month-day, so that only times after that date are analyzed
     - More metrics to come!
+
+**Some future ideas:**
+- Make a website so people can see and filter results
+- Make the plot mroe user-friendly
