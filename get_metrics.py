@@ -138,15 +138,29 @@ def analyze_placement_info(scores, cutoff_date):
     find_average_place(individualsDict)
     find_number_of_firsts(individualsDict)
 
+def count_times_occurences(sorted_scores, cutoff_date):
+    time_occurences_dict = {}
+    for score in sorted_scores:
+        time = score[2]
+        if time in time_occurences_dict:
+            time_occurences_dict[time] += 1
+        else:
+            time_occurences_dict[time] = 1
+    with open("text_files/time_occurences.txt", "w") as output_file:
+        output_file.write("Number of occurences for each time (cutoff date is "+ cutoff_date + "):\n")
+        for time in dict(sorted(time_occurences_dict.items())):
+            output_file.write("Time: " + str(time) + "   Occurence: " + str(time_occurences_dict[time]) + "\n")
+
 def main(cutoff_date = "2023-02-21"):
     # Read the input file
     with open("text_files/cleaned_data.txt", "r") as file:
         text = file.read()
 
-    sorted_scores = process_scores(text, cutoff_date)
+    sorted_scores = process_scores(text, cutoff_date) # format is [[name, date, time], ...]
     get_average_time(sorted_scores, cutoff_date)
     analyze_placement_info(sorted_scores, cutoff_date)
-    plot_data(sorted_scores)
+    count_times_occurences(sorted_scores, cutoff_date)
+    # plot_data(sorted_scores)
 
 
 if __name__ == "__main__":
