@@ -1,4 +1,4 @@
-Number of occurences for each time (Cutoff date is 2023-02-21):
+Number of occurences for each time (cutoff date is 2023-02-21):
 Time: 12   Occurence: 1
 Time: 13   Occurence: 1
 Time: 14   Occurence: 1

@@ -150,6 +150,10 @@ def count_times_occurences(sorted_scores, cutoff_date):
         output_file.write("Number of occurences for each time (cutoff date is "+ cutoff_date + "):\n")
         for time in dict(sorted(time_occurences_dict.items())):
             output_file.write("Time: " + str(time) + "   Occurence: " + str(time_occurences_dict[time]) + "\n")
+    with open("text_files/most_common_times.txt", "w") as output_file:
+        output_file.write("Times sorted by which is most common (cutoff date is "+ cutoff_date + "):\n")
+        for time in dict(sorted(time_occurences_dict.items(), key=lambda item: (item[1], item[0]), reverse=True)):
+            output_file.write("Occurence: " + str(time_occurences_dict[time]) + "    Time: " + str(time) +  "\n")
 
 def main(cutoff_date = "2023-02-21"):
     # Read the input file
