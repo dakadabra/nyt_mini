@@ -2,7 +2,7 @@ from datetime import datetime
 import re
 
 # Regular expression to match timestamps
-timestamp_regex = r"\[(\d{4}-\d{2}-\d{2}, \d{1,2}:\d{2}:\d{2} (?:AM|PM))\]"
+timestamp_regex = r"\[(\d{4}-\d{2}-\d{2}, \d{1,2}:\d{2}:\d{2}\s*[\u202f ]?[AP]M)\]"
 
 # Regular expression to get info from URLs
 url_search_regex = r"\[\d{4}-\d{2}-\d{2}, \d{1,2}:\d{2}:\d{2} (?:AM|PM)\] ~?\s*([^\s:]+(?: [^\s:]+)*)?:.*?d=(\d{4}-\d{2}-\d{2}).*?t=(\d+)&"
@@ -46,6 +46,12 @@ def check_format(text, format_regex):
 # Read the input file
 with open("text_files/raw_data.txt", "r") as file:
     text = file.read()
+
+    # Regular expression pattern to match narrow no-break space (U+202F)
+    # because some of the text had it, and it was messing up the code
+    narrow_no_break_space_regex = re.compile("\u202F")
+    # Replace narrow no-break space with regular space
+    text = narrow_no_break_space_regex.sub(" ", text)
 
 # Find all timestamps
 timestamps = re.findall(timestamp_regex, text)
