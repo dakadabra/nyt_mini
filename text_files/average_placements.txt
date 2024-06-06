@@ -1,28 +1,29 @@
 Average placements per person:
-Jared Rabinovici, 2.61
-Rebecca Benest, 2.97
-Anusha Samarabandu, 3.29
-David Khazzam, 3.69
-Dad, 3.75
+Jared Rabinovici, 2.67
+Rebecca Benest, 3.1
+Anusha Samarabandu, 3.16
+David Khazzam, 3.71
+Rachel Brennan, 3.73
 Marina Guadagnin, 3.78
-Rachel Brennan, 3.82
+Dad, 3.81
 Jonah Pagano, 4.03
 Eden Jablon, 4.36
 Willow Sharp, 4.85
-Claire Samuels, 5.37
-Anne Khazzam, 5.62
-Louise Thomassin, 5.85
-Jelle van der Laan, 5.97
+Claire Samuels, 5.35
+Anne Khazzam, 5.77
+Louise Thomassin, 5.84
+Jelle van der Laan, 6.08
 Alan Iny, 6.11
 Shira Iny, 6.28
-Sass Khazzam, 6.69
-John Hagist, 7.16
-Aaron Iny, 7.28
-Emma Khazzam, 7.75
+Sass Khazzam, 6.81
+John Hagist, 7.25
+Aaron Iny, 7.35
+Joe, 7.43
+Emma Khazzam, 7.8
 Emma Cook, 8.0
-Tenzin Ary, 8.08
-Nicolas Schneider, 8.75
-Mom, 8.96
-Malo Thomassin, 8.96
+Tenzin Ary, 8.22
+Nicolas Schneider, 8.74
+Mom, 9.0
+Malo Thomassin, 9.06
 Alexis Villalobos, 9.5
-Julien Palummo, 9.9
+Julien Palummo, 10.67
