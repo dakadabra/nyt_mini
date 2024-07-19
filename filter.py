@@ -44,7 +44,7 @@ def check_format(text, format_regex):
     return re.match(format_regex, text) is not None
 
 # Read the input file
-with open("text_files/raw_data.txt", "r") as file:
+with open("text_files/_chat.txt", "r") as file:
     text = file.read()
 
     # Regular expression pattern to match narrow no-break space (U+202F)

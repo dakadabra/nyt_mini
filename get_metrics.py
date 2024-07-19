@@ -1,6 +1,6 @@
 from datetime import datetime
 import sys
-from plot_data import plot_data
+# from plot_data import plot_data
 
 # Check if a day is a saturday
 def is_saturday(date_string):
