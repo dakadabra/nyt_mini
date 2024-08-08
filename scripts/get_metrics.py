@@ -29,7 +29,7 @@ def process_scores(input_text, cutoff_date):
 # calculate each person's average non-saturday and saturday time
 def get_average_time(scores, cutoff_date):
     # Open a new file for writing output
-    with open("text_files/averages.txt", "w") as output_file:
+    with open("../text_files/averages.txt", "w") as output_file:
         dict = {}
         for score in scores:
             name, date, time = score
@@ -75,7 +75,7 @@ def get_average_time(scores, cutoff_date):
 
 # calculate each person's average position compared to others' times
 def find_average_place(individualsDict):
-    with open("text_files/average_placements.txt", "w") as output_file:
+    with open("../text_files/average_placements.txt", "w") as output_file:
         output_file.write("Average placements per person:")
         personAveragesList = []
 
@@ -91,7 +91,7 @@ def find_average_place(individualsDict):
 
 # find the number of times a person has come first for that day
 def find_number_of_firsts(individualsDict):
-    with open("text_files/first_places.txt", "w") as output_file:
+    with open("../text_files/first_places.txt", "w") as output_file:
         output_file.write("Number of first place finishes per person:")
         firstPlacesList = []
         # count each person's number of times being first
@@ -146,18 +146,18 @@ def count_times_occurences(sorted_scores, cutoff_date):
             time_occurences_dict[time] += 1
         else:
             time_occurences_dict[time] = 1
-    with open("text_files/time_occurences.txt", "w") as output_file:
+    with open("../text_files/time_occurences.txt", "w") as output_file:
         output_file.write("Number of occurences for each time (cutoff date is "+ cutoff_date + "):\n")
         for time in dict(sorted(time_occurences_dict.items())):
             output_file.write("Time: " + str(time) + "   Occurence: " + str(time_occurences_dict[time]) + "\n")
-    with open("text_files/most_common_times.txt", "w") as output_file:
+    with open("../text_files/most_common_times.txt", "w") as output_file:
         output_file.write("Times sorted by which is most common (cutoff date is "+ cutoff_date + "):\n")
         for time in dict(sorted(time_occurences_dict.items(), key=lambda item: (item[1], item[0]), reverse=True)):
             output_file.write("Occurence: " + str(time_occurences_dict[time]) + "    Time: " + str(time) +  "\n")
 
 def main(cutoff_date = "2023-02-21"):
     # Read the input file
-    with open("text_files/cleaned_data.txt", "r") as file:
+    with open("../text_files/cleaned_data.txt", "r") as file:
         text = file.read()
 
     sorted_scores = process_scores(text, cutoff_date) # format is [[name, date, time], ...]
