@@ -15,4 +15,4 @@ Fun little side project to compare scores from our NYT Mini groupchat!
 
 **Some future ideas:**
 - Make a website so people can see and filter results
-- Make the plot mroe user-friendly# email_been_opened
+- Make the plot more user-friendly
