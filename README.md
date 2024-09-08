@@ -15,4 +15,5 @@ Fun little side project to compare scores from our NYT Mini groupchat!
 
 **Some future ideas:**
 - Make a website so people can see and filter results
+- Hide peoples's names
 - Make the plot more user-friendly
