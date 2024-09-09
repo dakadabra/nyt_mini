@@ -1,5 +1,7 @@
 from datetime import datetime
+from faker import Faker
 import sys
+
 # from plot_data import plot_data
 
 # Check if a day is a saturday
@@ -25,6 +27,15 @@ def process_scores(input_text, cutoff_date):
 
     sorted_list = sorted(scores_struct, key=lambda x: x[1])
     return sorted_list
+
+def anonymize_names(sorted_list):
+    Faker.seed(4321)
+    faker = Faker()
+    dict_names = {name: faker.name() for name in sorted_list.keys()}
+    print(dict_names)
+    #could hardcode names here if we wanted to
+    anonymized_sorted_list = {anon_name: sorted_list[real_name] for anon_name, real_name in dict_names.items()}
+    return anonymized_sorted_list
 
 # calculate each person's average non-saturday and saturday time
 def get_average_time(scores, cutoff_date):
@@ -161,10 +172,11 @@ def main(cutoff_date = "2023-02-21"):
         text = file.read()
 
     sorted_scores = process_scores(text, cutoff_date) # format is [[name, date, time], ...]
-    get_average_time(sorted_scores, cutoff_date)
-    analyze_placement_info(sorted_scores, cutoff_date)
-    count_times_occurences(sorted_scores, cutoff_date)
-    # plot_data(sorted_scores)
+    anon_sorted_scores = anonymize_names(sorted_scores)
+    get_average_time(anon_sorted_scores, cutoff_date)
+    analyze_placement_info(anon_sorted_scores, cutoff_date)
+    count_times_occurences(anon_sorted_scores, cutoff_date)
+    # plot_data(anon_sorted_scores)
 
 
 if __name__ == "__main__":
