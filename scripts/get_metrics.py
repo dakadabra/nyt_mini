@@ -29,12 +29,11 @@ def process_scores(input_text, cutoff_date):
     return sorted_list
 
 def anonymize_names(sorted_list):
-    Faker.seed(4321)
+    Faker.seed(1)
     faker = Faker()
-    dict_names = {name: faker.name() for name in sorted_list.keys()}
-    print(dict_names)
-    #could hardcode names here if we wanted to
-    anonymized_sorted_list = {anon_name: sorted_list[real_name] for anon_name, real_name in dict_names.items()}
+    dict_names = {name: faker.name() for name, _, _ in sorted_list}
+    #NOTE: Could hardcode names here if we wanted to
+    anonymized_sorted_list = [(dict_names[name], date, time) for name, date, time in sorted_list]
     return anonymized_sorted_list
 
 # calculate each person's average non-saturday and saturday time

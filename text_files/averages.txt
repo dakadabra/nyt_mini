@@ -1,60 +1,60 @@
 Cutoff day: 2023-02-21
 Name, Average Time, Number of Times
-Jared Rabinovici, 42.06, 98
-Rachel Brennan, 42.65, 52
-Rebecca Benest, 53.52, 343
-Anusha Samarabandu, 53.78, 332
-Eden Jablon, 58.2, 10
-Dad, 59.29, 431
-Joe, 64.0, 26
-Jonah Pagano, 68.08, 53
-Claire Samuels, 71.83, 169
-Louise Thomassin, 72.06, 216
-David Khazzam, 72.08, 425
-Emma Cook, 80.67, 3
-Nicolas Schneider, 81.25, 36
-Tenzin Ary, 82.51, 136
-Anne Khazzam, 91.38, 370
-Jelle van der Laan, 91.43, 358
-Julien Palummo, 95.0, 20
-Willow Sharp, 98.0, 34
-Sass Khazzam, 100.27, 381
-Aaron Iny, 101.96, 285
-John Hagist, 102.13, 343
-Malo Thomassin, 108.98, 49
-Emma Khazzam, 123.67, 135
-Shira Iny, 146.85, 26
-Mom, 156.16, 267
-Alexis Villalobos, 177.52, 21
-Alan Iny, 192.66, 61
-Marina Guadagnin, 193.88, 8
+Lisa Strong, 42.06, 98
+Linda Harmon, 42.65, 52
+Christina Moore, 53.52, 343
+Rachel Simon, 53.78, 332
+Marco Gardner, 58.2, 10
+Robert Davis, 59.29, 431
+Nancy Cameron, 64.0, 26
+Shane Shaw, 68.08, 53
+Mario Medina, 71.83, 169
+Robert Beasley, 72.06, 216
+Vanessa Blankenship, 72.08, 425
+Shane Gardner, 80.67, 3
+Wayne Donovan, 81.25, 36
+Aaron Morris, 82.51, 136
+Alexander Castillo, 91.38, 370
+Lindsey Chang, 91.43, 358
+Mrs. Emily Meadows, 95.0, 20
+Mary Thomas, 98.0, 34
+Sarah Newman, 100.27, 381
+Samantha Clements, 101.96, 285
+Paul Mccoy, 102.13, 343
+Marcus Haney, 108.98, 49
+Thomas Green, 123.67, 135
+David Stanton, 146.85, 26
+Crystal Jackson, 156.16, 267
+Ellen Anderson, 177.52, 21
+Randall Lee, 192.66, 61
+Jody Foster, 193.88, 8
 
 Saturdays:
-Emma Cook, -1, 0
-Rachel Brennan, 77.5, 4
-Jared Rabinovici, 95.65, 17
-Rebecca Benest, 96.12, 56
-Anusha Samarabandu, 109.02, 54
-Joe, 113.67, 3
-Dad, 114.25, 63
-Louise Thomassin, 121.69, 32
-Jonah Pagano, 127.75, 8
-Nicolas Schneider, 129.75, 4
-David Khazzam, 133.45, 66
-Claire Samuels, 139.96, 27
-Tenzin Ary, 152.35, 20
-Julien Palummo, 159.0, 2
-Anne Khazzam, 160.03, 60
-Eden Jablon, 176.0, 1
-John Hagist, 189.45, 51
-Sass Khazzam, 197.68, 63
-Aaron Iny, 201.03, 37
-Jelle van der Laan, 211.91, 57
-Malo Thomassin, 220.0, 5
-Willow Sharp, 227.67, 6
-Emma Khazzam, 228.8, 30
-Mom, 295.72, 36
-Marina Guadagnin, 319.0, 1
-Shira Iny, 334.5, 6
-Alan Iny, 369.89, 9
-Alexis Villalobos, 403.33, 3
+Shane Gardner, -1, 0
+Linda Harmon, 77.5, 4
+Lisa Strong, 95.65, 17
+Christina Moore, 96.12, 56
+Rachel Simon, 109.02, 54
+Nancy Cameron, 113.67, 3
+Robert Davis, 114.25, 63
+Robert Beasley, 121.69, 32
+Shane Shaw, 127.75, 8
+Wayne Donovan, 129.75, 4
+Vanessa Blankenship, 133.45, 66
+Mario Medina, 139.96, 27
+Aaron Morris, 152.35, 20
+Mrs. Emily Meadows, 159.0, 2
+Alexander Castillo, 160.03, 60
+Marco Gardner, 176.0, 1
+Paul Mccoy, 189.45, 51
+Sarah Newman, 197.68, 63
+Samantha Clements, 201.03, 37
+Lindsey Chang, 211.91, 57
+Marcus Haney, 220.0, 5
+Mary Thomas, 227.67, 6
+Thomas Green, 228.8, 30
+Crystal Jackson, 295.72, 36
+Jody Foster, 319.0, 1
+David Stanton, 334.5, 6
+Randall Lee, 369.89, 9
+Ellen Anderson, 403.33, 3
