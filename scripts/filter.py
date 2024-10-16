@@ -44,7 +44,7 @@ def check_format(text, format_regex):
     return re.match(format_regex, text) is not None
 
 # Read the input file
-with open("../text_files/_chat.txt", "r") as file:
+with open("text_files/_chat.txt", "r") as file:
     text = file.read()
 
     # Regular expression pattern to match narrow no-break space (U+202F)
@@ -57,7 +57,7 @@ with open("../text_files/_chat.txt", "r") as file:
 timestamps = re.findall(timestamp_regex, text)
 
 # Open a new file for writing output
-with open("../text_files/cleaned_data.txt", "w") as output_file:
+with open("text_files/cleaned_data.txt", "w") as output_file:
     for i in range(len(timestamps)-1):
         # Get the text between two timestamps
         start_index = text.find(timestamps[i]) - 1
